@@ -219,6 +219,8 @@ h1, h2, h3 { font-family: var(--display); font-weight: 600; letter-spacing: .01e
 .award-stat { font: 700 32px/1.1 var(--display); margin-top: 10px; }
 .award-stat .unit { font: 500 13px/1 var(--body); color: var(--muted); }
 .award-manager { font-weight: 600; margin-top: 2px; }
+.award-manager .team { display: block; font-weight: 400; }
+.standings td .team, .season-table td .team { display: block; }
 .award-detail { color: var(--muted); font-size: 14px; margin-top: 4px; }
 
 /* ── Scoreboard ──────────────────────────────────────────────────────── */

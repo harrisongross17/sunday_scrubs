@@ -6,6 +6,7 @@
     {
       "rank": 1,
       "manager": "Erik Iverson",
+      "team": "Njigbas in Paris",
       "division": "League Standings",
       "division_leader": true,
       "record": "2-0",
@@ -22,6 +23,7 @@
     {
       "rank": 2,
       "manager": "Kevin Mangus",
+      "team": "Tiger's Wood",
       "division": "League Standings",
       "division_leader": false,
       "record": "2-0",
@@ -38,6 +40,7 @@
     {
       "rank": 3,
       "manager": "Cayden Martin",
+      "team": "CmartDaDart",
       "division": "League Standings",
       "division_leader": false,
       "record": "1-1",
@@ -54,6 +57,7 @@
     {
       "rank": 4,
       "manager": "Joseph Calaway",
+      "team": "Sleeper Cells",
       "division": "League Standings",
       "division_leader": false,
       "record": "1-1",
@@ -70,6 +74,7 @@
     {
       "rank": 5,
       "manager": "Luis Barroso",
+      "team": "Don't call me Louis!",
       "division": "League Standings",
       "division_leader": false,
       "record": "1-1",
@@ -86,6 +91,7 @@
     {
       "rank": 6,
       "manager": "Collin Gibbs",
+      "team": "Mayeday",
       "division": "League Standings",
       "division_leader": false,
       "record": "1-1",
@@ -102,6 +108,7 @@
     {
       "rank": 7,
       "manager": "Camilo Gelvez",
+      "team": "GilberTeam",
       "division": "League Standings",
       "division_leader": false,
       "record": "1-1",
@@ -118,6 +125,7 @@
     {
       "rank": 8,
       "manager": "John Matheson",
+      "team": "john's Scary Team",
       "division": "League Standings",
       "division_leader": false,
       "record": "1-1",
@@ -134,6 +142,7 @@
     {
       "rank": 9,
       "manager": "Kyle Allen",
+      "team": "George Droyd",
       "division": "League Standings",
       "division_leader": false,
       "record": "0-2",
@@ -150,6 +159,7 @@
     {
       "rank": 10,
       "manager": "Andy Saliba",
+      "team": "Marino",
       "division": "League Standings",
       "division_leader": false,
       "record": "0-2",
@@ -168,12 +178,14 @@
     {
       "home": {
         "manager": "Kevin Mangus",
+        "team": "Tiger's Wood",
         "score": "111.42",
         "projected": "122.84",
         "record": "2-0"
       },
       "away": {
         "manager": "John Matheson",
+        "team": "john's Scary Team",
         "score": "65.10",
         "projected": "113.26",
         "record": "1-1"
@@ -187,12 +199,14 @@
     {
       "home": {
         "manager": "Joseph Calaway",
+        "team": "Sleeper Cells",
         "score": "133.82",
         "projected": "112.59",
         "record": "1-1"
       },
       "away": {
         "manager": "Cayden Martin",
+        "team": "CmartDaDart",
         "score": "160.50",
         "projected": "123.36",
         "record": "1-1"
@@ -204,12 +218,14 @@
     {
       "home": {
         "manager": "Collin Gibbs",
+        "team": "Mayeday",
         "score": "112.02",
         "projected": "120.85",
         "record": "1-1"
       },
       "away": {
         "manager": "Andy Saliba",
+        "team": "Marino",
         "score": "97.68",
         "projected": "125.58",
         "record": "0-2"
@@ -223,12 +239,14 @@
     {
       "home": {
         "manager": "Kyle Allen",
+        "team": "George Droyd",
         "score": "90.76",
         "projected": "120.51",
         "record": "0-2"
       },
       "away": {
         "manager": "Camilo Gelvez",
+        "team": "GilberTeam",
         "score": "115.56",
         "projected": "125.88",
         "record": "1-1"
@@ -240,12 +258,14 @@
     {
       "home": {
         "manager": "Erik Iverson",
+        "team": "Njigbas in Paris",
         "score": "179.18",
         "projected": "118.17",
         "record": "2-0"
       },
       "away": {
         "manager": "Luis Barroso",
+        "team": "Don't call me Louis!",
         "score": "112.18",
         "projected": "133.85",
         "record": "1-1"
@@ -265,7 +285,8 @@
       "manager": "Erik Iverson",
       "stat": "179.18",
       "unit": "pts",
-      "detail": "vs Luis Barroso"
+      "detail": "vs Don't call me Louis!",
+      "team": "Njigbas in Paris"
     },
     {
       "icon": "🪑",
@@ -273,7 +294,8 @@
       "manager": "John Matheson",
       "stat": "40.88",
       "unit": "pts left on bench",
-      "detail": "Optimal lineup: 105.98"
+      "detail": "Optimal lineup: 105.98",
+      "team": "john's Scary Team"
     },
     {
       "icon": "🍀",
@@ -281,7 +303,8 @@
       "manager": "Kevin Mangus",
       "stat": "111.42",
       "unit": "pts",
-      "detail": "Below the league median (112.10) and still beat John Matheson"
+      "detail": "Below the league median (112.10) and still beat john's Scary Team",
+      "team": "Tiger's Wood"
     },
     {
       "icon": "💔",
@@ -289,7 +312,8 @@
       "manager": "Joseph Calaway",
       "stat": "133.82",
       "unit": "pts",
-      "detail": "Highest losing score — fell to Cayden Martin"
+      "detail": "Highest losing score — fell to CmartDaDart",
+      "team": "Sleeper Cells"
     },
     {
       "icon": "⭐",
@@ -297,7 +321,8 @@
       "manager": "Erik Iverson",
       "stat": "42.50",
       "unit": "pts",
-      "detail": "Jaxon Smith-Njigba (WR), projected 18.49"
+      "detail": "Jaxon Smith-Njigba (WR), projected 18.49",
+      "team": "Njigbas in Paris"
     },
     {
       "icon": "🏆",
@@ -305,7 +330,8 @@
       "manager": "Erik Iverson",
       "stat": "179.18",
       "unit": "pts",
-      "detail": "Highest score"
+      "detail": "Highest score",
+      "team": "Njigbas in Paris"
     },
     {
       "icon": "🏆",
@@ -313,7 +339,8 @@
       "manager": "John Matheson",
       "stat": "65.10",
       "unit": "pts",
-      "detail": "Lowest score"
+      "detail": "Lowest score",
+      "team": "john's Scary Team"
     },
     {
       "icon": "🗑️",
@@ -321,7 +348,8 @@
       "manager": "Joseph Calaway",
       "stat": "5.60",
       "unit": "pts behind",
-      "detail": "Dropped Rachaad White (19.00 since) for Tyjae Spears (13.40) in week 1"
+      "detail": "Dropped Rachaad White (19.00 since) for Tyjae Spears (13.40) in week 1",
+      "team": "Sleeper Cells"
     }
   ],
   "moves": [
@@ -342,7 +370,8 @@
           "nfl": "LAR"
         }
       ],
-      "date": "Sat 9/26"
+      "date": "Sat 9/26",
+      "team": "Marino"
     },
     {
       "kind": "Free agent",
@@ -361,7 +390,8 @@
           "nfl": "MIA"
         }
       ],
-      "date": "Thu 9/24"
+      "date": "Thu 9/24",
+      "team": "GilberTeam"
     },
     {
       "kind": "Free agent",
@@ -380,7 +410,8 @@
           "nfl": "HOU"
         }
       ],
-      "date": "Thu 9/24"
+      "date": "Thu 9/24",
+      "team": "Sleeper Cells"
     },
     {
       "kind": "Free agent",
@@ -393,7 +424,8 @@
           "nfl": "TB"
         }
       ],
-      "date": "Thu 9/24"
+      "date": "Thu 9/24",
+      "team": "Marino"
     },
     {
       "kind": "Free agent",
@@ -412,7 +444,8 @@
           "nfl": "BAL"
         }
       ],
-      "date": "Thu 9/24"
+      "date": "Thu 9/24",
+      "team": "Tiger's Wood"
     },
     {
       "kind": "Free agent",
@@ -431,7 +464,8 @@
           "nfl": "ARI"
         }
       ],
-      "date": "Thu 9/24"
+      "date": "Thu 9/24",
+      "team": "Tiger's Wood"
     },
     {
       "kind": "Waiver",
@@ -450,7 +484,8 @@
           "nfl": "NYG"
         }
       ],
-      "date": "Thu 9/24"
+      "date": "Thu 9/24",
+      "team": "john's Scary Team"
     },
     {
       "kind": "Free agent",
@@ -469,7 +504,8 @@
           "nfl": "DEN"
         }
       ],
-      "date": "Thu 9/24"
+      "date": "Thu 9/24",
+      "team": "Don't call me Louis!"
     },
     {
       "kind": "Free agent",
@@ -488,7 +524,8 @@
           "nfl": "DEN"
         }
       ],
-      "date": "Thu 9/24"
+      "date": "Thu 9/24",
+      "team": "Don't call me Louis!"
     },
     {
       "kind": "Free agent",
@@ -507,7 +544,8 @@
           "nfl": "GB"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "Sleeper Cells"
     },
     {
       "kind": "Free agent",
@@ -526,7 +564,8 @@
           "nfl": "DET"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "CmartDaDart"
     },
     {
       "kind": "Waiver",
@@ -545,7 +584,8 @@
           "nfl": "SF"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "GilberTeam"
     },
     {
       "kind": "Waiver",
@@ -564,7 +604,8 @@
           "nfl": "TB"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "john's Scary Team"
     },
     {
       "kind": "Waiver",
@@ -583,7 +624,8 @@
           "nfl": "JAX"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "CmartDaDart"
     },
     {
       "kind": "Waiver",
@@ -602,7 +644,8 @@
           "nfl": "CHI"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "Don't call me Louis!"
     },
     {
       "kind": "Waiver",
@@ -621,7 +664,8 @@
           "nfl": "GB"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "Mayeday"
     },
     {
       "kind": "Waiver",
@@ -640,7 +684,8 @@
           "nfl": "BUF"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "GilberTeam"
     },
     {
       "kind": "Waiver",
@@ -659,7 +704,8 @@
           "nfl": "LAC"
         }
       ],
-      "date": "Wed 9/23"
+      "date": "Wed 9/23",
+      "team": "john's Scary Team"
     }
   ],
   "season_stats": {
@@ -670,42 +716,48 @@
         "label": "Most Points",
         "manager": "Erik Iverson",
         "stat": "309.04",
-        "detail": "154.52 per game"
+        "detail": "154.52 per game",
+        "team": "Njigbas in Paris"
       },
       {
         "icon": "🧱",
         "label": "Toughest Schedule",
         "manager": "Luis Barroso",
         "stat": "303.60",
-        "detail": "most points scored against"
+        "detail": "most points scored against",
+        "team": "Don't call me Louis!"
       },
       {
         "icon": "🔄",
         "label": "Most Waiver Moves",
         "manager": "Camilo Gelvez",
         "stat": "9",
-        "detail": "adds this season"
+        "detail": "adds this season",
+        "team": "GilberTeam"
       },
       {
         "icon": "🎯",
         "label": "Best Lineup Setter",
         "manager": "Erik Iverson",
         "stat": "91.9%",
-        "detail": "of possible points started"
+        "detail": "of possible points started",
+        "team": "Njigbas in Paris"
       },
       {
         "icon": "🪑",
         "label": "Most Left on Bench",
         "manager": "Camilo Gelvez",
         "stat": "75.10",
-        "detail": "points on the bench"
+        "detail": "points on the bench",
+        "team": "GilberTeam"
       },
       {
         "icon": "🍀",
         "label": "Luckiest Record",
         "manager": "Kevin Mangus",
         "stat": "+0.67",
-        "detail": "wins above expected · all-play 12-6"
+        "detail": "wins above expected · all-play 12-6",
+        "team": "Tiger's Wood"
       }
     ],
     "table": [
@@ -721,7 +773,8 @@
         "bench": "27.40",
         "efficiency": 91.9,
         "all_play": "15-3",
-        "luck": 0.33
+        "luck": 0.33,
+        "team": "Njigbas in Paris"
       },
       {
         "manager": "Cayden Martin",
@@ -735,7 +788,8 @@
         "bench": "35.50",
         "efficiency": 88.2,
         "all_play": "8-10",
-        "luck": 0.11
+        "luck": 0.11,
+        "team": "CmartDaDart"
       },
       {
         "manager": "Kevin Mangus",
@@ -749,7 +803,8 @@
         "bench": "24.60",
         "efficiency": 91.4,
         "all_play": "12-6",
-        "luck": 0.67
+        "luck": 0.67,
+        "team": "Tiger's Wood"
       },
       {
         "manager": "Joseph Calaway",
@@ -763,7 +818,8 @@
         "bench": "51.60",
         "efficiency": 83.3,
         "all_play": "11-7",
-        "luck": -0.22
+        "luck": -0.22,
+        "team": "Sleeper Cells"
       },
       {
         "manager": "Luis Barroso",
@@ -777,7 +833,8 @@
         "bench": "40.10",
         "efficiency": 86.4,
         "all_play": "13-5",
-        "luck": -0.44
+        "luck": -0.44,
+        "team": "Don't call me Louis!"
       },
       {
         "manager": "Collin Gibbs",
@@ -791,7 +848,8 @@
         "bench": "34.64",
         "efficiency": 87.2,
         "all_play": "9-9",
-        "luck": 0.0
+        "luck": 0.0,
+        "team": "Mayeday"
       },
       {
         "manager": "Camilo Gelvez",
@@ -805,7 +863,8 @@
         "bench": "75.10",
         "efficiency": 75.3,
         "all_play": "8-10",
-        "luck": 0.11
+        "luck": 0.11,
+        "team": "GilberTeam"
       },
       {
         "manager": "Kyle Allen",
@@ -819,7 +878,8 @@
         "bench": "31.40",
         "efficiency": 87.2,
         "all_play": "4-14",
-        "luck": -0.44
+        "luck": -0.44,
+        "team": "George Droyd"
       },
       {
         "manager": "Andy Saliba",
@@ -833,7 +893,8 @@
         "bench": "48.04",
         "efficiency": 81.4,
         "all_play": "3-15",
-        "luck": -0.33
+        "luck": -0.33,
+        "team": "Marino"
       },
       {
         "manager": "John Matheson",
@@ -847,7 +908,8 @@
         "bench": "54.98",
         "efficiency": 78.0,
         "all_play": "7-11",
-        "luck": 0.22
+        "luck": 0.22,
+        "team": "john's Scary Team"
       }
     ]
   },
@@ -855,22 +917,26 @@
     {
       "home": {
         "manager": "Joseph Calaway",
+        "team": "Sleeper Cells",
         "record": "1-1"
       },
       "away": {
         "manager": "Kevin Mangus",
+        "team": "Tiger's Wood",
         "record": "2-0"
       },
-      "series": "Joseph Calaway leads 2-0",
+      "series": "Sleeper Cells leads 2-0",
       "meetings": 2
     },
     {
       "home": {
         "manager": "John Matheson",
+        "team": "john's Scary Team",
         "record": "1-1"
       },
       "away": {
         "manager": "Collin Gibbs",
+        "team": "Mayeday",
         "record": "1-1"
       },
       "series": "First meeting",
@@ -879,22 +945,26 @@
     {
       "home": {
         "manager": "Cayden Martin",
+        "team": "CmartDaDart",
         "record": "1-1"
       },
       "away": {
         "manager": "Kyle Allen",
+        "team": "George Droyd",
         "record": "0-2"
       },
-      "series": "Kyle Allen leads 1-0",
+      "series": "George Droyd leads 1-0",
       "meetings": 1
     },
     {
       "home": {
         "manager": "Andy Saliba",
+        "team": "Marino",
         "record": "0-2"
       },
       "away": {
         "manager": "Erik Iverson",
+        "team": "Njigbas in Paris",
         "record": "2-0"
       },
       "series": "First meeting",
@@ -903,13 +973,15 @@
     {
       "home": {
         "manager": "Camilo Gelvez",
+        "team": "GilberTeam",
         "record": "1-1"
       },
       "away": {
         "manager": "Luis Barroso",
+        "team": "Don't call me Louis!",
         "record": "1-1"
       },
-      "series": "Camilo Gelvez leads 1-0",
+      "series": "GilberTeam leads 1-0",
       "meetings": 1
     }
   ]

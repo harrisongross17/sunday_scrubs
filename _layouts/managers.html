@@ -25,7 +25,7 @@ layout: default
     <tbody>
     {%- for p in L.managers %}
       <tr{% unless p.current %} class="former"{% endunless %}>
-        <td><a class="mgr" href="{{ '/managers/' | append: p.slug | append: '.html' | relative_url }}">{{ p.name }}</a>{% unless p.current %}<span class="team">former</span>{% endunless %}</td>
+        <td><a class="mgr" href="{{ '/managers/' | append: p.slug | append: '.html' | relative_url }}">{{ p.name }}</a>{% if p.team %}<span class="team">{{ p.team }}</span>{% endif %}{% unless p.current %}<span class="team">former</span>{% endunless %}</td>
         <td class="hide-sm muted">{{ p.years }}</td>
         <td class="record">{{ p.record }}</td>
         <td class="num">{{ p.win_pct }}%</td>

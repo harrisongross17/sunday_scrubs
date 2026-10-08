@@ -17,8 +17,11 @@ show_divisions: false
 divisions:
   {}
 
+# Main label on scorecards, standings and awards: "manager" or "team"
+primary_label: team
+
 # Show ESPN team names next to managers. Sites are public.
-show_team_names: false
+show_team_names: true
 
 plugins:
   - jekyll-feed

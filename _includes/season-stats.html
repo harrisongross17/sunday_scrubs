@@ -5,7 +5,7 @@
   <div class="award">
     <div class="award-head"><span class="award-icon">{{ a.icon }}</span><span class="award-label">{{ a.label }}</span></div>
     <div class="award-stat">{{ a.stat }}</div>
-    <div class="award-manager"><a class="mgr" href="{{ '/managers/' | append: ms | append: '.html' | relative_url }}">{{ a.manager }}</a></div>
+    <div class="award-manager"><a class="mgr" href="{{ '/managers/' | append: ms | append: '.html' | relative_url }}">{% if site.primary_label == "team" and a.team %}{{ a.team }}{% else %}{{ a.manager }}{% endif %}</a>{% if site.primary_label == "team" and a.team %}<span class="team">{{ a.manager }}</span>{% endif %}</div>
     <div class="award-detail">{{ a.detail }}</div>
   </div>
 {%- endfor %}
@@ -19,7 +19,7 @@
   {%- for r in ss.table %}
     {%- assign ms = r.manager | slugify %}
     <tr>
-      <td><a class="mgr" href="{{ '/managers/' | append: ms | append: '.html' | relative_url }}">{{ r.manager }}</a></td>
+      <td><a class="mgr" href="{{ '/managers/' | append: ms | append: '.html' | relative_url }}">{% if site.primary_label == "team" and r.team %}{{ r.team }}{% else %}{{ r.manager }}{% endif %}</a>{% if site.primary_label == "team" and r.team %}<span class="team">{{ r.manager }}</span>{% endif %}</td>
       <td class="num">{{ r.pf }}</td>
       <td class="num">{{ r.pa }}</td>
       <td class="num hide-sm">{{ r.avg }}</td>
