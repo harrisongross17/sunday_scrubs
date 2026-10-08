@@ -1,0 +1,568 @@
+{
+  "name": "John Matheson",
+  "slug": "john-matheson",
+  "current": true,
+  "first_season": 2026,
+  "last_season": 2026,
+  "seasons_played": 1,
+  "titles": [],
+  "runner_ups": [],
+  "playoff_appearances": 0,
+  "career": {
+    "record": "1-3",
+    "win_pct": 25.0,
+    "playoff_record": "0-0",
+    "ppg": "106.50"
+  },
+  "seasons": [
+    {
+      "year": 2026,
+      "record": "1-3",
+      "pf": "425.98",
+      "ppg": "106.50",
+      "finish": "In progress"
+    }
+  ],
+  "head_to_head": [
+    {
+      "opponent": "Andy Saliba",
+      "record": "1-0",
+      "win_pct": 100.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2026 wk 1: 129.96–112.76 W",
+      "current": true
+    },
+    {
+      "opponent": "Kevin Mangus",
+      "record": "0-1",
+      "win_pct": 0.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2026 wk 2: 65.10–111.42 L",
+      "current": true
+    },
+    {
+      "opponent": "Collin Gibbs",
+      "record": "0-1",
+      "win_pct": 0.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2026 wk 3: 85.14–93.30 L",
+      "current": true
+    },
+    {
+      "opponent": "Erik Iverson",
+      "record": "0-1",
+      "win_pct": 0.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2026 wk 4: 145.78–148.22 L",
+      "current": true
+    }
+  ],
+  "records": {
+    "best_score": {
+      "year": 2026,
+      "week": 4,
+      "score": "145.78",
+      "opp_score": "148.22",
+      "opp": "Erik Iverson",
+      "result": "L"
+    },
+    "worst_score": {
+      "year": 2026,
+      "week": 2,
+      "score": "65.10",
+      "opp_score": "111.42",
+      "opp": "Kevin Mangus",
+      "result": "L"
+    },
+    "biggest_win": {
+      "year": 2026,
+      "week": 1,
+      "score": "129.96",
+      "opp_score": "112.76",
+      "opp": "Andy Saliba",
+      "result": "W",
+      "margin": "17.20"
+    },
+    "worst_loss": {
+      "year": 2026,
+      "week": 2,
+      "score": "65.10",
+      "opp_score": "111.42",
+      "opp": "Kevin Mangus",
+      "result": "L",
+      "margin": "46.32"
+    },
+    "win_streak": {
+      "manager_name": "John Matheson",
+      "team_name": "",
+      "type": "win",
+      "length": 1,
+      "from": "2026 wk 1",
+      "to": "2026 wk 1"
+    },
+    "losing_streak": {
+      "manager_name": "John Matheson",
+      "team_name": "",
+      "type": "loss",
+      "length": 3,
+      "from": "2026 wk 2",
+      "to": "2026 wk 4"
+    }
+  },
+  "season": {
+    "year": 2026,
+    "through_week": 4,
+    "division": "League Standings",
+    "record": "1-3",
+    "rank": 9,
+    "power_rank": 8,
+    "power_change": 2,
+    "playoff_pct": 39.1,
+    "pf": "425.98",
+    "weeks": [
+      {
+        "week": 1,
+        "result": "W",
+        "score": "129.96",
+        "opp": "Andy Saliba",
+        "opp_score": "112.76",
+        "projected": "116.26",
+        "bench": "14.10",
+        "bar": 65
+      },
+      {
+        "week": 2,
+        "result": "L",
+        "score": "65.10",
+        "opp": "Kevin Mangus",
+        "opp_score": "111.42",
+        "projected": "113.26",
+        "bench": "40.88",
+        "bar": 33
+      },
+      {
+        "week": 3,
+        "result": "L",
+        "score": "85.14",
+        "opp": "Collin Gibbs",
+        "opp_score": "93.30",
+        "projected": "115.71",
+        "bench": "17.76",
+        "bar": 43
+      },
+      {
+        "week": 4,
+        "result": "L",
+        "score": "145.78",
+        "opp": "Erik Iverson",
+        "opp_score": "148.22",
+        "projected": "124.25",
+        "bench": "2.20",
+        "bar": 73
+      }
+    ],
+    "luck": {
+      "all_play_record": "14-22",
+      "expected_wins": 1.56,
+      "luck": -0.56,
+      "points_against_vs_league_avg": -22.34,
+      "wins_below_median": 0,
+      "losses_above_median": 1
+    },
+    "moves": [
+      {
+        "week": 5,
+        "date": "10/7",
+        "added": [
+          {
+            "name": "Will Reichard",
+            "pos": "K",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Tyler Loop",
+            "pos": "K",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "0.00"
+      },
+      {
+        "week": 5,
+        "date": "10/7",
+        "added": [
+          {
+            "name": "Giants D/ST",
+            "pos": "D/ST",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Ravens D/ST",
+            "pos": "D/ST",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "0.00"
+      },
+      {
+        "week": 4,
+        "date": "9/30",
+        "added": [
+          {
+            "name": "Tyler Loop",
+            "pos": "K",
+            "since": "8.00",
+            "started": "8.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Trey Smack",
+            "pos": "K",
+            "since": "7.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "1.00"
+      },
+      {
+        "week": 4,
+        "date": "9/30",
+        "added": [
+          {
+            "name": "Ravens D/ST",
+            "pos": "D/ST",
+            "since": "7.00",
+            "started": "7.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "49ers D/ST",
+            "pos": "D/ST",
+            "since": "5.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "2.00"
+      },
+      {
+        "week": 3,
+        "date": "9/24",
+        "added": [
+          {
+            "name": "49ers D/ST",
+            "pos": "D/ST",
+            "since": "5.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Giants D/ST",
+            "pos": "D/ST",
+            "since": "25.00",
+            "now_on": "john's Scary Team"
+          }
+        ],
+        "net": "-20.00"
+      },
+      {
+        "week": 3,
+        "date": "9/23",
+        "added": [
+          {
+            "name": "Giants D/ST",
+            "pos": "D/ST",
+            "since": "25.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Buccaneers D/ST",
+            "pos": "D/ST",
+            "since": "14.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "11.00"
+      },
+      {
+        "week": 3,
+        "date": "9/23",
+        "added": [
+          {
+            "name": "Trey Smack",
+            "pos": "K",
+            "since": "8.00",
+            "started": "1.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Cameron Dicker",
+            "pos": "K",
+            "since": "21.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "-13.00"
+      },
+      {
+        "week": 2,
+        "date": "9/20",
+        "added": [
+          {
+            "name": "Malachi Fields",
+            "pos": "WR",
+            "since": "22.10",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Woody Marks",
+            "pos": "RB",
+            "since": "25.80",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "-3.70"
+      },
+      {
+        "week": 2,
+        "date": "9/16",
+        "added": [
+          {
+            "name": "Buccaneers D/ST",
+            "pos": "D/ST",
+            "since": "18.00",
+            "started": "4.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Rams D/ST",
+            "pos": "D/ST",
+            "since": "23.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "-5.00"
+      }
+    ],
+    "trades": [],
+    "draft": [
+      {
+        "round": 1,
+        "overall": 3,
+        "player": "Puka Nacua",
+        "pos": "WR",
+        "points": "40.10",
+        "rank": "WR1 → WR31",
+        "value": -30,
+        "kept": true
+      },
+      {
+        "round": 2,
+        "overall": 18,
+        "player": "Brock Bowers",
+        "pos": "TE",
+        "points": "48.20",
+        "rank": "TE1 → TE8",
+        "value": -7,
+        "kept": true
+      },
+      {
+        "round": 3,
+        "overall": 23,
+        "player": "Malik Nabers",
+        "pos": "WR",
+        "points": "44.80",
+        "rank": "WR9 → WR24",
+        "value": -15,
+        "kept": true
+      },
+      {
+        "round": 4,
+        "overall": 38,
+        "player": "Quinshon Judkins",
+        "pos": "RB",
+        "points": "48.30",
+        "rank": "RB18 → RB20",
+        "value": -2,
+        "kept": true
+      },
+      {
+        "round": 5,
+        "overall": 43,
+        "player": "Lamar Jackson",
+        "pos": "QB",
+        "points": "79.08",
+        "rank": "QB2 → QB6",
+        "value": -4,
+        "kept": true
+      },
+      {
+        "round": 6,
+        "overall": 58,
+        "player": "D'Andre Swift",
+        "pos": "RB",
+        "points": "63.50",
+        "rank": "RB23 → RB12",
+        "value": 11,
+        "kept": true
+      },
+      {
+        "round": 7,
+        "overall": 63,
+        "player": "Luther Burden III",
+        "pos": "WR",
+        "points": "46.90",
+        "rank": "WR26 → WR21",
+        "value": 5,
+        "kept": true
+      },
+      {
+        "round": 8,
+        "overall": 78,
+        "player": "Rams D/ST",
+        "pos": "D/ST",
+        "points": "24.00",
+        "rank": "D/ST2 → D/ST5",
+        "value": -3,
+        "kept": false
+      },
+      {
+        "round": 9,
+        "overall": 83,
+        "player": "Brian Thomas Jr.",
+        "pos": "WR",
+        "points": "25.50",
+        "rank": "WR33 → WR44",
+        "value": -11,
+        "kept": true
+      },
+      {
+        "round": 10,
+        "overall": 98,
+        "player": "Matthew Stafford",
+        "pos": "QB",
+        "points": "61.66",
+        "rank": "QB11 → QB11",
+        "value": 0,
+        "kept": true
+      },
+      {
+        "round": 11,
+        "overall": 103,
+        "player": "Cameron Dicker",
+        "pos": "K",
+        "points": "24.00",
+        "rank": "K3 → K11",
+        "value": -8,
+        "kept": false
+      },
+      {
+        "round": 12,
+        "overall": 118,
+        "player": "Jacory Croskey-Merritt",
+        "pos": "RB",
+        "points": "30.70",
+        "rank": "RB37 → RB32",
+        "value": 5,
+        "kept": true
+      },
+      {
+        "round": 13,
+        "overall": 123,
+        "player": "Isaiah Likely",
+        "pos": "TE",
+        "points": "53.00",
+        "rank": "TE15 → TE4",
+        "value": 11,
+        "kept": true
+      },
+      {
+        "round": 14,
+        "overall": 138,
+        "player": "Xavier Worthy",
+        "pos": "WR",
+        "points": "33.30",
+        "rank": "WR52 → WR39",
+        "value": 13,
+        "kept": true
+      },
+      {
+        "round": 15,
+        "overall": 143,
+        "player": "Dalton Kincaid",
+        "pos": "TE",
+        "points": "46.00",
+        "rank": "TE16 → TE10",
+        "value": 6,
+        "kept": true
+      },
+      {
+        "round": 16,
+        "overall": 158,
+        "player": "Woody Marks",
+        "pos": "RB",
+        "points": "30.80",
+        "rank": "RB46 → RB31",
+        "value": 15,
+        "kept": false
+      }
+    ],
+    "injuries": [
+      {
+        "name": "D'Andre Swift",
+        "pos": "RB",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      },
+      {
+        "name": "Isaiah Likely",
+        "pos": "TE",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      },
+      {
+        "name": "Jacory Croskey-Merritt",
+        "pos": "RB",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      },
+      {
+        "name": "Lamar Jackson",
+        "pos": "QB",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      },
+      {
+        "name": "Malik Nabers",
+        "pos": "WR",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      }
+    ]
+  }
+}

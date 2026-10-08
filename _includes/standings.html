@@ -1,0 +1,26 @@
+<div class="table-wrap">
+<table class="standings{% if compact %} compact{% endif %}">
+  <thead>
+    <tr><th class="num">#</th><th>Manager</th>{% unless site.show_divisions == false %}<th class="hide-sm">Div</th>{% endunless %}<th>Record</th><th class="num">PF</th>{% unless compact %}<th class="num hide-sm">PA</th>{% endunless %}<th>Streak</th>{% unless compact %}<th class="hide-sm">Form</th><th class="num hide-sm">Power</th>{% endunless %}</tr>
+  </thead>
+  <tbody>
+  {%- for s in wd.standings %}
+    <tr>
+      <td class="num rank">{{ s.rank }}</td>
+      <td>{%- assign ms = s.manager | slugify -%}<a class="mgr" href="{{ '/managers/' | append: ms | append: '.html' | relative_url }}">{{ s.manager }}</a>{% if site.show_team_names %}{% unless compact %}<span class="team">{{ s.team }}</span>{% endunless %}{% endif %}</td>
+      {%- unless site.show_divisions == false %}
+      <td class="hide-sm">{%- assign dv = site.divisions[s.division] -%}<span class="div"{% if dv %} style="background: {{ dv.bg }}; color: {{ dv.fg }};{% if dv.border %} border: 1px solid {{ dv.border }};{% endif %}"{% endif %}>{{ s.division }}</span>{% if s.division_leader %}<span class="leader" title="Division leader">★</span>{% endif %}</td>
+      {%- endunless %}
+      <td class="record">{{ s.record }}</td>
+      <td class="num">{{ s.pf }}</td>
+      {%- unless compact %}<td class="num hide-sm muted">{{ s.pa }}</td>{% endunless %}
+      <td><span class="streak streak-{{ s.streak | slice: 0 }}">{{ s.streak }}</span></td>
+      {%- unless compact %}
+      <td class="hide-sm"><span class="form">{% for r in s.form %}<i class="dot dot-{{ r }}" title="{{ r }}"></i>{% endfor %}</span></td>
+      <td class="num hide-sm">{{ s.power_rank }}{% if s.power_change > 0 %}<span class="up"> ▲{{ s.power_change }}</span>{% elsif s.power_change < 0 %}<span class="down"> ▼{{ s.power_change | abs }}</span>{% endif %}</td>
+      {%- endunless %}
+    </tr>
+  {%- endfor %}
+  </tbody>
+</table>
+</div>

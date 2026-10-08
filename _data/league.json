@@ -1,0 +1,167 @@
+{
+  "managers": [
+    {
+      "name": "Erik Iverson",
+      "slug": "erik-iverson",
+      "current": true,
+      "years": "2026–now",
+      "seasons": 1,
+      "record": "3-1",
+      "win_pct": 75.0,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Collin Gibbs",
+      "slug": "collin-gibbs",
+      "current": true,
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "11-7",
+      "win_pct": 61.1,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Joseph Calaway",
+      "slug": "joseph-calaway",
+      "current": true,
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "11-7",
+      "win_pct": 61.1,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Kyle Allen",
+      "slug": "kyle-allen",
+      "current": true,
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "11-7",
+      "win_pct": 61.1,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Camilo Gelvez",
+      "slug": "camilo-gelvez",
+      "current": true,
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "11-7",
+      "win_pct": 61.1,
+      "titles": 1,
+      "title_years": [
+        2025
+      ]
+    },
+    {
+      "name": "Kevin Mangus",
+      "slug": "kevin-mangus",
+      "current": true,
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "9-9",
+      "win_pct": 50.0,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Luis Barroso",
+      "slug": "luis-barroso",
+      "current": true,
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "7-11",
+      "win_pct": 38.9,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Cayden Martin",
+      "slug": "cayden-martin",
+      "current": true,
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "6-12",
+      "win_pct": 33.3,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Andy Saliba",
+      "slug": "andy-saliba",
+      "current": true,
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "6-12",
+      "win_pct": 33.3,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "John Matheson",
+      "slug": "john-matheson",
+      "current": true,
+      "years": "2026–now",
+      "seasons": 1,
+      "record": "1-3",
+      "win_pct": 25.0,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Ryan Bormann",
+      "slug": "ryan-bormann",
+      "current": false,
+      "years": "2025–2025",
+      "seasons": 1,
+      "record": "8-6",
+      "win_pct": 57.1,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Chris Mangus",
+      "slug": "chris-mangus",
+      "current": false,
+      "years": "2025–2025",
+      "seasons": 1,
+      "record": "7-7",
+      "win_pct": 50.0,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Dane Spencer",
+      "slug": "dane-spencer",
+      "current": false,
+      "years": "2025–2025",
+      "seasons": 1,
+      "record": "7-7",
+      "win_pct": 50.0,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Chas Thompson",
+      "slug": "chas-thompson",
+      "current": false,
+      "years": "2025–2025",
+      "seasons": 1,
+      "record": "6-8",
+      "win_pct": 42.9,
+      "titles": 0,
+      "title_years": []
+    }
+  ],
+  "champions": [
+    {
+      "year": 2025,
+      "champion": "Camilo Gelvez",
+      "runner_up": "Kyle Allen"
+    }
+  ]
+}

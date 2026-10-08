@@ -1,0 +1,717 @@
+{
+  "name": "Camilo Gelvez",
+  "slug": "camilo-gelvez",
+  "current": true,
+  "first_season": 2025,
+  "last_season": 2026,
+  "seasons_played": 2,
+  "titles": [
+    2025
+  ],
+  "runner_ups": [],
+  "playoff_appearances": 1,
+  "career": {
+    "record": "11-7",
+    "win_pct": 61.1,
+    "playoff_record": "2-0",
+    "ppg": "116.29"
+  },
+  "seasons": [
+    {
+      "year": 2026,
+      "record": "1-3",
+      "pf": "438.12",
+      "ppg": "109.53",
+      "finish": "In progress"
+    },
+    {
+      "year": 2025,
+      "record": "10-4",
+      "pf": "1655.08",
+      "ppg": "118.22",
+      "finish": "Champion"
+    }
+  ],
+  "head_to_head": [
+    {
+      "opponent": "Andy Saliba",
+      "record": "1-2",
+      "win_pct": 33.3,
+      "meetings": 3,
+      "playoff_meetings": 0,
+      "last": "2026 wk 4: 89.32–96.52 L",
+      "current": true
+    },
+    {
+      "opponent": "Joseph Calaway",
+      "record": "2-1",
+      "win_pct": 66.7,
+      "meetings": 3,
+      "playoff_meetings": 0,
+      "last": "2026 wk 1: 113.82–122.86 L",
+      "current": true
+    },
+    {
+      "opponent": "Kyle Allen",
+      "record": "3-0",
+      "win_pct": 100.0,
+      "meetings": 3,
+      "playoff_meetings": 1,
+      "last": "2026 wk 2: 115.56–90.76 W",
+      "current": true
+    },
+    {
+      "opponent": "Luis Barroso",
+      "record": "1-1",
+      "win_pct": 50.0,
+      "meetings": 2,
+      "playoff_meetings": 0,
+      "last": "2026 wk 3: 119.42–144.44 L",
+      "current": true
+    },
+    {
+      "opponent": "Cayden Martin",
+      "record": "1-0",
+      "win_pct": 100.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2025 wk 5: 148.12–133.58 W",
+      "current": true
+    },
+    {
+      "opponent": "Kevin Mangus",
+      "record": "0-1",
+      "win_pct": 0.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2025 wk 7: 141.44–144.70 L",
+      "current": true
+    },
+    {
+      "opponent": "Collin Gibbs",
+      "record": "1-0",
+      "win_pct": 100.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2025 wk 10: 120.90–87.24 W",
+      "current": true
+    },
+    {
+      "opponent": "Dane Spencer",
+      "record": "1-1",
+      "win_pct": 50.0,
+      "meetings": 2,
+      "playoff_meetings": 0,
+      "last": "2025 wk 14: 81.94–112.68 L",
+      "current": false
+    },
+    {
+      "opponent": "Chris Mangus",
+      "record": "1-1",
+      "win_pct": 50.0,
+      "meetings": 2,
+      "playoff_meetings": 1,
+      "last": "2025 wk 16: 133.76–129.42 W",
+      "current": false
+    },
+    {
+      "opponent": "Chas Thompson",
+      "record": "1-0",
+      "win_pct": 100.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2025 wk 4: 114.22–113.12 W",
+      "current": false
+    },
+    {
+      "opponent": "Ryan Bormann",
+      "record": "1-0",
+      "win_pct": 100.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2025 wk 9: 124.46–97.56 W",
+      "current": false
+    }
+  ],
+  "records": {
+    "best_score": {
+      "year": 2025,
+      "week": 11,
+      "score": "149.62",
+      "opp_score": "98.46",
+      "opp": "Kyle Allen",
+      "result": "W"
+    },
+    "worst_score": {
+      "year": 2025,
+      "week": 8,
+      "score": "76.92",
+      "opp_score": "75.82",
+      "opp": "Luis Barroso",
+      "result": "W"
+    },
+    "biggest_win": {
+      "year": 2025,
+      "week": 11,
+      "score": "149.62",
+      "opp_score": "98.46",
+      "opp": "Kyle Allen",
+      "result": "W",
+      "margin": "51.16"
+    },
+    "worst_loss": {
+      "year": 2025,
+      "week": 14,
+      "score": "81.94",
+      "opp_score": "112.68",
+      "opp": "Dane Spencer",
+      "result": "L",
+      "margin": "30.74"
+    },
+    "win_streak": {
+      "manager_name": "Camilo Gelvez",
+      "team_name": "",
+      "type": "win",
+      "length": 5,
+      "from": "2025 wk 1",
+      "to": "2025 wk 5"
+    },
+    "losing_streak": {
+      "manager_name": "Camilo Gelvez",
+      "team_name": "",
+      "type": "loss",
+      "length": 2,
+      "from": "2025 wk 6",
+      "to": "2025 wk 7"
+    }
+  },
+  "season": {
+    "year": 2026,
+    "through_week": 4,
+    "division": "League Standings",
+    "record": "1-3",
+    "rank": 8,
+    "power_rank": 9,
+    "power_change": -1,
+    "playoff_pct": 41.1,
+    "pf": "438.12",
+    "weeks": [
+      {
+        "week": 1,
+        "result": "L",
+        "score": "113.82",
+        "opp": "Joseph Calaway",
+        "opp_score": "122.86",
+        "projected": "128.26",
+        "bench": "57.80",
+        "bar": 57
+      },
+      {
+        "week": 2,
+        "result": "W",
+        "score": "115.56",
+        "opp": "Kyle Allen",
+        "opp_score": "90.76",
+        "projected": "125.88",
+        "bench": "17.30",
+        "bar": 58
+      },
+      {
+        "week": 3,
+        "result": "L",
+        "score": "119.42",
+        "opp": "Luis Barroso",
+        "opp_score": "144.44",
+        "projected": "126.24",
+        "bench": "14.40",
+        "bar": 60
+      },
+      {
+        "week": 4,
+        "result": "L",
+        "score": "89.32",
+        "opp": "Andy Saliba",
+        "opp_score": "96.52",
+        "projected": "126.71",
+        "bench": "52.60",
+        "bar": 45
+      }
+    ],
+    "luck": {
+      "all_play_record": "11-25",
+      "expected_wins": 1.22,
+      "luck": -0.22,
+      "points_against_vs_league_avg": -33.46,
+      "wins_below_median": 0,
+      "losses_above_median": 0
+    },
+    "moves": [
+      {
+        "week": 5,
+        "date": "10/7",
+        "added": [
+          {
+            "name": "Dak Prescott",
+            "pos": "QB",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Darren Waller",
+            "pos": "TE",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "0.00"
+      },
+      {
+        "week": 4,
+        "date": "9/30",
+        "added": [
+          {
+            "name": "Darren Waller",
+            "pos": "TE",
+            "since": "6.60",
+            "started": "6.60"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Kaelon Black",
+            "pos": "RB",
+            "since": "1.30",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "5.30"
+      },
+      {
+        "week": 4,
+        "date": "9/30",
+        "added": [
+          {
+            "name": "Ollie Gordon II",
+            "pos": "RB",
+            "since": "18.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Rome Odunze",
+            "pos": "WR",
+            "since": "15.40",
+            "now_on": "Mayeday"
+          }
+        ],
+        "net": "2.60"
+      },
+      {
+        "week": 3,
+        "date": "9/24",
+        "added": [
+          {
+            "name": "Rome Odunze",
+            "pos": "WR",
+            "since": "22.80",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Caleb Douglas",
+            "pos": "WR",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "22.80"
+      },
+      {
+        "week": 3,
+        "date": "9/23",
+        "added": [
+          {
+            "name": "Vikings D/ST",
+            "pos": "D/ST",
+            "since": "29.00",
+            "started": "29.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "49ers D/ST",
+            "pos": "D/ST",
+            "since": "5.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "24.00"
+      },
+      {
+        "week": 3,
+        "date": "9/23",
+        "added": [
+          {
+            "name": "Spencer Shrader",
+            "pos": "K",
+            "since": "33.00",
+            "started": "33.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Tyler Bass",
+            "pos": "K",
+            "since": "14.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "19.00"
+      },
+      {
+        "week": 2,
+        "date": "9/20",
+        "added": [
+          {
+            "name": "Alvin Kamara",
+            "pos": "RB",
+            "since": "35.10",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Baker Mayfield",
+            "pos": "QB",
+            "since": "23.46",
+            "now_on": "Marino"
+          }
+        ],
+        "net": "11.64"
+      },
+      {
+        "week": 2,
+        "date": "9/17",
+        "added": [
+          {
+            "name": "Tyler Bass",
+            "pos": "K",
+            "since": "19.00",
+            "started": "5.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Chris Boswell",
+            "pos": "K",
+            "since": "20.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "-1.00"
+      },
+      {
+        "week": 2,
+        "date": "9/16",
+        "added": [
+          {
+            "name": "Kaelon Black",
+            "pos": "RB",
+            "since": "5.50",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Mike Washington Jr.",
+            "pos": "RB",
+            "since": "14.80",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "-9.30"
+      },
+      {
+        "week": 2,
+        "date": "9/16",
+        "added": [
+          {
+            "name": "Caleb Douglas",
+            "pos": "WR",
+            "since": "3.90",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [],
+        "net": null
+      },
+      {
+        "week": 2,
+        "date": "9/16",
+        "added": [
+          {
+            "name": "49ers D/ST",
+            "pos": "D/ST",
+            "since": "14.00",
+            "started": "9.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Jaguars D/ST",
+            "pos": "D/ST",
+            "since": "18.00",
+            "now_on": "Mayeday"
+          }
+        ],
+        "net": "-4.00"
+      },
+      {
+        "week": 1,
+        "date": "8/23",
+        "added": [
+          {
+            "name": "Mike Washington Jr.",
+            "pos": "RB",
+            "since": "18.90",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Alvin Kamara",
+            "pos": "RB",
+            "since": "35.10",
+            "now_on": "GilberTeam"
+          }
+        ],
+        "net": "-16.20"
+      }
+    ],
+    "trades": [],
+    "draft": [
+      {
+        "round": 1,
+        "overall": 5,
+        "player": "Ja'Marr Chase",
+        "pos": "WR",
+        "points": "60.20",
+        "rank": "WR3 → WR11",
+        "value": -8,
+        "kept": true
+      },
+      {
+        "round": 2,
+        "overall": 16,
+        "player": "Ashton Jeanty",
+        "pos": "RB",
+        "points": "73.90",
+        "rank": "RB8 → RB10",
+        "value": -2,
+        "kept": true
+      },
+      {
+        "round": 3,
+        "overall": 25,
+        "player": "A.J. Brown",
+        "pos": "WR",
+        "points": "5.60",
+        "rank": "WR10 → WR52",
+        "value": -42,
+        "kept": true
+      },
+      {
+        "round": 4,
+        "overall": 36,
+        "player": "DeVonta Smith",
+        "pos": "WR",
+        "points": "48.50",
+        "rank": "WR13 → WR20",
+        "value": -7,
+        "kept": true
+      },
+      {
+        "round": 5,
+        "overall": 45,
+        "player": "Jalen Hurts",
+        "pos": "QB",
+        "points": "67.02",
+        "rank": "QB3 → QB9",
+        "value": -6,
+        "kept": true
+      },
+      {
+        "round": 6,
+        "overall": 56,
+        "player": "Bucky Irving",
+        "pos": "RB",
+        "points": "47.20",
+        "rank": "RB22 → RB21",
+        "value": 1,
+        "kept": true
+      },
+      {
+        "round": 7,
+        "overall": 65,
+        "player": "Jadarian Price",
+        "pos": "RB",
+        "points": "14.00",
+        "rank": "RB24 → RB41",
+        "value": -17,
+        "kept": true
+      },
+      {
+        "round": 8,
+        "overall": 76,
+        "player": "David Montgomery",
+        "pos": "RB",
+        "points": "44.40",
+        "rank": "RB29 → RB23",
+        "value": 6,
+        "kept": true
+      },
+      {
+        "round": 9,
+        "overall": 85,
+        "player": "Tucker Kraft",
+        "pos": "TE",
+        "points": "36.10",
+        "rank": "TE9 → TE14",
+        "value": -5,
+        "kept": true
+      },
+      {
+        "round": 10,
+        "overall": 96,
+        "player": "Tony Pollard",
+        "pos": "RB",
+        "points": "38.50",
+        "rank": "RB31 → RB27",
+        "value": 4,
+        "kept": true
+      },
+      {
+        "round": 11,
+        "overall": 105,
+        "player": "Stefon Diggs",
+        "pos": "WR",
+        "points": "53.00",
+        "rank": "WR41 → WR16",
+        "value": 25,
+        "kept": true
+      },
+      {
+        "round": 12,
+        "overall": 116,
+        "player": "Deebo Samuel Sr.",
+        "pos": "WR",
+        "points": "57.90",
+        "rank": "WR47 → WR13",
+        "value": 34,
+        "kept": true
+      },
+      {
+        "round": 13,
+        "overall": 125,
+        "player": "Alvin Kamara",
+        "pos": "RB",
+        "points": "35.10",
+        "rank": "RB38 → RB29",
+        "value": 9,
+        "kept": true
+      },
+      {
+        "round": 14,
+        "overall": 136,
+        "player": "Baker Mayfield",
+        "pos": "QB",
+        "points": "35.10",
+        "rank": "QB18 → QB16",
+        "value": 2,
+        "kept": false
+      },
+      {
+        "round": 15,
+        "overall": 145,
+        "player": "Jaguars D/ST",
+        "pos": "D/ST",
+        "points": "32.00",
+        "rank": "D/ST9 → D/ST3",
+        "value": 6,
+        "kept": false
+      },
+      {
+        "round": 16,
+        "overall": 156,
+        "player": "Chris Boswell",
+        "pos": "K",
+        "points": "28.00",
+        "rank": "K10 → K9",
+        "value": 1,
+        "kept": false
+      }
+    ],
+    "injuries": [
+      {
+        "name": "A.J. Brown",
+        "pos": "WR",
+        "status": "Injury Reserve",
+        "missed": 3,
+        "storylines": [
+          "on_ir",
+          "still_out"
+        ]
+      },
+      {
+        "name": "DeVonta Smith",
+        "pos": "WR",
+        "status": "Questionable",
+        "missed": 1,
+        "storylines": [
+          "returning"
+        ]
+      },
+      {
+        "name": "Jadarian Price",
+        "pos": "RB",
+        "status": "Injury Reserve",
+        "missed": 0,
+        "storylines": [
+          "on_ir"
+        ]
+      },
+      {
+        "name": "Alvin Kamara",
+        "pos": "RB",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      },
+      {
+        "name": "Ashton Jeanty",
+        "pos": "RB",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      },
+      {
+        "name": "Ja'Marr Chase",
+        "pos": "WR",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      },
+      {
+        "name": "Stefon Diggs",
+        "pos": "WR",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+---
+layout: default
+---
+{%- assign latest = site.posts.first -%}
+{%- assign pkey = "week_" | append: latest.week -%}
+{%- assign pd = site.data.weeks[pkey] -%}
+{%- comment -%} Standings and stats use the newest week of data, even before its recap is written {%- endcomment -%}
+{%- assign wd = nil -%}
+{%- for pair in site.data.weeks -%}
+  {%- if wd == nil or pair[1].week > wd.week -%}{%- assign wd = pair[1] -%}{%- endif -%}
+{%- endfor -%}
+{%- if latest %}
+<section class="hero">
+  <span class="kicker">Latest · {% if latest.week %}Week {{ latest.week }} · {% endif %}{{ latest.date | date: "%b %-d, %Y" }}</span>
+  <h1><a href="{{ latest.url | relative_url }}">{{ latest.headline | default: latest.title }}</a></h1>
+  {%- if latest.description %}<p class="dek">{{ latest.description }}</p>{% endif %}
+  {%- if pd %}
+  <div class="hero-stats">
+    {%- for a in pd.awards limit: 3 %}
+    <div class="hero-stat"><span class="hs-label">{{ a.icon }} {{ a.label }}</span><span class="hs-value">{{ a.stat }}</span><span class="hs-who">{{ a.manager }}</span></div>
+    {%- endfor %}
+  </div>
+  {%- endif %}
+  <a class="button" href="{{ latest.url | relative_url }}">Read the Week {{ latest.week }} recap →</a>
+</section>
+{%- endif %}
+
+{%- if wd %}
+<section class="section">
+  <div class="section-head"><h2>Standings</h2><span class="muted">after Week {{ wd.week }}</span></div>
+  {%- assign compact = true -%}
+  {%- include standings.html -%}
+</section>
+{%- endif %}
+
+{%- if wd.season_stats %}
+<section class="section" id="season-stats">
+  <div class="section-head"><h2>Season Stats</h2><span class="muted">through Week {{ wd.week }}</span></div>
+  {%- include season-stats.html -%}
+</section>
+{%- endif %}
+
+{%- assign L = site.data.league -%}
+{%- if L %}
+<section class="section" id="managers">
+  <div class="section-head"><h2>Managers</h2><a class="head-link" href="{{ '/managers/' | relative_url }}">All managers &amp; champions →</a></div>
+  <div class="mgr-grid">
+  {%- for p in L.managers %}{% if p.current %}
+    <a class="mgr-card" href="{{ '/managers/' | append: p.slug | append: '.html' | relative_url }}">
+      <span class="mc-name">{{ p.name }}</span>
+      <span class="mc-meta">{{ p.record }} all-time{% if p.titles > 0 %} · {% for y in p.title_years %}🏆{% endfor %}{% endif %}</span>
+    </a>
+  {%- endif %}{% endfor %}
+  </div>
+</section>
+{%- endif %}
+
+<section class="section" id="recaps">
+  <div class="section-head"><h2>Recaps</h2></div>
+  <div class="post-grid">
+  {%- for post in site.posts %}
+    {%- include post-card.html -%}
+  {%- endfor %}
+  </div>
+</section>

@@ -1,0 +1,852 @@
+{
+  "week": 1,
+  "year": 2026,
+  "complete": true,
+  "standings": [
+    {
+      "rank": 1,
+      "manager": "Kevin Mangus",
+      "division": "League Standings",
+      "division_leader": true,
+      "record": "1-0",
+      "pf": "149.46",
+      "pa": "105.30",
+      "streak": "W1",
+      "form": [
+        "W"
+      ],
+      "power_rank": 1,
+      "power_change": 0
+    },
+    {
+      "rank": 2,
+      "manager": "Luis Barroso",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "1-0",
+      "pf": "143.16",
+      "pa": "124.42",
+      "streak": "W1",
+      "form": [
+        "W"
+      ],
+      "power_rank": 2,
+      "power_change": 0
+    },
+    {
+      "rank": 3,
+      "manager": "John Matheson",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "1-0",
+      "pf": "129.96",
+      "pa": "112.76",
+      "streak": "W1",
+      "form": [
+        "W"
+      ],
+      "power_rank": 3,
+      "power_change": 0
+    },
+    {
+      "rank": 4,
+      "manager": "Erik Iverson",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "1-0",
+      "pf": "129.86",
+      "pa": "122.70",
+      "streak": "W1",
+      "form": [
+        "W"
+      ],
+      "power_rank": 4,
+      "power_change": 0
+    },
+    {
+      "rank": 5,
+      "manager": "Joseph Calaway",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "1-0",
+      "pf": "122.86",
+      "pa": "113.82",
+      "streak": "W1",
+      "form": [
+        "W"
+      ],
+      "power_rank": 5,
+      "power_change": 0
+    },
+    {
+      "rank": 6,
+      "manager": "Collin Gibbs",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "0-1",
+      "pf": "124.42",
+      "pa": "143.16",
+      "streak": "L1",
+      "form": [
+        "L"
+      ],
+      "power_rank": 7,
+      "power_change": 0
+    },
+    {
+      "rank": 7,
+      "manager": "Kyle Allen",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "0-1",
+      "pf": "122.70",
+      "pa": "129.86",
+      "streak": "L1",
+      "form": [
+        "L"
+      ],
+      "power_rank": 6,
+      "power_change": 0
+    },
+    {
+      "rank": 8,
+      "manager": "Camilo Gelvez",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "0-1",
+      "pf": "113.82",
+      "pa": "122.86",
+      "streak": "L1",
+      "form": [
+        "L"
+      ],
+      "power_rank": 8,
+      "power_change": 0
+    },
+    {
+      "rank": 9,
+      "manager": "Andy Saliba",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "0-1",
+      "pf": "112.76",
+      "pa": "129.96",
+      "streak": "L1",
+      "form": [
+        "L"
+      ],
+      "power_rank": 9,
+      "power_change": 0
+    },
+    {
+      "rank": 10,
+      "manager": "Cayden Martin",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "0-1",
+      "pf": "105.30",
+      "pa": "149.46",
+      "streak": "L1",
+      "form": [
+        "L"
+      ],
+      "power_rank": 10,
+      "power_change": 0
+    }
+  ],
+  "matchups": [
+    {
+      "home": {
+        "manager": "Cayden Martin",
+        "score": "105.30",
+        "projected": "119.73",
+        "record": "0-1"
+      },
+      "away": {
+        "manager": "Kevin Mangus",
+        "score": "149.46",
+        "projected": "121.33",
+        "record": "1-0"
+      },
+      "winner": "away",
+      "margin": "44.16",
+      "tags": [
+        "High score",
+        "Low score",
+        "Blowout"
+      ]
+    },
+    {
+      "home": {
+        "manager": "Andy Saliba",
+        "score": "112.76",
+        "projected": "120.95",
+        "record": "0-1"
+      },
+      "away": {
+        "manager": "John Matheson",
+        "score": "129.96",
+        "projected": "116.26",
+        "record": "1-0"
+      },
+      "winner": "away",
+      "margin": "17.20",
+      "tags": []
+    },
+    {
+      "home": {
+        "manager": "Camilo Gelvez",
+        "score": "113.82",
+        "projected": "128.26",
+        "record": "0-1"
+      },
+      "away": {
+        "manager": "Joseph Calaway",
+        "score": "122.86",
+        "projected": "102.65",
+        "record": "1-0"
+      },
+      "winner": "away",
+      "margin": "9.04",
+      "tags": []
+    },
+    {
+      "home": {
+        "manager": "Luis Barroso",
+        "score": "143.16",
+        "projected": "126.94",
+        "record": "1-0"
+      },
+      "away": {
+        "manager": "Collin Gibbs",
+        "score": "124.42",
+        "projected": "117.88",
+        "record": "0-1"
+      },
+      "winner": "home",
+      "margin": "18.74",
+      "tags": []
+    },
+    {
+      "home": {
+        "manager": "Erik Iverson",
+        "score": "129.86",
+        "projected": "122.74",
+        "record": "1-0"
+      },
+      "away": {
+        "manager": "Kyle Allen",
+        "score": "122.70",
+        "projected": "122.05",
+        "record": "0-1"
+      },
+      "winner": "home",
+      "margin": "7.16",
+      "tags": [
+        "Nail-biter"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "icon": "🔥",
+      "label": "Top Score",
+      "manager": "Kevin Mangus",
+      "stat": "149.46",
+      "unit": "pts",
+      "detail": "vs Cayden Martin"
+    },
+    {
+      "icon": "🪑",
+      "label": "Bench Blunder",
+      "manager": "Camilo Gelvez",
+      "stat": "57.80",
+      "unit": "pts left on bench",
+      "detail": "Optimal lineup: 171.62 — would have beaten Joseph Calaway"
+    },
+    {
+      "icon": "🍀",
+      "label": "Luckiest Win",
+      "manager": "Joseph Calaway",
+      "stat": "122.86",
+      "unit": "pts",
+      "detail": "Below the league median (123.64) and still beat Camilo Gelvez"
+    },
+    {
+      "icon": "💔",
+      "label": "Toughest Loss",
+      "manager": "Collin Gibbs",
+      "stat": "124.42",
+      "unit": "pts",
+      "detail": "Highest losing score — fell to Luis Barroso"
+    },
+    {
+      "icon": "⭐",
+      "label": "Player of the Week",
+      "manager": "Kevin Mangus",
+      "stat": "37.26",
+      "unit": "pts",
+      "detail": "Caleb Williams (QB), projected 16.39"
+    },
+    {
+      "icon": "🗑️",
+      "label": "Drop Regret",
+      "manager": "Joseph Calaway",
+      "stat": "0.30",
+      "unit": "pts behind",
+      "detail": "Dropped Rachaad White (4.70 since) for Tyjae Spears (4.40) in week 1"
+    }
+  ],
+  "moves": [
+    {
+      "kind": "Free agent",
+      "manager": "John Matheson",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Malachi Fields",
+          "pos": "WR",
+          "nfl": "NYG"
+        },
+        {
+          "dir": "drop",
+          "name": "Woody Marks",
+          "pos": "RB",
+          "nfl": "HOU"
+        }
+      ],
+      "date": "Sun 9/20"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Alvin Kamara",
+          "pos": "RB",
+          "nfl": "NO"
+        },
+        {
+          "dir": "drop",
+          "name": "Baker Mayfield",
+          "pos": "QB",
+          "nfl": "TB"
+        }
+      ],
+      "date": "Sun 9/20"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Tyler Bass",
+          "pos": "K",
+          "nfl": "BUF"
+        },
+        {
+          "dir": "drop",
+          "name": "Chris Boswell",
+          "pos": "K",
+          "nfl": "PIT"
+        }
+      ],
+      "date": "Thu 9/17"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Collin Gibbs",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "KC Concepcion",
+          "pos": "WR",
+          "nfl": "CLE"
+        },
+        {
+          "dir": "drop",
+          "name": "Makai Lemon",
+          "pos": "WR",
+          "nfl": "PHI"
+        }
+      ],
+      "date": "Thu 9/17"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Collin Gibbs",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Cairo Santos",
+          "pos": "K",
+          "nfl": "CHI"
+        }
+      ],
+      "date": "Thu 9/17"
+    },
+    {
+      "kind": "Drop",
+      "manager": "Collin Gibbs",
+      "lines": [
+        {
+          "dir": "drop",
+          "name": "Will Reichard",
+          "pos": "K",
+          "nfl": "MIN"
+        }
+      ],
+      "date": "Thu 9/17"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Erik Iverson",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Jared Goff",
+          "pos": "QB",
+          "nfl": "DET"
+        }
+      ],
+      "date": "Thu 9/17"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Erik Iverson",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Dalton Schultz",
+          "pos": "TE",
+          "nfl": "HOU"
+        },
+        {
+          "dir": "drop",
+          "name": "Zach Charbonnet",
+          "pos": "RB",
+          "nfl": "SEA"
+        }
+      ],
+      "date": "Thu 9/17"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Andy Saliba",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Rams D/ST",
+          "pos": "D/ST",
+          "nfl": "LAR"
+        },
+        {
+          "dir": "drop",
+          "name": "Lions D/ST",
+          "pos": "D/ST",
+          "nfl": "DET"
+        }
+      ],
+      "date": "Thu 9/17"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Luis Barroso",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Chiefs D/ST",
+          "pos": "D/ST",
+          "nfl": "KC"
+        },
+        {
+          "dir": "drop",
+          "name": "Tyler Allgeier",
+          "pos": "RB",
+          "nfl": "ARI"
+        }
+      ],
+      "date": "Wed 9/16"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Luis Barroso",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Juwan Johnson",
+          "pos": "TE",
+          "nfl": "NO"
+        },
+        {
+          "dir": "drop",
+          "name": "MarShawn Lloyd",
+          "pos": "RB",
+          "nfl": "GB"
+        }
+      ],
+      "date": "Wed 9/16"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Joseph Calaway",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Chris Brooks",
+          "pos": "RB",
+          "nfl": "GB"
+        },
+        {
+          "dir": "drop",
+          "name": "Tyjae Spears",
+          "pos": "RB",
+          "nfl": "TEN"
+        }
+      ],
+      "date": "Wed 9/16"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Kaelon Black",
+          "pos": "RB",
+          "nfl": "SF"
+        },
+        {
+          "dir": "drop",
+          "name": "Mike Washington Jr.",
+          "pos": "RB",
+          "nfl": "LV"
+        }
+      ],
+      "date": "Wed 9/16"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Caleb Douglas",
+          "pos": "WR",
+          "nfl": "MIA"
+        }
+      ],
+      "date": "Wed 9/16"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Luis Barroso",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Tyler Allgeier",
+          "pos": "RB",
+          "nfl": "ARI"
+        },
+        {
+          "dir": "drop",
+          "name": "Brian Robinson Jr.",
+          "pos": "RB",
+          "nfl": "ATL"
+        }
+      ],
+      "date": "Wed 9/16"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "John Matheson",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Buccaneers D/ST",
+          "pos": "D/ST",
+          "nfl": "TB"
+        },
+        {
+          "dir": "drop",
+          "name": "Rams D/ST",
+          "pos": "D/ST",
+          "nfl": "LAR"
+        }
+      ],
+      "date": "Wed 9/16"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "49ers D/ST",
+          "pos": "D/ST",
+          "nfl": "SF"
+        },
+        {
+          "dir": "drop",
+          "name": "Jaguars D/ST",
+          "pos": "D/ST",
+          "nfl": "JAX"
+        }
+      ],
+      "date": "Wed 9/16"
+    }
+  ],
+  "season_stats": {
+    "through_week": 1,
+    "leaders": [
+      {
+        "icon": "🔥",
+        "label": "Most Points",
+        "manager": "Kevin Mangus",
+        "stat": "149.46",
+        "detail": "149.46 per game"
+      },
+      {
+        "icon": "🧱",
+        "label": "Toughest Schedule",
+        "manager": "Cayden Martin",
+        "stat": "149.46",
+        "detail": "most points scored against"
+      },
+      {
+        "icon": "🔄",
+        "label": "Most Waiver Moves",
+        "manager": "Camilo Gelvez",
+        "stat": "6",
+        "detail": "adds this season"
+      },
+      {
+        "icon": "🎯",
+        "label": "Best Lineup Setter",
+        "manager": "Kevin Mangus",
+        "stat": "98.0%",
+        "detail": "of possible points started"
+      },
+      {
+        "icon": "🪑",
+        "label": "Most Left on Bench",
+        "manager": "Camilo Gelvez",
+        "stat": "57.80",
+        "detail": "points on the bench"
+      },
+      {
+        "icon": "🍀",
+        "label": "Luckiest Record",
+        "manager": "Joseph Calaway",
+        "stat": "+0.56",
+        "detail": "wins above expected · all-play 4-5"
+      }
+    ],
+    "table": [
+      {
+        "manager": "Kevin Mangus",
+        "pf": "149.46",
+        "pa": "105.30",
+        "avg": "149.46",
+        "high": "149.46",
+        "low": "149.46",
+        "moves": 0,
+        "trades": 0,
+        "bench": "3.10",
+        "efficiency": 98.0,
+        "all_play": "9-0",
+        "luck": 0.0
+      },
+      {
+        "manager": "Luis Barroso",
+        "pf": "143.16",
+        "pa": "124.42",
+        "avg": "143.16",
+        "high": "143.16",
+        "low": "143.16",
+        "moves": 4,
+        "trades": 0,
+        "bench": "8.40",
+        "efficiency": 94.5,
+        "all_play": "8-1",
+        "luck": 0.11
+      },
+      {
+        "manager": "John Matheson",
+        "pf": "129.96",
+        "pa": "112.76",
+        "avg": "129.96",
+        "high": "129.96",
+        "low": "129.96",
+        "moves": 2,
+        "trades": 0,
+        "bench": "14.10",
+        "efficiency": 90.2,
+        "all_play": "7-2",
+        "luck": 0.22
+      },
+      {
+        "manager": "Erik Iverson",
+        "pf": "129.86",
+        "pa": "122.70",
+        "avg": "129.86",
+        "high": "129.86",
+        "low": "129.86",
+        "moves": 2,
+        "trades": 0,
+        "bench": "27.40",
+        "efficiency": 82.6,
+        "all_play": "6-3",
+        "luck": 0.33
+      },
+      {
+        "manager": "Collin Gibbs",
+        "pf": "124.42",
+        "pa": "143.16",
+        "avg": "124.42",
+        "high": "124.42",
+        "low": "124.42",
+        "moves": 2,
+        "trades": 0,
+        "bench": "20.28",
+        "efficiency": 86.0,
+        "all_play": "5-4",
+        "luck": -0.56
+      },
+      {
+        "manager": "Joseph Calaway",
+        "pf": "122.86",
+        "pa": "113.82",
+        "avg": "122.86",
+        "high": "122.86",
+        "low": "122.86",
+        "moves": 5,
+        "trades": 0,
+        "bench": "39.60",
+        "efficiency": 75.6,
+        "all_play": "4-5",
+        "luck": 0.56
+      },
+      {
+        "manager": "Kyle Allen",
+        "pf": "122.70",
+        "pa": "129.86",
+        "avg": "122.70",
+        "high": "122.70",
+        "low": "122.70",
+        "moves": 1,
+        "trades": 0,
+        "bench": "20.70",
+        "efficiency": 85.6,
+        "all_play": "3-6",
+        "luck": -0.33
+      },
+      {
+        "manager": "Camilo Gelvez",
+        "pf": "113.82",
+        "pa": "122.86",
+        "avg": "113.82",
+        "high": "113.82",
+        "low": "113.82",
+        "moves": 6,
+        "trades": 0,
+        "bench": "57.80",
+        "efficiency": 66.3,
+        "all_play": "2-7",
+        "luck": -0.22
+      },
+      {
+        "manager": "Andy Saliba",
+        "pf": "112.76",
+        "pa": "129.96",
+        "avg": "112.76",
+        "high": "112.76",
+        "low": "112.76",
+        "moves": 1,
+        "trades": 0,
+        "bench": "33.44",
+        "efficiency": 77.1,
+        "all_play": "1-8",
+        "luck": -0.11
+      },
+      {
+        "manager": "Cayden Martin",
+        "pf": "105.30",
+        "pa": "149.46",
+        "avg": "105.30",
+        "high": "105.30",
+        "low": "105.30",
+        "moves": 0,
+        "trades": 0,
+        "bench": "27.10",
+        "efficiency": 79.5,
+        "all_play": "0-9",
+        "luck": 0.0
+      }
+    ]
+  },
+  "next_week": [
+    {
+      "home": {
+        "manager": "Kevin Mangus",
+        "record": "1-0"
+      },
+      "away": {
+        "manager": "John Matheson",
+        "record": "1-0"
+      },
+      "series": "First meeting",
+      "meetings": 0
+    },
+    {
+      "home": {
+        "manager": "Joseph Calaway",
+        "record": "1-0"
+      },
+      "away": {
+        "manager": "Cayden Martin",
+        "record": "0-1"
+      },
+      "series": "Joseph Calaway leads 2-0",
+      "meetings": 2
+    },
+    {
+      "home": {
+        "manager": "Collin Gibbs",
+        "record": "0-1"
+      },
+      "away": {
+        "manager": "Andy Saliba",
+        "record": "0-1"
+      },
+      "series": "Collin Gibbs leads 1-0",
+      "meetings": 1
+    },
+    {
+      "home": {
+        "manager": "Kyle Allen",
+        "record": "0-1"
+      },
+      "away": {
+        "manager": "Camilo Gelvez",
+        "record": "0-1"
+      },
+      "series": "Camilo Gelvez leads 2-0",
+      "meetings": 2
+    },
+    {
+      "home": {
+        "manager": "Erik Iverson",
+        "record": "1-0"
+      },
+      "away": {
+        "manager": "Luis Barroso",
+        "record": "1-0"
+      },
+      "series": "First meeting",
+      "meetings": 0
+    }
+  ]
+}
