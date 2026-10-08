@@ -47,8 +47,7 @@ layout: default
   <div class="mgr-grid">
   {%- for p in L.managers %}{% if p.current %}
     <a class="mgr-card" href="{{ '/managers/' | append: p.slug | append: '.html' | relative_url }}">
-      <span class="mc-name">{% if site.primary_label == "team" and p.team %}{{ p.team }}{% else %}{{ p.name }}{% endif %}</span>
-      {%- if site.primary_label == "team" and p.team %}<span class="mc-meta">{{ p.name }}</span>{% endif %}
+      <span class="mc-name">{{ p.name }}</span>
       <span class="mc-meta">{{ p.record }} all-time{% if p.titles > 0 %} · {% for y in p.title_years %}🏆{% endfor %}{% endif %}</span>
     </a>
   {%- endif %}{% endfor %}

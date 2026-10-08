@@ -13,7 +13,7 @@
 <div class="table-wrap season-table">
 <table class="standings">
   <thead>
-    <tr><th>Manager</th><th class="num">PF</th><th class="num">PA</th><th class="num hide-sm">Avg</th><th class="num hide-sm">High</th><th class="num hide-sm">Low</th><th class="num">Moves</th><th class="num hide-sm">Trades</th><th class="num hide-sm">Bench</th><th class="num hide-sm">Lineup %</th><th class="hide-sm">All-play</th></tr>
+    <tr><th>{% if site.primary_label == "team" %}Team{% else %}Manager{% endif %}</th><th class="num">PF</th><th class="num">PA</th><th class="num hide-sm">Avg</th><th class="num hide-sm">High</th><th class="num hide-sm">Low</th><th class="num">Moves</th><th class="num hide-sm">Trades</th><th class="num hide-sm">Bench</th><th class="num hide-sm">Lineup %</th><th class="hide-sm">All-play</th></tr>
   </thead>
   <tbody>
   {%- for r in ss.table %}
