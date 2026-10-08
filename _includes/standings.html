@@ -5,7 +5,7 @@
   </thead>
   <tbody>
   {%- for s in wd.standings %}
-    <tr>
+    <tr class="{% if s.in_playoffs %}in-playoffs{% endif %}{% if wd.playoff_teams and s.rank == wd.playoff_teams %} playoff-line{% endif %}">
       <td class="num rank">{{ s.rank }}</td>
       <td>{%- assign ms = s.manager | slugify -%}<a class="mgr" href="{{ '/managers/' | append: ms | append: '.html' | relative_url }}">{% if site.primary_label == "team" and s.team %}{{ s.team }}{% else %}{{ s.manager }}{% endif %}</a>{% if site.primary_label == "team" and s.team %}<span class="team">{{ s.manager }}</span>{% elsif site.show_team_names %}{% unless compact %}<span class="team">{{ s.team }}</span>{% endunless %}{% endif %}</td>
       {%- unless site.show_divisions == false %}
@@ -24,3 +24,6 @@
   </tbody>
 </table>
 </div>
+{%- if wd.playoff_teams %}
+<p class="table-note muted"><span class="playoff-key"></span>Playoff position: top {{ wd.playoff_teams }} make the playoffs</p>
+{%- endif %}

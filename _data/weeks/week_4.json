@@ -2,6 +2,7 @@
   "week": 4,
   "year": 2026,
   "complete": true,
+  "playoff_teams": 6,
   "standings": [
     {
       "rank": 1,
@@ -19,6 +20,7 @@
         "L",
         "W"
       ],
+      "in_playoffs": true,
       "power_rank": 1,
       "power_change": 1
     },
@@ -38,6 +40,7 @@
         "W",
         "W"
       ],
+      "in_playoffs": true,
       "power_rank": 3,
       "power_change": 1
     },
@@ -57,6 +60,7 @@
         "W",
         "L"
       ],
+      "in_playoffs": true,
       "power_rank": 2,
       "power_change": -1
     },
@@ -76,6 +80,7 @@
         "W",
         "W"
       ],
+      "in_playoffs": true,
       "power_rank": 4,
       "power_change": 3
     },
@@ -95,6 +100,7 @@
         "L",
         "W"
       ],
+      "in_playoffs": true,
       "power_rank": 7,
       "power_change": -1
     },
@@ -114,6 +120,7 @@
         "W",
         "L"
       ],
+      "in_playoffs": true,
       "power_rank": 5,
       "power_change": -2
     },
@@ -133,6 +140,7 @@
         "W",
         "W"
       ],
+      "in_playoffs": false,
       "power_rank": 6,
       "power_change": -1
     },
@@ -152,6 +160,7 @@
         "L",
         "L"
       ],
+      "in_playoffs": false,
       "power_rank": 9,
       "power_change": -1
     },
@@ -171,6 +180,7 @@
         "L",
         "L"
       ],
+      "in_playoffs": false,
       "power_rank": 8,
       "power_change": 2
     },
@@ -190,6 +200,7 @@
         "L",
         "L"
       ],
+      "in_playoffs": false,
       "power_rank": 10,
       "power_change": -1
     }
