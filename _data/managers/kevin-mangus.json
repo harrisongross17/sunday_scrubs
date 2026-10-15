@@ -10,17 +10,17 @@
   "runner_ups": [],
   "playoff_appearances": 0,
   "career": {
-    "record": "9-9",
-    "win_pct": 50.0,
+    "record": "10-9",
+    "win_pct": 52.6,
     "playoff_record": "0-0",
-    "ppg": "121.33"
+    "ppg": "121.61"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "3-1",
-      "pf": "504.74",
-      "ppg": "126.19",
+      "record": "4-1",
+      "pf": "631.22",
+      "ppg": "126.24",
       "finish": "In progress"
     },
     {
@@ -32,6 +32,15 @@
     }
   ],
   "head_to_head": [
+    {
+      "opponent": "Kyle Allen",
+      "record": "1-2",
+      "win_pct": 33.3,
+      "meetings": 3,
+      "playoff_meetings": 0,
+      "last": "2026 wk 5: 126.48–108.34 W",
+      "current": true
+    },
     {
       "opponent": "Joseph Calaway",
       "record": "1-2",
@@ -48,15 +57,6 @@
       "meetings": 3,
       "playoff_meetings": 0,
       "last": "2026 wk 1: 149.46–105.30 W",
-      "current": true
-    },
-    {
-      "opponent": "Kyle Allen",
-      "record": "0-2",
-      "win_pct": 0.0,
-      "meetings": 2,
-      "playoff_meetings": 0,
-      "last": "2025 wk 12: 119.24–140.44 L",
       "current": true
     },
     {
@@ -195,14 +195,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 4,
+    "through_week": 5,
     "division": "League Standings",
-    "record": "3-1",
+    "record": "4-1",
     "rank": 3,
-    "power_rank": 2,
+    "power_rank": 3,
     "power_change": -1,
-    "playoff_pct": 80.7,
-    "pf": "504.74",
+    "playoff_pct": 84.0,
+    "pf": "631.22",
     "weeks": [
       {
         "week": 1,
@@ -243,14 +243,24 @@
         "projected": "115.85",
         "bench": "17.00",
         "bar": 58
+      },
+      {
+        "week": 5,
+        "result": "W",
+        "score": "126.48",
+        "opp": "Kyle Allen",
+        "opp_score": "108.34",
+        "projected": "122.36",
+        "bench": "15.10",
+        "bar": 63
       }
     ],
     "luck": {
-      "all_play_record": "22-14",
-      "expected_wins": 2.44,
-      "luck": 0.56,
-      "points_against_vs_league_avg": -71.04,
-      "wins_below_median": 1,
+      "all_play_record": "26-19",
+      "expected_wins": 2.89,
+      "luck": 1.11,
+      "points_against_vs_league_avg": -95.19,
+      "wins_below_median": 2,
       "losses_above_median": 0
     },
     "moves": [
@@ -261,8 +271,8 @@
           {
             "name": "Jets D/ST",
             "pos": "D/ST",
-            "since": "0.00",
-            "started": "0.00"
+            "since": "18.00",
+            "started": "18.00"
           }
         ],
         "dropped": [
@@ -273,7 +283,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "0.00"
+        "net": "18.00"
       },
       {
         "week": 4,
@@ -282,7 +292,7 @@
           {
             "name": "J.K. Dobbins",
             "pos": "RB",
-            "since": "7.20",
+            "since": "22.60",
             "started": "0.00"
           }
         ],
@@ -304,11 +314,11 @@
           {
             "name": "Ravens D/ST",
             "pos": "D/ST",
-            "since": "8.00",
-            "now_on": "Free agent"
+            "since": "13.00",
+            "now_on": "Marino"
           }
         ],
-        "net": "-6.00"
+        "net": "-11.00"
       },
       {
         "week": 3,
@@ -317,8 +327,8 @@
           {
             "name": "Jordan Love",
             "pos": "QB",
-            "since": "31.56",
-            "started": "31.56"
+            "since": "56.84",
+            "started": "56.84"
           }
         ],
         "dropped": [
@@ -329,7 +339,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "16.36"
+        "net": "41.64"
       }
     ],
     "trades": [],
@@ -339,7 +349,7 @@
         "overall": 7,
         "player": "Jonathan Taylor",
         "pos": "RB",
-        "points": "86.20",
+        "points": "97.40",
         "rank": "RB4 → RB6",
         "value": -2,
         "kept": true
@@ -349,7 +359,7 @@
         "overall": 14,
         "player": "Drake London",
         "pos": "WR",
-        "points": "57.40",
+        "points": "76.20",
         "rank": "WR7 → WR14",
         "value": -7,
         "kept": true
@@ -359,9 +369,9 @@
         "overall": 27,
         "player": "Chris Olave",
         "pos": "WR",
-        "points": "90.10",
-        "rank": "WR11 → WR4",
-        "value": 7,
+        "points": "98.70",
+        "rank": "WR11 → WR5",
+        "value": 6,
         "kept": true
       },
       {
@@ -370,8 +380,8 @@
         "player": "Breece Hall",
         "pos": "RB",
         "points": "42.50",
-        "rank": "RB17 → RB26",
-        "value": -9,
+        "rank": "RB17 → RB29",
+        "value": -12,
         "kept": true
       },
       {
@@ -380,8 +390,8 @@
         "player": "Travis Etienne Jr.",
         "pos": "RB",
         "points": "30.90",
-        "rank": "RB21 → RB30",
-        "value": -9,
+        "rank": "RB21 → RB35",
+        "value": -14,
         "kept": true
       },
       {
@@ -389,7 +399,7 @@
         "overall": 54,
         "player": "Sam LaPorta",
         "pos": "TE",
-        "points": "56.80",
+        "points": "76.60",
         "rank": "TE5 → TE3",
         "value": 2,
         "kept": true
@@ -399,9 +409,9 @@
         "overall": 67,
         "player": "Rhamondre Stevenson",
         "pos": "RB",
-        "points": "43.30",
-        "rank": "RB25 → RB25",
-        "value": 0,
+        "points": "60.80",
+        "rank": "RB25 → RB18",
+        "value": 7,
         "kept": true
       },
       {
@@ -409,9 +419,9 @@
         "overall": 74,
         "player": "DK Metcalf",
         "pos": "WR",
-        "points": "43.30",
-        "rank": "WR30 → WR27",
-        "value": 3,
+        "points": "48.60",
+        "rank": "WR30 → WR29",
+        "value": 1,
         "kept": true
       },
       {
@@ -420,8 +430,8 @@
         "player": "Marvin Harrison Jr.",
         "pos": "WR",
         "points": "19.50",
-        "rank": "WR35 → WR45",
-        "value": -10,
+        "rank": "WR35 → WR47",
+        "value": -12,
         "kept": false
       },
       {
@@ -430,8 +440,8 @@
         "player": "Travis Kelce",
         "pos": "TE",
         "points": "52.60",
-        "rank": "TE11 → TE5",
-        "value": 6,
+        "rank": "TE11 → TE7",
+        "value": 4,
         "kept": true
       },
       {
@@ -440,8 +450,8 @@
         "player": "Caleb Williams",
         "pos": "QB",
         "points": "44.98",
-        "rank": "QB15 → QB14",
-        "value": 1,
+        "rank": "QB15 → QB16",
+        "value": -1,
         "kept": true
       },
       {
@@ -449,9 +459,9 @@
         "overall": 114,
         "player": "Mark Andrews",
         "pos": "TE",
-        "points": "38.90",
-        "rank": "TE13 → TE11",
-        "value": 2,
+        "points": "43.70",
+        "rank": "TE13 → TE12",
+        "value": 1,
         "kept": true
       },
       {
@@ -459,9 +469,9 @@
         "overall": 127,
         "player": "Ravens D/ST",
         "pos": "D/ST",
-        "points": "21.00",
-        "rank": "D/ST6 → D/ST7",
-        "value": -1,
+        "points": "26.00",
+        "rank": "D/ST6 → D/ST8",
+        "value": -2,
         "kept": false
       },
       {
@@ -469,9 +479,9 @@
         "overall": 134,
         "player": "Harrison Mevis",
         "pos": "K",
-        "points": "26.00",
-        "rank": "K5 → K10",
-        "value": -5,
+        "points": "28.00",
+        "rank": "K5 → K11",
+        "value": -6,
         "kept": true
       },
       {
@@ -479,9 +489,9 @@
         "overall": 147,
         "player": "Blake Corum",
         "pos": "RB",
-        "points": "22.20",
-        "rank": "RB44 → RB37",
-        "value": 7,
+        "points": "38.40",
+        "rank": "RB44 → RB31",
+        "value": 13,
         "kept": true
       },
       {
@@ -489,9 +499,9 @@
         "overall": 154,
         "player": "Chris Godwin Jr.",
         "pos": "WR",
-        "points": "31.70",
-        "rank": "WR54 → WR41",
-        "value": 13,
+        "points": "38.70",
+        "rank": "WR54 → WR38",
+        "value": 16,
         "kept": true
       }
     ],
@@ -500,7 +510,7 @@
         "name": "Travis Etienne Jr.",
         "pos": "RB",
         "status": "Injury Reserve",
-        "missed": 1,
+        "missed": 2,
         "storylines": [
           "on_ir",
           "still_out"
@@ -509,17 +519,17 @@
       {
         "name": "Caleb Williams",
         "pos": "QB",
-        "status": "Out",
-        "missed": 2,
+        "status": "Questionable",
+        "missed": 3,
         "storylines": [
-          "still_out"
+          "returning"
         ]
       },
       {
         "name": "Breece Hall",
         "pos": "RB",
         "status": "Doubtful",
-        "missed": 1,
+        "missed": 2,
         "storylines": [
           "still_out"
         ]
@@ -527,13 +537,6 @@
       {
         "name": "Chris Olave",
         "pos": "WR",
-        "status": "Questionable",
-        "missed": 0,
-        "storylines": []
-      },
-      {
-        "name": "Rhamondre Stevenson",
-        "pos": "RB",
         "status": "Questionable",
         "missed": 0,
         "storylines": []

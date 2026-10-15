@@ -10,17 +10,17 @@
   "runner_ups": [],
   "playoff_appearances": 1,
   "career": {
-    "record": "11-7",
-    "win_pct": 61.1,
+    "record": "11-8",
+    "win_pct": 57.9,
     "playoff_record": "0-1",
-    "ppg": "123.20"
+    "ppg": "122.15"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "2-2",
-      "pf": "517.46",
-      "ppg": "129.37",
+      "record": "2-3",
+      "pf": "620.76",
+      "ppg": "124.15",
       "finish": "In progress"
     },
     {
@@ -69,21 +69,21 @@
       "current": true
     },
     {
+      "opponent": "Luis Barroso",
+      "record": "1-1",
+      "win_pct": 50.0,
+      "meetings": 2,
+      "playoff_meetings": 0,
+      "last": "2026 wk 5: 103.30–176.58 L",
+      "current": true
+    },
+    {
       "opponent": "Kyle Allen",
       "record": "1-1",
       "win_pct": 50.0,
       "meetings": 2,
       "playoff_meetings": 0,
       "last": "2026 wk 4: 137.72–113.38 W",
-      "current": true
-    },
-    {
-      "opponent": "Luis Barroso",
-      "record": "1-0",
-      "win_pct": 100.0,
-      "meetings": 1,
-      "playoff_meetings": 0,
-      "last": "2025 wk 4: 135.76–107.98 W",
       "current": true
     },
     {
@@ -159,13 +159,13 @@
       "margin": "95.18"
     },
     "worst_loss": {
-      "year": 2025,
-      "week": 13,
-      "score": "81.30",
-      "opp_score": "129.70",
-      "opp": "Camilo Gelvez",
+      "year": 2026,
+      "week": 5,
+      "score": "103.30",
+      "opp_score": "176.58",
+      "opp": "Luis Barroso",
       "result": "L",
-      "margin": "48.40"
+      "margin": "73.28"
     },
     "win_streak": {
       "manager_name": "Joseph Calaway",
@@ -186,14 +186,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 4,
+    "through_week": 5,
     "division": "League Standings",
-    "record": "2-2",
-    "rank": 5,
-    "power_rank": 7,
+    "record": "2-3",
+    "rank": 7,
+    "power_rank": 8,
     "power_change": -1,
-    "playoff_pct": 44.0,
-    "pf": "517.46",
+    "playoff_pct": 36.1,
+    "pf": "620.76",
     "weeks": [
       {
         "week": 1,
@@ -234,17 +234,48 @@
         "projected": "124.13",
         "bench": "2.10",
         "bar": 69
+      },
+      {
+        "week": 5,
+        "result": "L",
+        "score": "103.30",
+        "opp": "Luis Barroso",
+        "opp_score": "176.58",
+        "projected": "114.03",
+        "bench": "25.40",
+        "bar": 52
       }
     ],
     "luck": {
-      "all_play_record": "21-15",
-      "expected_wins": 2.33,
-      "luck": -0.33,
-      "points_against_vs_league_avg": 27.24,
+      "all_play_record": "22-23",
+      "expected_wins": 2.44,
+      "luck": -0.44,
+      "points_against_vs_league_avg": 71.33,
       "wins_below_median": 1,
       "losses_above_median": 1
     },
     "moves": [
+      {
+        "week": 6,
+        "date": "10/14",
+        "added": [
+          {
+            "name": "Dontayvion Wicks",
+            "pos": "WR",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Jordan Addison",
+            "pos": "WR",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "0.00"
+      },
       {
         "week": 5,
         "date": "10/7",
@@ -252,19 +283,19 @@
           {
             "name": "Commanders D/ST",
             "pos": "D/ST",
-            "since": "0.00",
-            "started": "0.00"
+            "since": "3.00",
+            "started": "3.00"
           }
         ],
         "dropped": [
           {
             "name": "Texans D/ST",
             "pos": "D/ST",
-            "since": "0.00",
+            "since": "15.00",
             "now_on": "Don't call me Louis!"
           }
         ],
-        "net": "0.00"
+        "net": "-12.00"
       },
       {
         "week": 4,
@@ -273,7 +304,7 @@
           {
             "name": "Sam Darnold",
             "pos": "QB",
-            "since": "13.32",
+            "since": "21.62",
             "started": "0.00"
           }
         ],
@@ -281,11 +312,11 @@
           {
             "name": "Dak Prescott",
             "pos": "QB",
-            "since": "18.10",
-            "now_on": "GilberTeam"
+            "since": "30.74",
+            "now_on": "Njigbas in Paris"
           }
         ],
-        "net": "-4.78"
+        "net": "-9.12"
       },
       {
         "week": 4,
@@ -310,7 +341,7 @@
             "name": "Jalen Coker",
             "pos": "WR",
             "since": "0.00",
-            "now_on": "Free agent"
+            "now_on": "GilberTeam"
           }
         ],
         "net": null
@@ -322,19 +353,19 @@
           {
             "name": "Emanuel Wilson",
             "pos": "RB",
-            "since": "28.40",
-            "started": "27.00"
+            "since": "41.60",
+            "started": "40.20"
           }
         ],
         "dropped": [
           {
             "name": "C.J. Stroud",
             "pos": "QB",
-            "since": "34.76",
-            "now_on": "Free agent"
+            "since": "55.70",
+            "now_on": "CmartDaDart"
           }
         ],
-        "net": "-6.36"
+        "net": "-14.10"
       },
       {
         "week": 3,
@@ -343,7 +374,7 @@
           {
             "name": "Rachaad White",
             "pos": "RB",
-            "since": "11.10",
+            "since": "14.10",
             "started": "11.10"
           }
         ],
@@ -355,7 +386,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "5.20"
+        "net": "8.20"
       },
       {
         "week": 2,
@@ -372,11 +403,11 @@
           {
             "name": "Tyjae Spears",
             "pos": "RB",
-            "since": "11.10",
+            "since": "20.90",
             "now_on": "Free agent"
           }
         ],
-        "net": "-1.60"
+        "net": "-11.40"
       },
       {
         "week": 1,
@@ -399,7 +430,7 @@
           {
             "name": "Tyjae Spears",
             "pos": "RB",
-            "since": "15.50",
+            "since": "25.30",
             "started": "4.40"
           }
         ],
@@ -407,11 +438,11 @@
           {
             "name": "Rachaad White",
             "pos": "RB",
-            "since": "30.10",
+            "since": "33.10",
             "now_on": "Sleeper Cells"
           }
         ],
-        "net": "-14.60"
+        "net": "-7.80"
       },
       {
         "week": 1,
@@ -441,8 +472,8 @@
           {
             "name": "Devaughn Vele",
             "pos": "WR",
-            "since": "55.60",
-            "started": "55.60"
+            "since": "62.20",
+            "started": "62.20"
           }
         ],
         "dropped": [
@@ -453,7 +484,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "55.60"
+        "net": "62.20"
       }
     ],
     "trades": [],
@@ -463,7 +494,7 @@
         "overall": 6,
         "player": "Christian McCaffrey",
         "pos": "RB",
-        "points": "74.00",
+        "points": "91.30",
         "rank": "RB3 → RB9",
         "value": -6,
         "kept": true
@@ -473,9 +504,9 @@
         "overall": 15,
         "player": "Ka'imi Fairbairn",
         "pos": "K",
-        "points": "36.00",
-        "rank": "K1 → K5",
-        "value": -4,
+        "points": "53.00",
+        "rank": "K1 → K2",
+        "value": -1,
         "kept": true
       },
       {
@@ -483,7 +514,7 @@
         "overall": 26,
         "player": "Josh Allen",
         "pos": "QB",
-        "points": "112.46",
+        "points": "142.96",
         "rank": "QB1 → QB1",
         "value": 0,
         "kept": true
@@ -493,9 +524,9 @@
         "overall": 35,
         "player": "Texans D/ST",
         "pos": "D/ST",
-        "points": "16.00",
-        "rank": "D/ST1 → D/ST8",
-        "value": -7,
+        "points": "31.00",
+        "rank": "D/ST1 → D/ST6",
+        "value": -5,
         "kept": false
       },
       {
@@ -513,9 +544,9 @@
         "overall": 55,
         "player": "Dak Prescott",
         "pos": "QB",
-        "points": "81.20",
-        "rank": "QB5 → QB5",
-        "value": 0,
+        "points": "93.84",
+        "rank": "QB5 → QB4",
+        "value": 1,
         "kept": false
       },
       {
@@ -523,9 +554,9 @@
         "overall": 66,
         "player": "Brandon Aubrey",
         "pos": "K",
-        "points": "39.00",
-        "rank": "K2 → K2",
-        "value": 0,
+        "points": "44.00",
+        "rank": "K2 → K6",
+        "value": -4,
         "kept": true
       },
       {
@@ -543,9 +574,9 @@
         "overall": 86,
         "player": "George Kittle",
         "pos": "TE",
-        "points": "64.40",
-        "rank": "TE10 → TE2",
-        "value": 8,
+        "points": "71.80",
+        "rank": "TE10 → TE4",
+        "value": 6,
         "kept": true
       },
       {
@@ -553,9 +584,9 @@
         "overall": 95,
         "player": "C.J. Stroud",
         "pos": "QB",
-        "points": "68.24",
-        "rank": "QB10 → QB8",
-        "value": 2,
+        "points": "89.18",
+        "rank": "QB10 → QB5",
+        "value": 5,
         "kept": false
       },
       {
@@ -563,9 +594,9 @@
         "overall": 106,
         "player": "Matthew Golden",
         "pos": "WR",
-        "points": "58.00",
-        "rank": "WR42 → WR12",
-        "value": 30,
+        "points": "78.30",
+        "rank": "WR42 → WR11",
+        "value": 31,
         "kept": true
       },
       {
@@ -574,18 +605,18 @@
         "player": "Jordan Addison",
         "pos": "WR",
         "points": "33.20",
-        "rank": "WR46 → WR40",
-        "value": 6,
-        "kept": true
+        "rank": "WR46 → WR43",
+        "value": 3,
+        "kept": false
       },
       {
         "round": 13,
         "overall": 126,
         "player": "Steelers D/ST",
         "pos": "D/ST",
-        "points": "36.00",
-        "rank": "D/ST5 → D/ST2",
-        "value": 3,
+        "points": "37.00",
+        "rank": "D/ST5 → D/ST3",
+        "value": 2,
         "kept": true
       },
       {
@@ -593,9 +624,9 @@
         "overall": 135,
         "player": "Rachaad White",
         "pos": "RB",
-        "points": "30.10",
-        "rank": "RB41 → RB33",
-        "value": 8,
+        "points": "33.10",
+        "rank": "RB41 → RB34",
+        "value": 7,
         "kept": true
       },
       {
@@ -603,9 +634,9 @@
         "overall": 146,
         "player": "Kenyon Sadiq",
         "pos": "TE",
-        "points": "38.60",
-        "rank": "TE17 → TE12",
-        "value": 5,
+        "points": "38.90",
+        "rank": "TE17 → TE14",
+        "value": 3,
         "kept": true
       },
       {
@@ -613,7 +644,7 @@
         "overall": 155,
         "player": "Hunter Henry",
         "pos": "TE",
-        "points": "25.30",
+        "points": "38.70",
         "rank": "TE18 → TE15",
         "value": 3,
         "kept": true
@@ -624,23 +655,23 @@
         "name": "Isiah Pacheco",
         "pos": "RB",
         "status": "Injury Reserve",
-        "missed": 4,
+        "missed": 5,
         "storylines": [
           "on_ir",
           "still_out"
         ]
       },
       {
-        "name": "Rachaad White",
-        "pos": "RB",
+        "name": "Kenyon Sadiq",
+        "pos": "TE",
         "status": "Questionable",
-        "missed": 1,
+        "missed": 0,
         "storylines": [
-          "returning"
+          "newly_injured"
         ]
       },
       {
-        "name": "Jordan Addison",
+        "name": "Dontayvion Wicks",
         "pos": "WR",
         "status": "Questionable",
         "missed": 0,
