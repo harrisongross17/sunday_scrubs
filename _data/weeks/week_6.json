@@ -1,0 +1,1168 @@
+{
+  "week": 6,
+  "year": 2026,
+  "complete": true,
+  "playoff_teams": 6,
+  "standings": [
+    {
+      "rank": 1,
+      "manager": "Kevin Mangus",
+      "team": "Tiger's Wood",
+      "division": "League Standings",
+      "division_leader": true,
+      "record": "5-1",
+      "pf": "747.26",
+      "pa": "638.06",
+      "streak": "W2",
+      "form": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "in_playoffs": true,
+      "power_rank": 1,
+      "power_change": 2
+    },
+    {
+      "rank": 2,
+      "manager": "Erik Iverson",
+      "team": "Njigbas in Paris",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "4-2",
+      "pf": "865.94",
+      "pa": "770.52",
+      "streak": "L1",
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "in_playoffs": true,
+      "power_rank": 2,
+      "power_change": -1
+    },
+    {
+      "rank": 3,
+      "manager": "Cayden Martin",
+      "team": "CmartDaDart",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "4-2",
+      "pf": "793.98",
+      "pa": "700.70",
+      "streak": "L1",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ],
+      "in_playoffs": true,
+      "power_rank": 3,
+      "power_change": -1
+    },
+    {
+      "rank": 4,
+      "manager": "Luis Barroso",
+      "team": "Don't call me Louis!",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "3-3",
+      "pf": "788.34",
+      "pa": "793.52",
+      "streak": "L1",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "in_playoffs": true,
+      "power_rank": 4,
+      "power_change": 0
+    },
+    {
+      "rank": 5,
+      "manager": "John Matheson",
+      "team": "john's Scary Team",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "3-3",
+      "pf": "749.08",
+      "pa": "708.88",
+      "streak": "W2",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "W"
+      ],
+      "in_playoffs": true,
+      "power_rank": 5,
+      "power_change": 1
+    },
+    {
+      "rank": 6,
+      "manager": "Joseph Calaway",
+      "team": "Sleeper Cells",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "3-3",
+      "pf": "748.86",
+      "pa": "782.52",
+      "streak": "W1",
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "in_playoffs": true,
+      "power_rank": 7,
+      "power_change": 1
+    },
+    {
+      "rank": 7,
+      "manager": "Collin Gibbs",
+      "team": "Mayeday",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "3-3",
+      "pf": "655.02",
+      "pa": "697.92",
+      "streak": "L2",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "in_playoffs": false,
+      "power_rank": 6,
+      "power_change": -1
+    },
+    {
+      "rank": 8,
+      "manager": "Camilo Gelvez",
+      "team": "GilberTeam",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "2-4",
+      "pf": "659.88",
+      "pa": "734.90",
+      "streak": "W1",
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "in_playoffs": false,
+      "power_rank": 9,
+      "power_change": 0
+    },
+    {
+      "rank": 9,
+      "manager": "Andy Saliba",
+      "team": "Marino",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "2-4",
+      "pf": "629.06",
+      "pa": "729.36",
+      "streak": "L2",
+      "form": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "in_playoffs": false,
+      "power_rank": 8,
+      "power_change": -1
+    },
+    {
+      "rank": 10,
+      "manager": "Kyle Allen",
+      "team": "George Droyd",
+      "division": "League Standings",
+      "division_leader": false,
+      "record": "1-5",
+      "pf": "661.80",
+      "pa": "742.84",
+      "streak": "W1",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "in_playoffs": false,
+      "power_rank": 10,
+      "power_change": 0
+    }
+  ],
+  "matchups": [
+    {
+      "home": {
+        "manager": "Kevin Mangus",
+        "team": "Tiger's Wood",
+        "score": "116.04",
+        "projected": "124.60",
+        "record": "5-1"
+      },
+      "away": {
+        "manager": "Erik Iverson",
+        "team": "Njigbas in Paris",
+        "score": "112.72",
+        "projected": "128.64",
+        "record": "4-2"
+      },
+      "winner": "home",
+      "margin": "3.32",
+      "tags": [
+        "Nail-biter"
+      ]
+    },
+    {
+      "home": {
+        "manager": "Luis Barroso",
+        "team": "Don't call me Louis!",
+        "score": "107.98",
+        "projected": "114.84",
+        "record": "3-3"
+      },
+      "away": {
+        "manager": "Kyle Allen",
+        "team": "George Droyd",
+        "score": "115.34",
+        "projected": "103.03",
+        "record": "1-5"
+      },
+      "winner": "away",
+      "margin": "7.36",
+      "tags": []
+    },
+    {
+      "home": {
+        "manager": "Camilo Gelvez",
+        "team": "GilberTeam",
+        "score": "93.92",
+        "projected": "123.37",
+        "record": "2-4"
+      },
+      "away": {
+        "manager": "Collin Gibbs",
+        "team": "Mayeday",
+        "score": "85.50",
+        "projected": "119.96",
+        "record": "3-3"
+      },
+      "winner": "home",
+      "margin": "8.42",
+      "tags": [
+        "Low score"
+      ]
+    },
+    {
+      "home": {
+        "manager": "Andy Saliba",
+        "team": "Marino",
+        "score": "90.66",
+        "projected": "122.70",
+        "record": "2-4"
+      },
+      "away": {
+        "manager": "Joseph Calaway",
+        "team": "Sleeper Cells",
+        "score": "128.10",
+        "projected": "126.94",
+        "record": "3-3"
+      },
+      "winner": "away",
+      "margin": "37.44",
+      "tags": [
+        "Blowout"
+      ]
+    },
+    {
+      "home": {
+        "manager": "Cayden Martin",
+        "team": "CmartDaDart",
+        "score": "115.34",
+        "projected": "128.17",
+        "record": "4-2"
+      },
+      "away": {
+        "manager": "John Matheson",
+        "team": "john's Scary Team",
+        "score": "128.28",
+        "projected": "138.39",
+        "record": "3-3"
+      },
+      "winner": "away",
+      "margin": "12.94",
+      "tags": [
+        "High score"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "icon": "🔥",
+      "label": "Top Score",
+      "manager": "John Matheson",
+      "stat": "128.28",
+      "unit": "pts",
+      "detail": "vs CmartDaDart",
+      "team": "john's Scary Team"
+    },
+    {
+      "icon": "🪑",
+      "label": "Bench Blunder",
+      "manager": "Camilo Gelvez",
+      "stat": "31.60",
+      "unit": "pts left on bench",
+      "detail": "Optimal lineup: 125.52",
+      "team": "GilberTeam"
+    },
+    {
+      "icon": "🍀",
+      "label": "Luckiest Win",
+      "manager": "Camilo Gelvez",
+      "stat": "93.92",
+      "unit": "pts",
+      "detail": "Below the league median (114.03) and still beat Mayeday",
+      "team": "GilberTeam"
+    },
+    {
+      "icon": "💔",
+      "label": "Toughest Loss",
+      "manager": "Cayden Martin",
+      "stat": "115.34",
+      "unit": "pts",
+      "detail": "Highest losing score — fell to john's Scary Team",
+      "team": "CmartDaDart"
+    },
+    {
+      "icon": "⭐",
+      "label": "Player of the Week",
+      "manager": "Joseph Calaway",
+      "stat": "30.70",
+      "unit": "pts",
+      "detail": "Christian McCaffrey (RB), projected 21.22",
+      "team": "Sleeper Cells"
+    },
+    {
+      "icon": "🗑️",
+      "label": "Drop Regret",
+      "manager": "Collin Gibbs",
+      "stat": "36.20",
+      "unit": "pts behind",
+      "detail": "Dropped J.K. Dobbins (36.20 since) for Tyreek Hill (0.00) in week 4",
+      "team": "Mayeday"
+    }
+  ],
+  "top_by_position": [
+    {
+      "position": "QB",
+      "players": [
+        {
+          "name": "Trevor Lawrence",
+          "position": "QB",
+          "points": "27.34",
+          "manager": "Kyle Allen",
+          "team": "George Droyd",
+          "started": true
+        },
+        {
+          "name": "Tyler Shough",
+          "position": "QB",
+          "points": "26.96",
+          "manager": "Collin Gibbs",
+          "team": "Mayeday",
+          "started": false
+        },
+        {
+          "name": "Drake Maye",
+          "position": "QB",
+          "points": "23.80",
+          "manager": "Collin Gibbs",
+          "team": "Mayeday",
+          "started": true
+        }
+      ]
+    },
+    {
+      "position": "RB",
+      "players": [
+        {
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "points": "30.70",
+          "manager": "Joseph Calaway",
+          "team": "Sleeper Cells",
+          "started": true
+        },
+        {
+          "name": "Kenneth Walker III",
+          "position": "RB",
+          "points": "27.90",
+          "manager": "Erik Iverson",
+          "team": "Njigbas in Paris",
+          "started": true
+        },
+        {
+          "name": "Bhayshul Tuten",
+          "position": "RB",
+          "points": "24.70",
+          "manager": "Cayden Martin",
+          "team": "CmartDaDart",
+          "started": true
+        }
+      ]
+    },
+    {
+      "position": "WR",
+      "players": [
+        {
+          "name": "Malik Nabers",
+          "position": "WR",
+          "points": "28.50",
+          "manager": "John Matheson",
+          "team": "john's Scary Team",
+          "started": true
+        },
+        {
+          "name": "Germie Bernard",
+          "position": "WR",
+          "points": "25.70",
+          "manager": "Luis Barroso",
+          "team": "Don't call me Louis!",
+          "started": true
+        },
+        {
+          "name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "points": "25.40",
+          "manager": "Erik Iverson",
+          "team": "Njigbas in Paris",
+          "started": true
+        }
+      ]
+    },
+    {
+      "position": "TE",
+      "players": [
+        {
+          "name": "Isaiah Likely",
+          "position": "TE",
+          "points": "23.90",
+          "manager": "John Matheson",
+          "team": "john's Scary Team",
+          "started": true
+        },
+        {
+          "name": "Kyle Pitts Sr.",
+          "position": "TE",
+          "points": "23.00",
+          "manager": "John Matheson",
+          "team": "john's Scary Team",
+          "started": false
+        },
+        {
+          "name": "Colston Loveland",
+          "position": "TE",
+          "points": "18.50",
+          "manager": "Kyle Allen",
+          "team": "George Droyd",
+          "started": true
+        }
+      ]
+    }
+  ],
+  "moves": [
+    {
+      "kind": "Waiver",
+      "manager": "Erik Iverson",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Panthers D/ST",
+          "pos": "D/ST",
+          "nfl": "CAR"
+        },
+        {
+          "dir": "drop",
+          "name": "Giants D/ST",
+          "pos": "D/ST",
+          "nfl": "NYG"
+        }
+      ],
+      "date": "Thu 10/22",
+      "team": "Njigbas in Paris"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Andy Saliba",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Dak Prescott",
+          "pos": "QB",
+          "nfl": "DAL"
+        },
+        {
+          "dir": "drop",
+          "name": "Jayden Daniels",
+          "pos": "QB",
+          "nfl": "WSH"
+        }
+      ],
+      "date": "Thu 10/22",
+      "team": "Marino"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Cayden Martin",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Kendre Miller",
+          "pos": "RB",
+          "nfl": "NO"
+        },
+        {
+          "dir": "drop",
+          "name": "Christian Kirk",
+          "pos": "WR",
+          "nfl": "SF"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "CmartDaDart"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Andy Saliba",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "T.J. Hockenson",
+          "pos": "TE",
+          "nfl": "MIN"
+        },
+        {
+          "dir": "drop",
+          "name": "Baker Mayfield",
+          "pos": "QB",
+          "nfl": "TB"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Marino"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Andy Saliba",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Tre Tucker",
+          "pos": "WR",
+          "nfl": "LV"
+        },
+        {
+          "dir": "drop",
+          "name": "Courtland Sutton",
+          "pos": "WR",
+          "nfl": "DEN"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Marino"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Andy Saliba",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Browns D/ST",
+          "pos": "D/ST",
+          "nfl": "CLE"
+        },
+        {
+          "dir": "drop",
+          "name": "Ravens D/ST",
+          "pos": "D/ST",
+          "nfl": "BAL"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Marino"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Cayden Martin",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Christian Kirk",
+          "pos": "WR",
+          "nfl": "SF"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "CmartDaDart"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Andy Saliba",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Jordan Addison",
+          "pos": "WR",
+          "nfl": "MIN"
+        },
+        {
+          "dir": "drop",
+          "name": "Tyler Allgeier",
+          "pos": "RB",
+          "nfl": "ARI"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Marino"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Cayden Martin",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "David Montgomery",
+          "pos": "RB",
+          "nfl": "HOU"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "CmartDaDart"
+    },
+    {
+      "kind": "Drop",
+      "manager": "Cayden Martin",
+      "lines": [
+        {
+          "dir": "drop",
+          "name": "Michael Pittman Jr.",
+          "pos": "WR",
+          "nfl": "PIT"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "CmartDaDart"
+    },
+    {
+      "kind": "Drop",
+      "manager": "Cayden Martin",
+      "lines": [
+        {
+          "dir": "drop",
+          "name": "Blake Grupe",
+          "pos": "K",
+          "nfl": "LAR"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "CmartDaDart"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "Luis Barroso",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Omar Cooper Jr.",
+          "pos": "WR",
+          "nfl": "NYJ"
+        },
+        {
+          "dir": "drop",
+          "name": "Terry McLaurin",
+          "pos": "WR",
+          "nfl": "WSH"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Don't call me Louis!"
+    },
+    {
+      "kind": "Free agent",
+      "manager": "John Matheson",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Titans D/ST",
+          "pos": "D/ST",
+          "nfl": "TEN"
+        },
+        {
+          "dir": "drop",
+          "name": "Dominic Zvada",
+          "pos": "K",
+          "nfl": "NYG"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "john's Scary Team"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Erik Iverson",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Chris Boswell",
+          "pos": "K",
+          "nfl": "PIT"
+        },
+        {
+          "dir": "drop",
+          "name": "Dak Prescott",
+          "pos": "QB",
+          "nfl": "DAL"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Njigbas in Paris"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Luis Barroso",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "DeMario Douglas",
+          "pos": "WR",
+          "nfl": "NE"
+        },
+        {
+          "dir": "drop",
+          "name": "Dameon Pierce",
+          "pos": "RB",
+          "nfl": "PHI"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Don't call me Louis!"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Keenan Allen",
+          "pos": "WR",
+          "nfl": "IND"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "GilberTeam"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Erik Iverson",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Pat Freiermuth",
+          "pos": "TE",
+          "nfl": "PIT"
+        },
+        {
+          "dir": "drop",
+          "name": "Dalton Schultz",
+          "pos": "TE",
+          "nfl": "HOU"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Njigbas in Paris"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Luis Barroso",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Colby Parkinson",
+          "pos": "TE",
+          "nfl": "LAR"
+        },
+        {
+          "dir": "drop",
+          "name": "Brenton Strange",
+          "pos": "TE",
+          "nfl": "JAX"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Don't call me Louis!"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Collin Gibbs",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Texans D/ST",
+          "pos": "D/ST",
+          "nfl": "HOU"
+        },
+        {
+          "dir": "drop",
+          "name": "Jaguars D/ST",
+          "pos": "D/ST",
+          "nfl": "JAX"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "Mayeday"
+    },
+    {
+      "kind": "Waiver",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "add",
+          "name": "Tyrone Tracy Jr.",
+          "pos": "RB",
+          "nfl": "NYG"
+        }
+      ],
+      "date": "Wed 10/21",
+      "team": "GilberTeam"
+    },
+    {
+      "kind": "Drop",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "drop",
+          "name": "Panthers D/ST",
+          "pos": "D/ST",
+          "nfl": "CAR"
+        }
+      ],
+      "date": "Tue 10/20",
+      "team": "GilberTeam"
+    },
+    {
+      "kind": "Drop",
+      "manager": "Camilo Gelvez",
+      "lines": [
+        {
+          "dir": "drop",
+          "name": "Jalen Hurts",
+          "pos": "QB",
+          "nfl": "PHI"
+        }
+      ],
+      "date": "Tue 10/20",
+      "team": "GilberTeam"
+    }
+  ],
+  "season_stats": {
+    "through_week": 6,
+    "leaders": [
+      {
+        "icon": "🔥",
+        "label": "Most Points",
+        "manager": "Erik Iverson",
+        "stat": "865.94",
+        "detail": "144.32 per game",
+        "team": "Njigbas in Paris"
+      },
+      {
+        "icon": "🧱",
+        "label": "Toughest Schedule",
+        "manager": "Luis Barroso",
+        "stat": "793.52",
+        "detail": "most points scored against",
+        "team": "Don't call me Louis!"
+      },
+      {
+        "icon": "🔄",
+        "label": "Most Waiver Moves",
+        "manager": "Luis Barroso",
+        "stat": "23",
+        "detail": "adds this season",
+        "team": "Don't call me Louis!"
+      },
+      {
+        "icon": "🎯",
+        "label": "Best Lineup Setter",
+        "manager": "Kevin Mangus",
+        "stat": "91.0%",
+        "detail": "of possible points started",
+        "team": "Tiger's Wood"
+      },
+      {
+        "icon": "🪑",
+        "label": "Most Left on Bench",
+        "manager": "Camilo Gelvez",
+        "stat": "183.66",
+        "detail": "points on the bench",
+        "team": "GilberTeam"
+      },
+      {
+        "icon": "🍀",
+        "label": "Luckiest Record",
+        "manager": "Kevin Mangus",
+        "stat": "+1.33",
+        "detail": "wins above expected · all-play 33-21",
+        "team": "Tiger's Wood"
+      }
+    ],
+    "table": [
+      {
+        "manager": "Erik Iverson",
+        "pf": "865.94",
+        "pa": "770.52",
+        "avg": "144.32",
+        "high": "179.18",
+        "low": "112.72",
+        "moves": 12,
+        "trades": 0,
+        "bench": "87.18",
+        "efficiency": 90.9,
+        "all_play": "41-13",
+        "luck": -0.56,
+        "team": "Njigbas in Paris"
+      },
+      {
+        "manager": "Cayden Martin",
+        "pf": "793.98",
+        "pa": "700.70",
+        "avg": "132.33",
+        "high": "160.50",
+        "low": "105.30",
+        "moves": 10,
+        "trades": 0,
+        "bench": "103.84",
+        "efficiency": 88.4,
+        "all_play": "33-20-1",
+        "luck": 0.28,
+        "team": "CmartDaDart"
+      },
+      {
+        "manager": "Luis Barroso",
+        "pf": "788.34",
+        "pa": "793.52",
+        "avg": "131.39",
+        "high": "176.58",
+        "low": "104.00",
+        "moves": 23,
+        "trades": 0,
+        "bench": "130.30",
+        "efficiency": 85.8,
+        "all_play": "34-20",
+        "luck": -0.78,
+        "team": "Don't call me Louis!"
+      },
+      {
+        "manager": "John Matheson",
+        "pf": "749.08",
+        "pa": "708.88",
+        "avg": "124.85",
+        "high": "194.82",
+        "low": "65.10",
+        "moves": 14,
+        "trades": 0,
+        "bench": "96.64",
+        "efficiency": 88.6,
+        "all_play": "32-22",
+        "luck": -0.56,
+        "team": "john's Scary Team"
+      },
+      {
+        "manager": "Joseph Calaway",
+        "pf": "748.86",
+        "pa": "782.52",
+        "avg": "124.81",
+        "high": "137.72",
+        "low": "103.30",
+        "moves": 11,
+        "trades": 0,
+        "bench": "139.28",
+        "efficiency": 84.3,
+        "all_play": "30-24",
+        "luck": -0.33,
+        "team": "Sleeper Cells"
+      },
+      {
+        "manager": "Kevin Mangus",
+        "pf": "747.26",
+        "pa": "638.06",
+        "avg": "124.54",
+        "high": "149.46",
+        "low": "111.42",
+        "moves": 5,
+        "trades": 0,
+        "bench": "73.70",
+        "efficiency": 91.0,
+        "all_play": "33-21",
+        "luck": 1.33,
+        "team": "Tiger's Wood"
+      },
+      {
+        "manager": "Kyle Allen",
+        "pf": "661.80",
+        "pa": "742.84",
+        "avg": "110.30",
+        "high": "122.70",
+        "low": "90.76",
+        "moves": 2,
+        "trades": 0,
+        "bench": "75.60",
+        "efficiency": 89.7,
+        "all_play": "16-37-1",
+        "luck": -0.83,
+        "team": "George Droyd"
+      },
+      {
+        "manager": "Camilo Gelvez",
+        "pf": "659.88",
+        "pa": "734.90",
+        "avg": "109.98",
+        "high": "127.84",
+        "low": "89.32",
+        "moves": 18,
+        "trades": 0,
+        "bench": "183.66",
+        "efficiency": 78.2,
+        "all_play": "18-36",
+        "luck": 0.0,
+        "team": "GilberTeam"
+      },
+      {
+        "manager": "Collin Gibbs",
+        "pf": "655.02",
+        "pa": "697.92",
+        "avg": "109.17",
+        "high": "124.42",
+        "low": "85.50",
+        "moves": 11,
+        "trades": 0,
+        "bench": "159.12",
+        "efficiency": 80.5,
+        "all_play": "18-36",
+        "luck": 1.0,
+        "team": "Mayeday"
+      },
+      {
+        "manager": "Andy Saliba",
+        "pf": "629.06",
+        "pa": "729.36",
+        "avg": "104.84",
+        "high": "157.58",
+        "low": "73.86",
+        "moves": 14,
+        "trades": 0,
+        "bench": "148.18",
+        "efficiency": 80.9,
+        "all_play": "14-40",
+        "luck": 0.44,
+        "team": "Marino"
+      }
+    ]
+  },
+  "next_week": [
+    {
+      "home": {
+        "manager": "Luis Barroso",
+        "team": "Don't call me Louis!",
+        "record": "3-3"
+      },
+      "away": {
+        "manager": "Kevin Mangus",
+        "team": "Tiger's Wood",
+        "record": "5-1"
+      },
+      "series": "Don't call me Louis! leads 1-0",
+      "meetings": 1
+    },
+    {
+      "home": {
+        "manager": "Erik Iverson",
+        "team": "Njigbas in Paris",
+        "record": "4-2"
+      },
+      "away": {
+        "manager": "Camilo Gelvez",
+        "team": "GilberTeam",
+        "record": "2-4"
+      },
+      "series": "First meeting",
+      "meetings": 0
+    },
+    {
+      "home": {
+        "manager": "Kyle Allen",
+        "team": "George Droyd",
+        "record": "1-5"
+      },
+      "away": {
+        "manager": "Andy Saliba",
+        "team": "Marino",
+        "record": "2-4"
+      },
+      "series": "Marino leads 1-0",
+      "meetings": 1
+    },
+    {
+      "home": {
+        "manager": "Collin Gibbs",
+        "team": "Mayeday",
+        "record": "3-3"
+      },
+      "away": {
+        "manager": "Cayden Martin",
+        "team": "CmartDaDart",
+        "record": "4-2"
+      },
+      "series": "Mayeday leads 1-0",
+      "meetings": 1
+    },
+    {
+      "home": {
+        "manager": "Joseph Calaway",
+        "team": "Sleeper Cells",
+        "record": "3-3"
+      },
+      "away": {
+        "manager": "John Matheson",
+        "team": "john's Scary Team",
+        "record": "3-3"
+      },
+      "series": "First meeting",
+      "meetings": 0
+    }
+  ]
+}

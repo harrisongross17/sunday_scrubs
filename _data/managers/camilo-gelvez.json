@@ -12,17 +12,17 @@
   "runner_ups": [],
   "playoff_appearances": 1,
   "career": {
-    "record": "11-8",
-    "win_pct": 57.9,
+    "record": "12-8",
+    "win_pct": 60.0,
     "playoff_record": "2-0",
-    "ppg": "116.90"
+    "ppg": "115.75"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "1-4",
-      "pf": "565.96",
-      "ppg": "113.19",
+      "record": "2-4",
+      "pf": "659.88",
+      "ppg": "109.98",
       "finish": "In progress"
     },
     {
@@ -71,6 +71,15 @@
       "current": true
     },
     {
+      "opponent": "Collin Gibbs",
+      "record": "2-0",
+      "win_pct": 100.0,
+      "meetings": 2,
+      "playoff_meetings": 0,
+      "last": "2026 wk 6: 93.92–85.50 W",
+      "current": true
+    },
+    {
       "opponent": "Cayden Martin",
       "record": "1-0",
       "win_pct": 100.0,
@@ -86,15 +95,6 @@
       "meetings": 1,
       "playoff_meetings": 0,
       "last": "2025 wk 7: 141.44–144.70 L",
-      "current": true
-    },
-    {
-      "opponent": "Collin Gibbs",
-      "record": "1-0",
-      "win_pct": 100.0,
-      "meetings": 1,
-      "playoff_meetings": 0,
-      "last": "2025 wk 10: 120.90–87.24 W",
       "current": true
     },
     {
@@ -197,14 +197,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 5,
+    "through_week": 6,
     "division": "League Standings",
-    "record": "1-4",
-    "rank": 9,
+    "record": "2-4",
+    "rank": 8,
     "power_rank": 9,
     "power_change": 0,
-    "playoff_pct": 30.3,
-    "pf": "565.96",
+    "playoff_pct": 22.1,
+    "pf": "659.88",
     "weeks": [
       {
         "week": 1,
@@ -255,20 +255,30 @@
         "projected": "123.12",
         "bench": "9.96",
         "bar": 64
+      },
+      {
+        "week": 6,
+        "result": "W",
+        "score": "93.92",
+        "opp": "Collin Gibbs",
+        "opp_score": "85.50",
+        "projected": "123.37",
+        "bench": "31.60",
+        "bar": 47
       }
     ],
     "luck": {
-      "all_play_record": "16-29",
-      "expected_wins": 1.78,
-      "luck": -0.78,
-      "points_against_vs_league_avg": 28.87,
-      "wins_below_median": 0,
+      "all_play_record": "18-36",
+      "expected_wins": 2.0,
+      "luck": 0.0,
+      "points_against_vs_league_avg": 4.98,
+      "wins_below_median": 1,
       "losses_above_median": 1
     },
     "moves": [
       {
-        "week": 6,
-        "date": "10/14",
+        "week": 7,
+        "date": "10/21",
         "added": [
           {
             "name": "Keenan Allen",
@@ -277,15 +287,120 @@
             "started": "0.00"
           }
         ],
+        "dropped": [],
+        "net": null
+      },
+      {
+        "week": 7,
+        "date": "10/21",
+        "added": [
+          {
+            "name": "Tyrone Tracy Jr.",
+            "pos": "RB",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [],
+        "net": null
+      },
+      {
+        "week": 7,
+        "date": "10/20",
+        "added": [],
         "dropped": [
           {
-            "name": "Dak Prescott",
-            "pos": "QB",
+            "name": "Panthers D/ST",
+            "pos": "D/ST",
             "since": "0.00",
             "now_on": "Njigbas in Paris"
           }
         ],
-        "net": "0.00"
+        "net": null
+      },
+      {
+        "week": 7,
+        "date": "10/20",
+        "added": [],
+        "dropped": [
+          {
+            "name": "Jalen Hurts",
+            "pos": "QB",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": null
+      },
+      {
+        "week": 6,
+        "date": "10/17",
+        "added": [
+          {
+            "name": "Panthers D/ST",
+            "pos": "D/ST",
+            "since": "6.00",
+            "started": "6.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Keenan Allen",
+            "pos": "WR",
+            "since": "16.20",
+            "now_on": "GilberTeam"
+          }
+        ],
+        "net": "-10.20"
+      },
+      {
+        "week": 6,
+        "date": "10/17",
+        "added": [
+          {
+            "name": "Kirk Cousins",
+            "pos": "QB",
+            "since": "18.52",
+            "started": "18.52"
+          }
+        ],
+        "dropped": [],
+        "net": null
+      },
+      {
+        "week": 6,
+        "date": "10/17",
+        "added": [],
+        "dropped": [
+          {
+            "name": "Deebo Samuel Sr.",
+            "pos": "WR",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": null
+      },
+      {
+        "week": 6,
+        "date": "10/14",
+        "added": [
+          {
+            "name": "Keenan Allen",
+            "pos": "WR",
+            "since": "16.20",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Dak Prescott",
+            "pos": "QB",
+            "since": "11.02",
+            "now_on": "Marino"
+          }
+        ],
+        "net": "5.18"
       },
       {
         "week": 6,
@@ -294,8 +409,8 @@
           {
             "name": "Jalen Coker",
             "pos": "WR",
-            "since": "0.00",
-            "started": "0.00"
+            "since": "15.70",
+            "started": "15.70"
           }
         ],
         "dropped": [
@@ -303,10 +418,10 @@
             "name": "David Montgomery",
             "pos": "RB",
             "since": "0.00",
-            "now_on": "Free agent"
+            "now_on": "CmartDaDart"
           }
         ],
-        "net": "0.00"
+        "net": "15.70"
       },
       {
         "week": 5,
@@ -315,7 +430,7 @@
           {
             "name": "Dak Prescott",
             "pos": "QB",
-            "since": "12.64",
+            "since": "23.66",
             "started": "12.64"
           }
         ],
@@ -327,7 +442,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "12.64"
+        "net": "23.66"
       },
       {
         "week": 4,
@@ -344,11 +459,11 @@
           {
             "name": "Kaelon Black",
             "pos": "RB",
-            "since": "2.90",
+            "since": "7.60",
             "now_on": "Free agent"
           }
         ],
-        "net": "3.70"
+        "net": "-1.00"
       },
       {
         "week": 4,
@@ -365,11 +480,11 @@
           {
             "name": "Rome Odunze",
             "pos": "WR",
-            "since": "20.40",
+            "since": "27.30",
             "now_on": "Mayeday"
           }
         ],
-        "net": "12.40"
+        "net": "5.50"
       },
       {
         "week": 3,
@@ -378,7 +493,7 @@
           {
             "name": "Rome Odunze",
             "pos": "WR",
-            "since": "27.80",
+            "since": "34.70",
             "started": "0.00"
           }
         ],
@@ -390,7 +505,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "27.80"
+        "net": "34.70"
       },
       {
         "week": 3,
@@ -407,11 +522,11 @@
           {
             "name": "49ers D/ST",
             "pos": "D/ST",
-            "since": "25.00",
+            "since": "30.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "17.00"
+        "net": "12.00"
       },
       {
         "week": 3,
@@ -420,19 +535,19 @@
           {
             "name": "Spencer Shrader",
             "pos": "K",
-            "since": "54.00",
-            "started": "54.00"
+            "since": "63.00",
+            "started": "63.00"
           }
         ],
         "dropped": [
           {
             "name": "Tyler Bass",
             "pos": "K",
-            "since": "27.00",
+            "since": "44.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "27.00"
+        "net": "19.00"
       },
       {
         "week": 2,
@@ -441,7 +556,7 @@
           {
             "name": "Alvin Kamara",
             "pos": "RB",
-            "since": "37.70",
+            "since": "52.60",
             "started": "0.00"
           }
         ],
@@ -450,10 +565,10 @@
             "name": "Baker Mayfield",
             "pos": "QB",
             "since": "23.46",
-            "now_on": "Marino"
+            "now_on": "Free agent"
           }
         ],
-        "net": "14.24"
+        "net": "29.14"
       },
       {
         "week": 2,
@@ -462,7 +577,7 @@
           {
             "name": "Tyler Bass",
             "pos": "K",
-            "since": "32.00",
+            "since": "49.00",
             "started": "5.00"
           }
         ],
@@ -470,8 +585,8 @@
           {
             "name": "Chris Boswell",
             "pos": "K",
-            "since": "33.00",
-            "now_on": "Free agent"
+            "since": "50.00",
+            "now_on": "Njigbas in Paris"
           }
         ],
         "net": "-1.00"
@@ -483,7 +598,7 @@
           {
             "name": "Kaelon Black",
             "pos": "RB",
-            "since": "7.10",
+            "since": "11.80",
             "started": "0.00"
           }
         ],
@@ -491,11 +606,11 @@
           {
             "name": "Mike Washington Jr.",
             "pos": "RB",
-            "since": "16.80",
+            "since": "22.80",
             "now_on": "Free agent"
           }
         ],
-        "net": "-9.70"
+        "net": "-11.00"
       },
       {
         "week": 2,
@@ -518,7 +633,7 @@
           {
             "name": "49ers D/ST",
             "pos": "D/ST",
-            "since": "34.00",
+            "since": "39.00",
             "started": "9.00"
           }
         ],
@@ -526,11 +641,11 @@
           {
             "name": "Jaguars D/ST",
             "pos": "D/ST",
-            "since": "22.00",
-            "now_on": "Mayeday"
+            "since": "20.00",
+            "now_on": "Free agent"
           }
         ],
-        "net": "12.00"
+        "net": "19.00"
       },
       {
         "week": 1,
@@ -539,7 +654,7 @@
           {
             "name": "Mike Washington Jr.",
             "pos": "RB",
-            "since": "20.90",
+            "since": "26.90",
             "started": "0.00"
           }
         ],
@@ -547,11 +662,11 @@
           {
             "name": "Alvin Kamara",
             "pos": "RB",
-            "since": "37.70",
+            "since": "52.60",
             "now_on": "GilberTeam"
           }
         ],
-        "net": "-16.80"
+        "net": "-25.70"
       }
     ],
     "trades": [],
@@ -562,8 +677,8 @@
         "player": "Ja'Marr Chase",
         "pos": "WR",
         "points": "79.90",
-        "rank": "WR3 → WR10",
-        "value": -7,
+        "rank": "WR3 → WR17",
+        "value": -14,
         "kept": true
       },
       {
@@ -571,9 +686,9 @@
         "overall": 16,
         "player": "Ashton Jeanty",
         "pos": "RB",
-        "points": "84.60",
-        "rank": "RB8 → RB11",
-        "value": -3,
+        "points": "100.40",
+        "rank": "RB8 → RB12",
+        "value": -4,
         "kept": true
       },
       {
@@ -581,7 +696,7 @@
         "overall": 25,
         "player": "A.J. Brown",
         "pos": "WR",
-        "points": "5.60",
+        "points": "11.30",
         "rank": "WR10 → WR52",
         "value": -42,
         "kept": true
@@ -591,9 +706,9 @@
         "overall": 36,
         "player": "DeVonta Smith",
         "pos": "WR",
-        "points": "48.50",
-        "rank": "WR13 → WR30",
-        "value": -17,
+        "points": "69.00",
+        "rank": "WR13 → WR24",
+        "value": -11,
         "kept": true
       },
       {
@@ -602,18 +717,18 @@
         "player": "Jalen Hurts",
         "pos": "QB",
         "points": "80.02",
-        "rank": "QB3 → QB11",
-        "value": -8,
-        "kept": true
+        "rank": "QB3 → QB12",
+        "value": -9,
+        "kept": false
       },
       {
         "round": 6,
         "overall": 56,
         "player": "Bucky Irving",
         "pos": "RB",
-        "points": "78.70",
-        "rank": "RB22 → RB14",
-        "value": 8,
+        "points": "85.60",
+        "rank": "RB22 → RB15",
+        "value": 7,
         "kept": true
       },
       {
@@ -622,8 +737,8 @@
         "player": "Jadarian Price",
         "pos": "RB",
         "points": "14.00",
-        "rank": "RB24 → RB41",
-        "value": -17,
+        "rank": "RB24 → RB42",
+        "value": -18,
         "kept": true
       },
       {
@@ -632,8 +747,8 @@
         "player": "David Montgomery",
         "pos": "RB",
         "points": "45.50",
-        "rank": "RB29 → RB25",
-        "value": 4,
+        "rank": "RB29 → RB32",
+        "value": -3,
         "kept": false
       },
       {
@@ -641,9 +756,9 @@
         "overall": 85,
         "player": "Tucker Kraft",
         "pos": "TE",
-        "points": "47.70",
-        "rank": "TE9 → TE11",
-        "value": -2,
+        "points": "56.40",
+        "rank": "TE9 → TE9",
+        "value": 0,
         "kept": true
       },
       {
@@ -651,9 +766,9 @@
         "overall": 96,
         "player": "Tony Pollard",
         "pos": "RB",
-        "points": "43.70",
-        "rank": "RB31 → RB27",
-        "value": 4,
+        "points": "51.30",
+        "rank": "RB31 → RB28",
+        "value": 3,
         "kept": true
       },
       {
@@ -661,9 +776,9 @@
         "overall": 105,
         "player": "Stefon Diggs",
         "pos": "WR",
-        "points": "53.00",
-        "rank": "WR41 → WR26",
-        "value": 15,
+        "points": "69.40",
+        "rank": "WR41 → WR23",
+        "value": 18,
         "kept": true
       },
       {
@@ -672,18 +787,18 @@
         "player": "Deebo Samuel Sr.",
         "pos": "WR",
         "points": "60.40",
-        "rank": "WR47 → WR22",
-        "value": 25,
-        "kept": true
+        "rank": "WR47 → WR29",
+        "value": 18,
+        "kept": false
       },
       {
         "round": 13,
         "overall": 125,
         "player": "Alvin Kamara",
         "pos": "RB",
-        "points": "37.70",
-        "rank": "RB38 → RB32",
-        "value": 6,
+        "points": "52.60",
+        "rank": "RB38 → RB25",
+        "value": 13,
         "kept": true
       },
       {
@@ -701,9 +816,9 @@
         "overall": 145,
         "player": "Jaguars D/ST",
         "pos": "D/ST",
-        "points": "36.00",
-        "rank": "D/ST9 → D/ST4",
-        "value": 5,
+        "points": "34.00",
+        "rank": "D/ST9 → D/ST7",
+        "value": 2,
         "kept": false
       },
       {
@@ -711,73 +826,27 @@
         "overall": 156,
         "player": "Chris Boswell",
         "pos": "K",
-        "points": "41.00",
-        "rank": "K10 → K7",
-        "value": 3,
+        "points": "58.00",
+        "rank": "K10 → K4",
+        "value": 6,
         "kept": false
       }
     ],
     "injuries": [
       {
-        "name": "A.J. Brown",
-        "pos": "WR",
-        "status": "Injury Reserve",
-        "missed": 4,
-        "storylines": [
-          "on_ir",
-          "still_out"
-        ]
-      },
-      {
         "name": "Jadarian Price",
         "pos": "RB",
         "status": "Injury Reserve",
-        "missed": 1,
+        "missed": 2,
         "storylines": [
           "on_ir",
           "still_out"
         ]
       },
       {
-        "name": "DeVonta Smith",
-        "pos": "WR",
+        "name": "Bucky Irving",
+        "pos": "RB",
         "status": "Questionable",
-        "missed": 2,
-        "storylines": [
-          "returning"
-        ]
-      },
-      {
-        "name": "Jalen Coker",
-        "pos": "WR",
-        "status": "Active",
-        "missed": 1,
-        "storylines": [
-          "returning"
-        ]
-      },
-      {
-        "name": "Stefon Diggs",
-        "pos": "WR",
-        "status": "Questionable",
-        "missed": 1,
-        "storylines": [
-          "returning"
-        ]
-      },
-      {
-        "name": "Deebo Samuel Sr.",
-        "pos": "WR",
-        "status": "Out",
-        "missed": 0,
-        "storylines": [
-          "newly_injured"
-        ]
-      },
-      {
-        "name": "Jalen Hurts",
-        "pos": "QB",
-        "status": "Out",
         "missed": 0,
         "storylines": [
           "newly_injured"

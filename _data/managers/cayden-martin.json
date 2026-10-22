@@ -10,17 +10,17 @@
   "runner_ups": [],
   "playoff_appearances": 0,
   "career": {
-    "record": "7-12",
-    "win_pct": 36.8,
+    "record": "7-13",
+    "win_pct": 35.0,
     "playoff_record": "0-0",
-    "ppg": "122.65"
+    "ppg": "122.28"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "4-1",
-      "pf": "678.64",
-      "ppg": "135.73",
+      "record": "4-2",
+      "pf": "793.98",
+      "ppg": "132.33",
       "finish": "In progress"
     },
     {
@@ -93,6 +93,15 @@
       "meetings": 1,
       "playoff_meetings": 0,
       "last": "2025 wk 9: 151.22–155.00 L",
+      "current": true
+    },
+    {
+      "opponent": "John Matheson",
+      "record": "0-1",
+      "win_pct": 0.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2026 wk 6: 115.34–128.28 L",
       "current": true
     },
     {
@@ -186,14 +195,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 5,
+    "through_week": 6,
     "division": "League Standings",
-    "record": "4-1",
-    "rank": 2,
-    "power_rank": 2,
-    "power_change": 1,
-    "playoff_pct": 83.8,
-    "pf": "678.64",
+    "record": "4-2",
+    "rank": 3,
+    "power_rank": 3,
+    "power_change": -1,
+    "playoff_pct": 81.0,
+    "pf": "793.98",
     "weeks": [
       {
         "week": 1,
@@ -244,17 +253,104 @@
         "projected": "120.65",
         "bench": "17.50",
         "bar": 68
+      },
+      {
+        "week": 6,
+        "result": "L",
+        "score": "115.34",
+        "opp": "John Matheson",
+        "opp_score": "128.28",
+        "projected": "128.17",
+        "bench": "21.74",
+        "bar": 58
       }
     ],
     "luck": {
-      "all_play_record": "28-17",
-      "expected_wins": 3.11,
-      "luck": 0.89,
-      "points_against_vs_league_avg": -48.11,
+      "all_play_record": "33-20-1",
+      "expected_wins": 3.72,
+      "luck": 0.28,
+      "points_against_vs_league_avg": -29.22,
       "wins_below_median": 0,
-      "losses_above_median": 0
+      "losses_above_median": 1
     },
     "moves": [
+      {
+        "week": 7,
+        "date": "10/21",
+        "added": [
+          {
+            "name": "Kendre Miller",
+            "pos": "RB",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Christian Kirk",
+            "pos": "WR",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "0.00"
+      },
+      {
+        "week": 7,
+        "date": "10/21",
+        "added": [
+          {
+            "name": "Christian Kirk",
+            "pos": "WR",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [],
+        "net": null
+      },
+      {
+        "week": 7,
+        "date": "10/21",
+        "added": [
+          {
+            "name": "David Montgomery",
+            "pos": "RB",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [],
+        "net": null
+      },
+      {
+        "week": 7,
+        "date": "10/21",
+        "added": [],
+        "dropped": [
+          {
+            "name": "Michael Pittman Jr.",
+            "pos": "WR",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": null
+      },
+      {
+        "week": 7,
+        "date": "10/21",
+        "added": [],
+        "dropped": [
+          {
+            "name": "Blake Grupe",
+            "pos": "K",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": null
+      },
       {
         "week": 6,
         "date": "10/15",
@@ -262,8 +358,8 @@
           {
             "name": "Blake Grupe",
             "pos": "K",
-            "since": "0.00",
-            "started": "0.00"
+            "since": "4.00",
+            "started": "4.00"
           }
         ],
         "dropped": [
@@ -274,7 +370,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "0.00"
+        "net": "4.00"
       },
       {
         "week": 6,
@@ -297,7 +393,7 @@
           {
             "name": "C.J. Stroud",
             "pos": "QB",
-            "since": "20.94",
+            "since": "43.92",
             "started": "20.94"
           }
         ],
@@ -305,11 +401,11 @@
           {
             "name": "Deshaun Watson",
             "pos": "QB",
-            "since": "12.20",
+            "since": "21.66",
             "now_on": "Free agent"
           }
         ],
-        "net": "8.74"
+        "net": "22.26"
       },
       {
         "week": 5,
@@ -339,7 +435,7 @@
           {
             "name": "Deshaun Watson",
             "pos": "QB",
-            "since": "12.20",
+            "since": "21.66",
             "started": "0.00"
           }
         ],
@@ -388,19 +484,19 @@
           {
             "name": "Bryce Young",
             "pos": "QB",
-            "since": "35.10",
-            "started": "35.10"
+            "since": "54.94",
+            "started": "54.94"
           }
         ],
         "dropped": [
           {
             "name": "Travis Hunter",
             "pos": "WR",
-            "since": "1.90",
+            "since": "17.80",
             "now_on": "Free agent"
           }
         ],
-        "net": "33.20"
+        "net": "37.14"
       }
     ],
     "trades": [],
@@ -410,7 +506,7 @@
         "overall": 10,
         "player": "CeeDee Lamb",
         "pos": "WR",
-        "points": "115.10",
+        "points": "131.10",
         "rank": "WR5 → WR2",
         "value": 3,
         "kept": true
@@ -420,9 +516,9 @@
         "overall": 11,
         "player": "James Cook III",
         "pos": "RB",
-        "points": "89.30",
-        "rank": "RB6 → RB10",
-        "value": -4,
+        "points": "113.60",
+        "rank": "RB6 → RB8",
+        "value": -2,
         "kept": true
       },
       {
@@ -441,8 +537,8 @@
         "player": "Jeremiyah Love",
         "pos": "RB",
         "points": "51.10",
-        "rank": "RB15 → RB22",
-        "value": -7,
+        "rank": "RB15 → RB29",
+        "value": -14,
         "kept": true
       },
       {
@@ -450,9 +546,9 @@
         "overall": 50,
         "player": "Tetairoa McMillan",
         "pos": "WR",
-        "points": "74.50",
-        "rank": "WR21 → WR16",
-        "value": 5,
+        "points": "89.10",
+        "rank": "WR21 → WR13",
+        "value": 8,
         "kept": true
       },
       {
@@ -460,9 +556,9 @@
         "overall": 51,
         "player": "Davante Adams",
         "pos": "WR",
-        "points": "95.10",
-        "rank": "WR22 → WR6",
-        "value": 16,
+        "points": "102.00",
+        "rank": "WR22 → WR7",
+        "value": 15,
         "kept": true
       },
       {
@@ -480,9 +576,9 @@
         "overall": 71,
         "player": "Bhayshul Tuten",
         "pos": "RB",
-        "points": "63.70",
-        "rank": "RB28 → RB17",
-        "value": 11,
+        "points": "88.40",
+        "rank": "RB28 → RB14",
+        "value": 14,
         "kept": true
       },
       {
@@ -491,18 +587,18 @@
         "player": "Michael Pittman Jr.",
         "pos": "WR",
         "points": "15.90",
-        "rank": "WR37 → WR49",
-        "value": -12,
-        "kept": true
+        "rank": "WR37 → WR50",
+        "value": -13,
+        "kept": false
       },
       {
         "round": 10,
         "overall": 91,
         "player": "Parker Washington",
         "pos": "WR",
-        "points": "81.50",
-        "rank": "WR38 → WR9",
-        "value": 29,
+        "points": "91.90",
+        "rank": "WR38 → WR11",
+        "value": 27,
         "kept": true
       },
       {
@@ -520,9 +616,9 @@
         "overall": 111,
         "player": "Dallas Goedert",
         "pos": "TE",
-        "points": "34.90",
-        "rank": "TE12 → TE16",
-        "value": -4,
+        "points": "47.00",
+        "rank": "TE12 → TE14",
+        "value": -2,
         "kept": true
       },
       {
@@ -530,9 +626,9 @@
         "overall": 130,
         "player": "Travis Hunter",
         "pos": "WR",
-        "points": "4.00",
-        "rank": "WR50 → WR53",
-        "value": -3,
+        "points": "19.90",
+        "rank": "WR50 → WR49",
+        "value": 1,
         "kept": false
       },
       {
@@ -540,9 +636,9 @@
         "overall": 131,
         "player": "Khalil Shakir",
         "pos": "WR",
-        "points": "41.60",
-        "rank": "WR51 → WR37",
-        "value": 14,
+        "points": "55.00",
+        "rank": "WR51 → WR34",
+        "value": 17,
         "kept": true
       },
       {
@@ -550,9 +646,9 @@
         "overall": 150,
         "player": "Patriots D/ST",
         "pos": "D/ST",
-        "points": "38.00",
-        "rank": "D/ST11 → D/ST2",
-        "value": 9,
+        "points": "43.00",
+        "rank": "D/ST11 → D/ST4",
+        "value": 7,
         "kept": true
       },
       {
@@ -561,28 +657,49 @@
         "player": "Jake Bates",
         "pos": "K",
         "points": "49.00",
-        "rank": "K8 → K4",
-        "value": 4,
+        "rank": "K8 → K6",
+        "value": 2,
         "kept": false
       }
     ],
     "injuries": [
       {
-        "name": "Michael Pittman Jr.",
-        "pos": "WR",
-        "status": "Injury Reserve",
+        "name": "Tyler Warren",
+        "pos": "TE",
+        "status": "Questionable",
         "missed": 1,
         "storylines": [
+          "returning",
+          "newly_injured"
+        ]
+      },
+      {
+        "name": "Davante Adams",
+        "pos": "WR",
+        "status": "Injury Reserve",
+        "missed": 0,
+        "storylines": [
           "on_ir",
-          "still_out"
+          "newly_injured"
+        ]
+      },
+      {
+        "name": "David Montgomery",
+        "pos": "RB",
+        "status": "Questionable",
+        "missed": 1,
+        "storylines": [
+          "returning"
         ]
       },
       {
         "name": "Jeremiyah Love",
         "pos": "RB",
         "status": "Questionable",
-        "missed": 0,
-        "storylines": []
+        "missed": 1,
+        "storylines": [
+          "returning"
+        ]
       }
     ]
   }

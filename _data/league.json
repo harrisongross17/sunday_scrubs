@@ -7,20 +7,8 @@
       "team": "Njigbas in Paris",
       "years": "2026–now",
       "seasons": 1,
-      "record": "4-1",
-      "win_pct": 80.0,
-      "titles": 0,
-      "title_years": []
-    },
-    {
-      "name": "Collin Gibbs",
-      "slug": "collin-gibbs",
-      "current": true,
-      "team": "Mayeday",
-      "years": "2025–now",
-      "seasons": 2,
-      "record": "11-8",
-      "win_pct": 57.9,
+      "record": "4-2",
+      "win_pct": 66.7,
       "titles": 0,
       "title_years": []
     },
@@ -31,8 +19,8 @@
       "team": "Sleeper Cells",
       "years": "2025–now",
       "seasons": 2,
-      "record": "11-8",
-      "win_pct": 57.9,
+      "record": "12-8",
+      "win_pct": 60.0,
       "titles": 0,
       "title_years": []
     },
@@ -43,8 +31,8 @@
       "team": "George Droyd",
       "years": "2025–now",
       "seasons": 2,
-      "record": "11-8",
-      "win_pct": 57.9,
+      "record": "12-8",
+      "win_pct": 60.0,
       "titles": 0,
       "title_years": []
     },
@@ -55,12 +43,24 @@
       "team": "GilberTeam",
       "years": "2025–now",
       "seasons": 2,
-      "record": "11-8",
-      "win_pct": 57.9,
+      "record": "12-8",
+      "win_pct": 60.0,
       "titles": 1,
       "title_years": [
         2025
       ]
+    },
+    {
+      "name": "Collin Gibbs",
+      "slug": "collin-gibbs",
+      "current": true,
+      "team": "Mayeday",
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "11-9",
+      "win_pct": 55.0,
+      "titles": 0,
+      "title_years": []
     },
     {
       "name": "Kevin Mangus",
@@ -69,20 +69,8 @@
       "team": "Tiger's Wood",
       "years": "2025–now",
       "seasons": 2,
-      "record": "10-9",
-      "win_pct": 52.6,
-      "titles": 0,
-      "title_years": []
-    },
-    {
-      "name": "Luis Barroso",
-      "slug": "luis-barroso",
-      "current": true,
-      "team": "Don't call me Louis!",
-      "years": "2025–now",
-      "seasons": 2,
-      "record": "8-11",
-      "win_pct": 42.1,
+      "record": "11-9",
+      "win_pct": 55.0,
       "titles": 0,
       "title_years": []
     },
@@ -93,7 +81,19 @@
       "team": "john's Scary Team",
       "years": "2026–now",
       "seasons": 1,
-      "record": "2-3",
+      "record": "3-3",
+      "win_pct": 50.0,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Luis Barroso",
+      "slug": "luis-barroso",
+      "current": true,
+      "team": "Don't call me Louis!",
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "8-12",
       "win_pct": 40.0,
       "titles": 0,
       "title_years": []
@@ -105,8 +105,8 @@
       "team": "CmartDaDart",
       "years": "2025–now",
       "seasons": 2,
-      "record": "7-12",
-      "win_pct": 36.8,
+      "record": "7-13",
+      "win_pct": 35.0,
       "titles": 0,
       "title_years": []
     },
@@ -117,8 +117,8 @@
       "team": "Marino",
       "years": "2025–now",
       "seasons": 2,
-      "record": "6-13",
-      "win_pct": 31.6,
+      "record": "6-14",
+      "win_pct": 30.0,
       "titles": 0,
       "title_years": []
     },

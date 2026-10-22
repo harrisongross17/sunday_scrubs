@@ -12,17 +12,17 @@
   ],
   "playoff_appearances": 1,
   "career": {
-    "record": "11-8",
-    "win_pct": 57.9,
+    "record": "12-8",
+    "win_pct": 60.0,
     "playoff_record": "1-1",
-    "ppg": "119.11"
+    "ppg": "118.93"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "0-5",
-      "pf": "546.46",
-      "ppg": "109.29",
+      "record": "1-5",
+      "pf": "661.80",
+      "ppg": "110.30",
       "finish": "In progress"
     },
     {
@@ -44,21 +44,21 @@
       "current": true
     },
     {
+      "opponent": "Luis Barroso",
+      "record": "3-0",
+      "win_pct": 100.0,
+      "meetings": 3,
+      "playoff_meetings": 0,
+      "last": "2026 wk 6: 115.34–107.98 W",
+      "current": true
+    },
+    {
       "opponent": "Camilo Gelvez",
       "record": "0-3",
       "win_pct": 0.0,
       "meetings": 3,
       "playoff_meetings": 1,
       "last": "2026 wk 2: 90.76–115.56 L",
-      "current": true
-    },
-    {
-      "opponent": "Luis Barroso",
-      "record": "2-0",
-      "win_pct": 100.0,
-      "meetings": 2,
-      "playoff_meetings": 0,
-      "last": "2025 wk 13: 93.86–84.42 W",
       "current": true
     },
     {
@@ -197,14 +197,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 5,
+    "through_week": 6,
     "division": "League Standings",
-    "record": "0-5",
+    "record": "1-5",
     "rank": 10,
     "power_rank": 10,
     "power_change": 0,
-    "playoff_pct": 16.2,
-    "pf": "546.46",
+    "playoff_pct": 24.8,
+    "pf": "661.80",
     "weeks": [
       {
         "week": 1,
@@ -255,13 +255,23 @@
         "projected": "119.23",
         "bench": "18.60",
         "bar": 54
+      },
+      {
+        "week": 6,
+        "result": "W",
+        "score": "115.34",
+        "opp": "Luis Barroso",
+        "opp_score": "107.98",
+        "projected": "103.03",
+        "bench": "7.90",
+        "bar": 58
       }
     ],
     "luck": {
-      "all_play_record": "11-34",
-      "expected_wins": 1.22,
-      "luck": -1.22,
-      "points_against_vs_league_avg": 14.33,
+      "all_play_record": "16-37-1",
+      "expected_wins": 1.83,
+      "luck": -0.83,
+      "points_against_vs_league_avg": 12.92,
       "wins_below_median": 0,
       "losses_above_median": 0
     },
@@ -273,19 +283,19 @@
           {
             "name": "Broncos D/ST",
             "pos": "D/ST",
-            "since": "14.00",
-            "started": "14.00"
+            "since": "25.00",
+            "started": "25.00"
           }
         ],
         "dropped": [
           {
             "name": "Chargers D/ST",
             "pos": "D/ST",
-            "since": "5.00",
+            "since": "6.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "9.00"
+        "net": "19.00"
       },
       {
         "week": 1,
@@ -294,7 +304,7 @@
           {
             "name": "Chargers D/ST",
             "pos": "D/ST",
-            "since": "28.00",
+            "since": "29.00",
             "started": "23.00"
           }
         ],
@@ -302,11 +312,11 @@
           {
             "name": "Browns D/ST",
             "pos": "D/ST",
-            "since": "27.00",
-            "now_on": "Free agent"
+            "since": "37.00",
+            "now_on": "Marino"
           }
         ],
-        "net": "1.00"
+        "net": "-8.00"
       }
     ],
     "trades": [],
@@ -317,8 +327,8 @@
         "player": "Amon-Ra St. Brown",
         "pos": "WR",
         "points": "104.20",
-        "rank": "WR4 → WR4",
-        "value": 0,
+        "rank": "WR4 → WR5",
+        "value": -1,
         "kept": true
       },
       {
@@ -327,8 +337,8 @@
         "player": "Chase Brown",
         "pos": "RB",
         "points": "65.00",
-        "rank": "RB7 → RB16",
-        "value": -9,
+        "rank": "RB7 → RB17",
+        "value": -10,
         "kept": true
       },
       {
@@ -337,8 +347,8 @@
         "player": "Cam Skattebo",
         "pos": "RB",
         "points": "51.30",
-        "rank": "RB14 → RB21",
-        "value": -7,
+        "rank": "RB14 → RB27",
+        "value": -13,
         "kept": true
       },
       {
@@ -346,9 +356,9 @@
         "overall": 33,
         "player": "George Pickens",
         "pos": "WR",
-        "points": "68.50",
-        "rank": "WR12 → WR18",
-        "value": -6,
+        "points": "81.80",
+        "rank": "WR12 → WR16",
+        "value": -4,
         "kept": true
       },
       {
@@ -356,7 +366,7 @@
         "overall": 48,
         "player": "Ladd McConkey",
         "pos": "WR",
-        "points": "36.30",
+        "points": "39.00",
         "rank": "WR19 → WR40",
         "value": -21,
         "kept": true
@@ -366,9 +376,9 @@
         "overall": 53,
         "player": "Colston Loveland",
         "pos": "TE",
-        "points": "24.00",
-        "rank": "TE4 → TE18",
-        "value": -14,
+        "points": "42.50",
+        "rank": "TE4 → TE17",
+        "value": -13,
         "kept": true
       },
       {
@@ -376,9 +386,9 @@
         "overall": 68,
         "player": "Rico Dowdle",
         "pos": "RB",
-        "points": "10.50",
-        "rank": "RB26 → RB43",
-        "value": -17,
+        "points": "18.40",
+        "rank": "RB26 → RB41",
+        "value": -15,
         "kept": true
       },
       {
@@ -386,9 +396,9 @@
         "overall": 73,
         "player": "Mike Evans",
         "pos": "WR",
-        "points": "76.60",
-        "rank": "WR29 → WR13",
-        "value": 16,
+        "points": "89.00",
+        "rank": "WR29 → WR14",
+        "value": 15,
         "kept": true
       },
       {
@@ -397,8 +407,8 @@
         "player": "Alec Pierce",
         "pos": "WR",
         "points": "12.20",
-        "rank": "WR36 → WR50",
-        "value": -14,
+        "rank": "WR36 → WR51",
+        "value": -15,
         "kept": true
       },
       {
@@ -406,9 +416,9 @@
         "overall": 93,
         "player": "Trevor Lawrence",
         "pos": "QB",
-        "points": "86.86",
-        "rank": "QB9 → QB8",
-        "value": 1,
+        "points": "114.20",
+        "rank": "QB9 → QB3",
+        "value": 6,
         "kept": true
       },
       {
@@ -416,9 +426,9 @@
         "overall": 108,
         "player": "Wan'Dale Robinson",
         "pos": "WR",
-        "points": "51.70",
-        "rank": "WR43 → WR27",
-        "value": 16,
+        "points": "56.90",
+        "rank": "WR43 → WR32",
+        "value": 11,
         "kept": true
       },
       {
@@ -426,9 +436,9 @@
         "overall": 113,
         "player": "Josh Downs",
         "pos": "WR",
-        "points": "44.90",
-        "rank": "WR45 → WR34",
-        "value": 11,
+        "points": "53.60",
+        "rank": "WR45 → WR35",
+        "value": 10,
         "kept": true
       },
       {
@@ -446,7 +456,7 @@
         "overall": 133,
         "player": "Chuba Hubbard",
         "pos": "RB",
-        "points": "79.00",
+        "points": "98.10",
         "rank": "RB40 → RB13",
         "value": 27,
         "kept": true
@@ -456,9 +466,9 @@
         "overall": 148,
         "player": "Browns D/ST",
         "pos": "D/ST",
-        "points": "27.00",
-        "rank": "D/ST10 → D/ST7",
-        "value": 3,
+        "points": "37.00",
+        "rank": "D/ST10 → D/ST5",
+        "value": 5,
         "kept": false
       },
       {
@@ -466,9 +476,9 @@
         "overall": 153,
         "player": "Eddy Pineiro",
         "pos": "K",
-        "points": "34.00",
-        "rank": "K9 → K8",
-        "value": 1,
+        "points": "39.00",
+        "rank": "K9 → K9",
+        "value": 0,
         "kept": true
       }
     ],
@@ -477,7 +487,7 @@
         "name": "Alec Pierce",
         "pos": "WR",
         "status": "Injury Reserve",
-        "missed": 3,
+        "missed": 4,
         "storylines": [
           "on_ir",
           "still_out"
@@ -486,19 +496,20 @@
       {
         "name": "Rico Dowdle",
         "pos": "RB",
-        "status": "Active",
-        "missed": 3,
+        "status": "Questionable",
+        "missed": 0,
         "storylines": [
-          "returning"
+          "returned",
+          "newly_injured"
         ]
       },
       {
         "name": "Ladd McConkey",
         "pos": "WR",
         "status": "Questionable",
-        "missed": 1,
+        "missed": 0,
         "storylines": [
-          "returning"
+          "returned"
         ]
       },
       {
