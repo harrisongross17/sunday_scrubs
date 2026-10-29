@@ -334,9 +334,9 @@
       "icon": "🪑",
       "label": "Bench Blunder",
       "manager": "Erik Iverson",
-      "stat": "53.46",
+      "stat": "50.46",
       "unit": "pts left on bench",
-      "detail": "Optimal lineup: 154.48 — would have beaten GilberTeam",
+      "detail": "Optimal lineup: 151.48 — would have beaten GilberTeam",
       "team": "Njigbas in Paris"
     },
     {
@@ -365,15 +365,6 @@
       "unit": "pts",
       "detail": "Jaxon Smith-Njigba (WR), projected 20.03",
       "team": "Njigbas in Paris"
-    },
-    {
-      "icon": "🗑️",
-      "label": "Drop Regret",
-      "manager": "Collin Gibbs",
-      "stat": "44.50",
-      "unit": "pts behind",
-      "detail": "Dropped J.K. Dobbins (44.50 since) for Tyreek Hill (0.00) in week 4",
-      "team": "Mayeday"
     }
   ],
   "top_by_position": [
@@ -757,7 +748,7 @@
         "icon": "🎯",
         "label": "Best Lineup Setter",
         "manager": "Cayden Martin",
-        "stat": "89.3%",
+        "stat": "89.4%",
         "detail": "of possible points started",
         "team": "CmartDaDart"
       },
@@ -788,8 +779,8 @@
         "low": "101.02",
         "moves": 13,
         "trades": 0,
-        "bench": "140.64",
-        "efficiency": 87.3,
+        "bench": "137.64",
+        "efficiency": 87.5,
         "all_play": "45-18",
         "luck": -1.0,
         "team": "Njigbas in Paris"
@@ -818,8 +809,8 @@
         "low": "78.22",
         "moves": 13,
         "trades": 0,
-        "bench": "104.84",
-        "efficiency": 89.3,
+        "bench": "103.84",
+        "efficiency": 89.4,
         "all_play": "34-28-1",
         "luck": 0.17,
         "team": "CmartDaDart"
@@ -833,8 +824,8 @@
         "low": "71.40",
         "moves": 27,
         "trades": 0,
-        "bench": "153.20",
-        "efficiency": 84.9,
+        "bench": "152.20",
+        "efficiency": 85.0,
         "all_play": "34-29",
         "luck": -0.78,
         "team": "Don't call me Louis!"
