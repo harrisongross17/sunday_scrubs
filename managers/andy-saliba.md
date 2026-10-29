@@ -2,5 +2,5 @@
 layout: manager
 title: "Andy Saliba"
 slug: andy-saliba
-description: "Current manager, 2025–present. Career record 6-14, 0 title(s)."
+description: "Current manager, 2025–present. Career record 7-14, 0 title(s)."
 ---

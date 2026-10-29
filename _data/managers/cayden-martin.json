@@ -10,17 +10,17 @@
   "runner_ups": [],
   "playoff_appearances": 0,
   "career": {
-    "record": "7-13",
-    "win_pct": 35.0,
+    "record": "7-14",
+    "win_pct": 33.3,
     "playoff_record": "0-0",
-    "ppg": "122.28"
+    "ppg": "120.19"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "4-2",
-      "pf": "793.98",
-      "ppg": "132.33",
+      "record": "4-3",
+      "pf": "872.20",
+      "ppg": "124.60",
       "finish": "In progress"
     },
     {
@@ -69,6 +69,15 @@
       "current": true
     },
     {
+      "opponent": "Collin Gibbs",
+      "record": "0-2",
+      "win_pct": 0.0,
+      "meetings": 2,
+      "playoff_meetings": 0,
+      "last": "2026 wk 7: 78.22–127.34 L",
+      "current": true
+    },
+    {
       "opponent": "Kyle Allen",
       "record": "1-1",
       "win_pct": 50.0,
@@ -84,15 +93,6 @@
       "meetings": 1,
       "playoff_meetings": 0,
       "last": "2025 wk 5: 133.58–148.12 L",
-      "current": true
-    },
-    {
-      "opponent": "Collin Gibbs",
-      "record": "0-1",
-      "win_pct": 0.0,
-      "meetings": 1,
-      "playoff_meetings": 0,
-      "last": "2025 wk 9: 151.22–155.00 L",
       "current": true
     },
     {
@@ -151,11 +151,11 @@
       "result": "W"
     },
     "worst_score": {
-      "year": 2025,
-      "week": 1,
-      "score": "91.48",
-      "opp_score": "129.78",
-      "opp": "Joseph Calaway",
+      "year": 2026,
+      "week": 7,
+      "score": "78.22",
+      "opp_score": "127.34",
+      "opp": "Collin Gibbs",
       "result": "L"
     },
     "biggest_win": {
@@ -169,12 +169,12 @@
     },
     "worst_loss": {
       "year": 2026,
-      "week": 1,
-      "score": "105.30",
-      "opp_score": "149.46",
-      "opp": "Kevin Mangus",
+      "week": 7,
+      "score": "78.22",
+      "opp_score": "127.34",
+      "opp": "Collin Gibbs",
       "result": "L",
-      "margin": "44.16"
+      "margin": "49.12"
     },
     "win_streak": {
       "manager_name": "Cayden Martin",
@@ -195,14 +195,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 6,
+    "through_week": 7,
     "division": "League Standings",
-    "record": "4-2",
-    "rank": 3,
-    "power_rank": 3,
-    "power_change": -1,
-    "playoff_pct": 81.0,
-    "pf": "793.98",
+    "record": "4-3",
+    "rank": 4,
+    "power_rank": 5,
+    "power_change": -2,
+    "playoff_pct": 71.2,
+    "pf": "872.20",
     "weeks": [
       {
         "week": 1,
@@ -263,17 +263,90 @@
         "projected": "128.17",
         "bench": "21.74",
         "bar": 58
+      },
+      {
+        "week": 7,
+        "result": "L",
+        "score": "78.22",
+        "opp": "Collin Gibbs",
+        "opp_score": "127.34",
+        "projected": "95.10",
+        "bench": "1.00",
+        "bar": 39
       }
     ],
     "luck": {
-      "all_play_record": "33-20-1",
-      "expected_wins": 3.72,
-      "luck": 0.28,
-      "points_against_vs_league_avg": -29.22,
+      "all_play_record": "34-28-1",
+      "expected_wins": 3.83,
+      "luck": 0.17,
+      "points_against_vs_league_avg": -5.68,
       "wins_below_median": 0,
       "losses_above_median": 1
     },
     "moves": [
+      {
+        "week": 7,
+        "date": "10/24",
+        "added": [
+          {
+            "name": "Marvin Harrison Jr.",
+            "pos": "WR",
+            "since": "7.60",
+            "started": "7.60"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Juwan Johnson",
+            "pos": "TE",
+            "since": "1.70",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "5.90"
+      },
+      {
+        "week": 7,
+        "date": "10/23",
+        "added": [
+          {
+            "name": "Tyler Allgeier",
+            "pos": "RB",
+            "since": "7.90",
+            "started": "7.90"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Dameon Pierce",
+            "pos": "RB",
+            "since": "11.80",
+            "now_on": "Marino"
+          }
+        ],
+        "net": "-3.90"
+      },
+      {
+        "week": 7,
+        "date": "10/23",
+        "added": [
+          {
+            "name": "Dameon Pierce",
+            "pos": "RB",
+            "since": "11.80",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Kendre Miller",
+            "pos": "RB",
+            "since": "5.80",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "6.00"
+      },
       {
         "week": 7,
         "date": "10/21",
@@ -281,7 +354,7 @@
           {
             "name": "Kendre Miller",
             "pos": "RB",
-            "since": "0.00",
+            "since": "5.80",
             "started": "0.00"
           }
         ],
@@ -293,7 +366,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "0.00"
+        "net": "5.80"
       },
       {
         "week": 7,
@@ -379,7 +452,7 @@
           {
             "name": "Juwan Johnson",
             "pos": "TE",
-            "since": "0.00",
+            "since": "1.70",
             "started": "0.00"
           }
         ],
@@ -393,19 +466,19 @@
           {
             "name": "C.J. Stroud",
             "pos": "QB",
-            "since": "43.92",
-            "started": "20.94"
+            "since": "60.44",
+            "started": "37.46"
           }
         ],
         "dropped": [
           {
             "name": "Deshaun Watson",
             "pos": "QB",
-            "since": "21.66",
+            "since": "39.88",
             "now_on": "Free agent"
           }
         ],
-        "net": "22.26"
+        "net": "20.56"
       },
       {
         "week": 5,
@@ -435,7 +508,7 @@
           {
             "name": "Deshaun Watson",
             "pos": "QB",
-            "since": "21.66",
+            "since": "39.88",
             "started": "0.00"
           }
         ],
@@ -463,19 +536,19 @@
           {
             "name": "Evan McPherson",
             "pos": "K",
-            "since": "23.00",
-            "started": "23.00"
+            "since": "28.00",
+            "started": "28.00"
           }
         ],
         "dropped": [
           {
             "name": "Jake Bates",
             "pos": "K",
-            "since": "35.00",
+            "since": "44.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "-12.00"
+        "net": "-16.00"
       },
       {
         "week": 3,
@@ -484,7 +557,7 @@
           {
             "name": "Bryce Young",
             "pos": "QB",
-            "since": "54.94",
+            "since": "60.36",
             "started": "54.94"
           }
         ],
@@ -496,7 +569,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "37.14"
+        "net": "42.56"
       }
     ],
     "trades": [],
@@ -506,7 +579,7 @@
         "overall": 10,
         "player": "CeeDee Lamb",
         "pos": "WR",
-        "points": "131.10",
+        "points": "155.50",
         "rank": "WR5 → WR2",
         "value": 3,
         "kept": true
@@ -517,8 +590,8 @@
         "player": "James Cook III",
         "pos": "RB",
         "points": "113.60",
-        "rank": "RB6 → RB8",
-        "value": -2,
+        "rank": "RB6 → RB12",
+        "value": -6,
         "kept": true
       },
       {
@@ -527,8 +600,8 @@
         "player": "Tyler Warren",
         "pos": "TE",
         "points": "69.90",
-        "rank": "TE3 → TE6",
-        "value": -3,
+        "rank": "TE3 → TE8",
+        "value": -5,
         "kept": true
       },
       {
@@ -537,8 +610,8 @@
         "player": "Jeremiyah Love",
         "pos": "RB",
         "points": "51.10",
-        "rank": "RB15 → RB29",
-        "value": -14,
+        "rank": "RB15 → RB30",
+        "value": -15,
         "kept": true
       },
       {
@@ -546,9 +619,9 @@
         "overall": 50,
         "player": "Tetairoa McMillan",
         "pos": "WR",
-        "points": "89.10",
-        "rank": "WR21 → WR13",
-        "value": 8,
+        "points": "97.10",
+        "rank": "WR21 → WR16",
+        "value": 5,
         "kept": true
       },
       {
@@ -557,8 +630,8 @@
         "player": "Davante Adams",
         "pos": "WR",
         "points": "102.00",
-        "rank": "WR22 → WR7",
-        "value": 15,
+        "rank": "WR22 → WR12",
+        "value": 10,
         "kept": true
       },
       {
@@ -577,8 +650,8 @@
         "player": "Bhayshul Tuten",
         "pos": "RB",
         "points": "88.40",
-        "rank": "RB28 → RB14",
-        "value": 14,
+        "rank": "RB28 → RB15",
+        "value": 13,
         "kept": true
       },
       {
@@ -587,8 +660,8 @@
         "player": "Michael Pittman Jr.",
         "pos": "WR",
         "points": "15.90",
-        "rank": "WR37 → WR50",
-        "value": -13,
+        "rank": "WR37 → WR51",
+        "value": -14,
         "kept": false
       },
       {
@@ -597,8 +670,8 @@
         "player": "Parker Washington",
         "pos": "WR",
         "points": "91.90",
-        "rank": "WR38 → WR11",
-        "value": 27,
+        "rank": "WR38 → WR18",
+        "value": 20,
         "kept": true
       },
       {
@@ -607,8 +680,8 @@
         "player": "Jonathon Brooks",
         "pos": "RB",
         "points": "9.30",
-        "rank": "RB35 → RB44",
-        "value": -9,
+        "rank": "RB35 → RB45",
+        "value": -10,
         "kept": false
       },
       {
@@ -616,9 +689,9 @@
         "overall": 111,
         "player": "Dallas Goedert",
         "pos": "TE",
-        "points": "47.00",
-        "rank": "TE12 → TE14",
-        "value": -2,
+        "points": "56.80",
+        "rank": "TE12 → TE15",
+        "value": -3,
         "kept": true
       },
       {
@@ -637,8 +710,8 @@
         "player": "Khalil Shakir",
         "pos": "WR",
         "points": "55.00",
-        "rank": "WR51 → WR34",
-        "value": 17,
+        "rank": "WR51 → WR36",
+        "value": 15,
         "kept": true
       },
       {
@@ -646,9 +719,9 @@
         "overall": 150,
         "player": "Patriots D/ST",
         "pos": "D/ST",
-        "points": "43.00",
-        "rank": "D/ST11 → D/ST4",
-        "value": 7,
+        "points": "42.00",
+        "rank": "D/ST11 → D/ST5",
+        "value": 6,
         "kept": true
       },
       {
@@ -656,7 +729,7 @@
         "overall": 151,
         "player": "Jake Bates",
         "pos": "K",
-        "points": "49.00",
+        "points": "58.00",
         "rank": "K8 → K6",
         "value": 2,
         "kept": false
@@ -664,30 +737,20 @@
     ],
     "injuries": [
       {
-        "name": "Tyler Warren",
-        "pos": "TE",
-        "status": "Questionable",
-        "missed": 1,
-        "storylines": [
-          "returning",
-          "newly_injured"
-        ]
-      },
-      {
         "name": "Davante Adams",
         "pos": "WR",
         "status": "Injury Reserve",
-        "missed": 0,
+        "missed": 1,
         "storylines": [
           "on_ir",
-          "newly_injured"
+          "still_out"
         ]
       },
       {
         "name": "David Montgomery",
         "pos": "RB",
         "status": "Questionable",
-        "missed": 1,
+        "missed": 2,
         "storylines": [
           "returning"
         ]
@@ -696,9 +759,27 @@
         "name": "Jeremiyah Love",
         "pos": "RB",
         "status": "Questionable",
-        "missed": 1,
+        "missed": 2,
         "storylines": [
           "returning"
+        ]
+      },
+      {
+        "name": "Tyler Warren",
+        "pos": "TE",
+        "status": "Questionable",
+        "missed": 2,
+        "storylines": [
+          "returning"
+        ]
+      },
+      {
+        "name": "Tyler Allgeier",
+        "pos": "RB",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": [
+          "newly_injured"
         ]
       }
     ]

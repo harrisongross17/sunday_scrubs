@@ -10,17 +10,17 @@
   "runner_ups": [],
   "playoff_appearances": 0,
   "career": {
-    "record": "4-2",
-    "win_pct": 66.7,
+    "record": "4-3",
+    "win_pct": 57.1,
     "playoff_record": "0-0",
-    "ppg": "144.32"
+    "ppg": "138.14"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "4-2",
-      "pf": "865.94",
-      "ppg": "144.32",
+      "record": "4-3",
+      "pf": "966.96",
+      "ppg": "138.14",
       "finish": "In progress"
     }
   ],
@@ -78,6 +78,15 @@
       "playoff_meetings": 0,
       "last": "2026 wk 6: 112.72–116.04 L",
       "current": true
+    },
+    {
+      "opponent": "Camilo Gelvez",
+      "record": "0-1",
+      "win_pct": 0.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2026 wk 7: 101.02–121.70 L",
+      "current": true
     }
   ],
   "records": {
@@ -91,10 +100,10 @@
     },
     "worst_score": {
       "year": 2026,
-      "week": 6,
-      "score": "112.72",
-      "opp_score": "116.04",
-      "opp": "Kevin Mangus",
+      "week": 7,
+      "score": "101.02",
+      "opp_score": "121.70",
+      "opp": "Camilo Gelvez",
       "result": "L"
     },
     "biggest_win": {
@@ -127,21 +136,21 @@
       "manager_name": "Erik Iverson",
       "team_name": "",
       "type": "loss",
-      "length": 1,
-      "from": "2026 wk 3",
-      "to": "2026 wk 3"
+      "length": 2,
+      "from": "2026 wk 6",
+      "to": "2026 wk 7"
     }
   },
   "season": {
     "year": 2026,
-    "through_week": 6,
+    "through_week": 7,
     "division": "League Standings",
-    "record": "4-2",
+    "record": "4-3",
     "rank": 2,
     "power_rank": 2,
-    "power_change": -1,
-    "playoff_pct": 86.5,
-    "pf": "865.94",
+    "power_change": 0,
+    "playoff_pct": 79.7,
+    "pf": "966.96",
     "weeks": [
       {
         "week": 1,
@@ -202,17 +211,69 @@
         "projected": "128.64",
         "bench": "3.50",
         "bar": 56
+      },
+      {
+        "week": 7,
+        "result": "L",
+        "score": "101.02",
+        "opp": "Camilo Gelvez",
+        "opp_score": "121.70",
+        "projected": "136.15",
+        "bench": "53.46",
+        "bar": 51
       }
     ],
     "luck": {
-      "all_play_record": "41-13",
-      "expected_wins": 4.56,
-      "luck": -0.56,
-      "points_against_vs_league_avg": 40.6,
+      "all_play_record": "45-18",
+      "expected_wins": 5.0,
+      "luck": -1.0,
+      "points_against_vs_league_avg": 58.5,
       "wins_below_median": 0,
       "losses_above_median": 1
     },
     "moves": [
+      {
+        "week": 8,
+        "date": "10/28",
+        "added": [
+          {
+            "name": "Bengals D/ST",
+            "pos": "D/ST",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [],
+        "net": null
+      },
+      {
+        "week": 8,
+        "date": "10/27",
+        "added": [],
+        "dropped": [
+          {
+            "name": "Panthers D/ST",
+            "pos": "D/ST",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": null
+      },
+      {
+        "week": 8,
+        "date": "10/27",
+        "added": [],
+        "dropped": [
+          {
+            "name": "Pat Freiermuth",
+            "pos": "TE",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": null
+      },
       {
         "week": 7,
         "date": "10/22",
@@ -220,19 +281,19 @@
           {
             "name": "Panthers D/ST",
             "pos": "D/ST",
-            "since": "0.00",
-            "started": "0.00"
+            "since": "-3.00",
+            "started": "-3.00"
           }
         ],
         "dropped": [
           {
             "name": "Giants D/ST",
             "pos": "D/ST",
-            "since": "0.00",
+            "since": "3.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "0.00"
+        "net": "-6.00"
       },
       {
         "week": 7,
@@ -241,19 +302,19 @@
           {
             "name": "Chris Boswell",
             "pos": "K",
-            "since": "0.00",
-            "started": "0.00"
+            "since": "11.00",
+            "started": "11.00"
           }
         ],
         "dropped": [
           {
             "name": "Dak Prescott",
             "pos": "QB",
-            "since": "0.00",
+            "since": "23.28",
             "now_on": "Marino"
           }
         ],
-        "net": "0.00"
+        "net": "-12.28"
       },
       {
         "week": 7,
@@ -262,19 +323,19 @@
           {
             "name": "Pat Freiermuth",
             "pos": "TE",
-            "since": "0.00",
-            "started": "0.00"
+            "since": "4.00",
+            "started": "4.00"
           }
         ],
         "dropped": [
           {
             "name": "Dalton Schultz",
             "pos": "TE",
-            "since": "0.00",
+            "since": "9.50",
             "now_on": "Free agent"
           }
         ],
-        "net": "0.00"
+        "net": "-5.50"
       },
       {
         "week": 6,
@@ -291,11 +352,11 @@
           {
             "name": "Mike Gesicki",
             "pos": "TE",
-            "since": "0.00",
+            "since": "7.60",
             "now_on": "Free agent"
           }
         ],
-        "net": "10.80"
+        "net": "3.20"
       },
       {
         "week": 6,
@@ -304,7 +365,7 @@
           {
             "name": "Giants D/ST",
             "pos": "D/ST",
-            "since": "1.00",
+            "since": "4.00",
             "started": "1.00"
           }
         ],
@@ -312,11 +373,11 @@
           {
             "name": "Bengals D/ST",
             "pos": "D/ST",
-            "since": "0.00",
-            "now_on": "Free agent"
+            "since": "8.00",
+            "now_on": "Njigbas in Paris"
           }
         ],
-        "net": "1.00"
+        "net": "-4.00"
       },
       {
         "week": 6,
@@ -325,7 +386,7 @@
           {
             "name": "Dak Prescott",
             "pos": "QB",
-            "since": "11.02",
+            "since": "34.30",
             "started": "11.02"
           }
         ],
@@ -333,11 +394,11 @@
           {
             "name": "Bo Nix",
             "pos": "QB",
-            "since": "4.48",
+            "since": "30.66",
             "now_on": "Free agent"
           }
         ],
-        "net": "6.54"
+        "net": "3.64"
       },
       {
         "week": 5,
@@ -346,7 +407,7 @@
           {
             "name": "Bengals D/ST",
             "pos": "D/ST",
-            "since": "9.00",
+            "since": "17.00",
             "started": "9.00"
           }
         ],
@@ -354,11 +415,11 @@
           {
             "name": "Packers D/ST",
             "pos": "D/ST",
-            "since": "27.00",
+            "since": "29.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "-18.00"
+        "net": "-12.00"
       },
       {
         "week": 5,
@@ -367,7 +428,7 @@
           {
             "name": "Mike Gesicki",
             "pos": "TE",
-            "since": "7.40",
+            "since": "15.00",
             "started": "7.40"
           }
         ],
@@ -375,11 +436,11 @@
           {
             "name": "Kyle Pitts Sr.",
             "pos": "TE",
-            "since": "38.20",
+            "since": "51.40",
             "now_on": "john's Scary Team"
           }
         ],
-        "net": "-30.80"
+        "net": "-36.40"
       },
       {
         "week": 5,
@@ -388,7 +449,7 @@
           {
             "name": "KC Concepcion",
             "pos": "WR",
-            "since": "9.40",
+            "since": "32.60",
             "started": "0.00"
           }
         ],
@@ -400,7 +461,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "2.70"
+        "net": "25.90"
       },
       {
         "week": 4,
@@ -409,7 +470,7 @@
           {
             "name": "Packers D/ST",
             "pos": "D/ST",
-            "since": "37.00",
+            "since": "39.00",
             "started": "10.00"
           }
         ],
@@ -417,11 +478,11 @@
           {
             "name": "Eagles D/ST",
             "pos": "D/ST",
-            "since": "4.00",
+            "since": "-2.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "33.00"
+        "net": "41.00"
       },
       {
         "week": 2,
@@ -430,8 +491,8 @@
           {
             "name": "Jared Goff",
             "pos": "QB",
-            "since": "98.56",
-            "started": "78.08"
+            "since": "116.58",
+            "started": "96.10"
           }
         ],
         "dropped": [],
@@ -444,7 +505,7 @@
           {
             "name": "Dalton Schultz",
             "pos": "TE",
-            "since": "48.20",
+            "since": "57.70",
             "started": "42.20"
           }
         ],
@@ -456,7 +517,7 @@
             "now_on": "Mayeday"
           }
         ],
-        "net": "48.20"
+        "net": "57.70"
       }
     ],
     "trades": [],
@@ -466,7 +527,7 @@
         "overall": 4,
         "player": "Jaxon Smith-Njigba",
         "pos": "WR",
-        "points": "164.86",
+        "points": "196.16",
         "rank": "WR2 → WR1",
         "value": 1,
         "kept": true
@@ -476,7 +537,7 @@
         "overall": 17,
         "player": "Kenneth Walker III",
         "pos": "RB",
-        "points": "138.00",
+        "points": "147.70",
         "rank": "RB9 → RB2",
         "value": 7,
         "kept": true
@@ -487,8 +548,8 @@
         "player": "Omarion Hampton",
         "pos": "RB",
         "points": "57.50",
-        "rank": "RB13 → RB20",
-        "value": -7,
+        "rank": "RB13 → RB28",
+        "value": -15,
         "kept": true
       },
       {
@@ -496,9 +557,9 @@
         "overall": 37,
         "player": "Nico Collins",
         "pos": "WR",
-        "points": "73.50",
-        "rank": "WR14 → WR19",
-        "value": -5,
+        "points": "76.10",
+        "rank": "WR14 → WR24",
+        "value": -10,
         "kept": true
       },
       {
@@ -506,9 +567,9 @@
         "overall": 44,
         "player": "Tee Higgins",
         "pos": "WR",
-        "points": "75.30",
-        "rank": "WR18 → WR18",
-        "value": 0,
+        "points": "102.10",
+        "rank": "WR18 → WR11",
+        "value": 7,
         "kept": true
       },
       {
@@ -516,9 +577,9 @@
         "overall": 57,
         "player": "Joe Burrow",
         "pos": "QB",
-        "points": "101.24",
-        "rank": "QB6 → QB9",
-        "value": -3,
+        "points": "130.12",
+        "rank": "QB6 → QB4",
+        "value": 2,
         "kept": true
       },
       {
@@ -526,9 +587,9 @@
         "overall": 64,
         "player": "Jameson Williams",
         "pos": "WR",
-        "points": "57.60",
-        "rank": "WR27 → WR31",
-        "value": -4,
+        "points": "83.70",
+        "rank": "WR27 → WR20",
+        "value": 7,
         "kept": true
       },
       {
@@ -536,9 +597,9 @@
         "overall": 77,
         "player": "Kyle Pitts Sr.",
         "pos": "TE",
-        "points": "49.90",
-        "rank": "TE6 → TE12",
-        "value": -6,
+        "points": "63.10",
+        "rank": "TE6 → TE11",
+        "value": -5,
         "kept": false
       },
       {
@@ -546,7 +607,7 @@
         "overall": 84,
         "player": "Christian Watson",
         "pos": "WR",
-        "points": "118.80",
+        "points": "129.50",
         "rank": "WR34 → WR3",
         "value": 31,
         "kept": true
@@ -556,7 +617,7 @@
         "overall": 97,
         "player": "Jaylen Warren",
         "pos": "RB",
-        "points": "102.80",
+        "points": "119.50",
         "rank": "RB32 → RB11",
         "value": 21,
         "kept": true
@@ -566,9 +627,9 @@
         "overall": 104,
         "player": "Bo Nix",
         "pos": "QB",
-        "points": "69.66",
-        "rank": "QB14 → QB14",
-        "value": 0,
+        "points": "95.84",
+        "rank": "QB14 → QB11",
+        "value": 3,
         "kept": false
       },
       {
@@ -576,7 +637,7 @@
         "overall": 117,
         "player": "Jordan Mason",
         "pos": "RB",
-        "points": "11.90",
+        "points": "18.70",
         "rank": "RB36 → RB43",
         "value": -7,
         "kept": true
@@ -596,7 +657,7 @@
         "overall": 137,
         "player": "Eagles D/ST",
         "pos": "D/ST",
-        "points": "12.00",
+        "points": "6.00",
         "rank": "D/ST7 → D/ST11",
         "value": -4,
         "kept": false
@@ -607,8 +668,8 @@
         "player": "Cam Little",
         "pos": "K",
         "points": "56.00",
-        "rank": "K6 → K5",
-        "value": 1,
+        "rank": "K6 → K7",
+        "value": -1,
         "kept": true
       },
       {
@@ -624,30 +685,13 @@
     ],
     "injuries": [
       {
-        "name": "Jordan Mason",
-        "pos": "RB",
-        "status": "Injury Reserve",
-        "missed": 4,
-        "storylines": [
-          "on_ir",
-          "still_out"
-        ]
-      },
-      {
-        "name": "Christian Watson",
-        "pos": "WR",
+        "name": "Dalton Kincaid",
+        "pos": "TE",
         "status": "Questionable",
         "missed": 0,
         "storylines": [
           "newly_injured"
         ]
-      },
-      {
-        "name": "KC Concepcion",
-        "pos": "WR",
-        "status": "Questionable",
-        "missed": 0,
-        "storylines": []
       }
     ]
   }

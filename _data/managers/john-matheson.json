@@ -10,17 +10,17 @@
   "runner_ups": [],
   "playoff_appearances": 0,
   "career": {
-    "record": "3-3",
-    "win_pct": 50.0,
+    "record": "4-3",
+    "win_pct": 57.1,
     "playoff_record": "0-0",
-    "ppg": "124.85"
+    "ppg": "125.34"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "3-3",
-      "pf": "749.08",
-      "ppg": "124.85",
+      "record": "4-3",
+      "pf": "877.38",
+      "ppg": "125.34",
       "finish": "In progress"
     }
   ],
@@ -78,6 +78,15 @@
       "playoff_meetings": 0,
       "last": "2026 wk 6: 128.28–115.34 W",
       "current": true
+    },
+    {
+      "opponent": "Joseph Calaway",
+      "record": "1-0",
+      "win_pct": 100.0,
+      "meetings": 1,
+      "playoff_meetings": 0,
+      "last": "2026 wk 7: 128.30–92.48 W",
+      "current": true
     }
   ],
   "records": {
@@ -119,9 +128,9 @@
       "manager_name": "John Matheson",
       "team_name": "",
       "type": "win",
-      "length": 2,
+      "length": 3,
       "from": "2026 wk 5",
-      "to": "2026 wk 6"
+      "to": "2026 wk 7"
     },
     "losing_streak": {
       "manager_name": "John Matheson",
@@ -134,14 +143,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 6,
+    "through_week": 7,
     "division": "League Standings",
-    "record": "3-3",
-    "rank": 5,
-    "power_rank": 5,
+    "record": "4-3",
+    "rank": 3,
+    "power_rank": 4,
     "power_change": 1,
-    "playoff_pct": 71.2,
-    "pf": "749.08",
+    "playoff_pct": 77.6,
+    "pf": "877.38",
     "weeks": [
       {
         "week": 1,
@@ -202,17 +211,48 @@
         "projected": "138.39",
         "bench": "15.50",
         "bar": 64
+      },
+      {
+        "week": 7,
+        "result": "W",
+        "score": "128.30",
+        "opp": "Joseph Calaway",
+        "opp_score": "92.48",
+        "projected": "139.80",
+        "bench": "21.50",
+        "bar": 64
       }
     ],
     "luck": {
-      "all_play_record": "32-22",
-      "expected_wins": 3.56,
+      "all_play_record": "41-22",
+      "expected_wins": 4.56,
       "luck": -0.56,
-      "points_against_vs_league_avg": -21.04,
+      "points_against_vs_league_avg": -32.36,
       "wins_below_median": 0,
       "losses_above_median": 1
     },
     "moves": [
+      {
+        "week": 8,
+        "date": "10/28",
+        "added": [
+          {
+            "name": "Jaguars D/ST",
+            "pos": "D/ST",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Titans D/ST",
+            "pos": "D/ST",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "0.00"
+      },
       {
         "week": 7,
         "date": "10/21",
@@ -228,11 +268,11 @@
           {
             "name": "Dominic Zvada",
             "pos": "K",
-            "since": "0.00",
+            "since": "1.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "0.00"
+        "net": "-1.00"
       },
       {
         "week": 6,
@@ -241,7 +281,7 @@
           {
             "name": "Kyle Pitts Sr.",
             "pos": "TE",
-            "since": "23.00",
+            "since": "36.20",
             "started": "0.00"
           }
         ],
@@ -253,7 +293,7 @@
             "now_on": "Njigbas in Paris"
           }
         ],
-        "net": "12.20"
+        "net": "25.40"
       },
       {
         "week": 6,
@@ -262,7 +302,7 @@
           {
             "name": "MarShawn Lloyd",
             "pos": "RB",
-            "since": "1.00",
+            "since": "6.50",
             "started": "1.00"
           }
         ],
@@ -274,7 +314,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "1.00"
+        "net": "6.50"
       },
       {
         "week": 6,
@@ -283,7 +323,7 @@
           {
             "name": "Dominic Zvada",
             "pos": "K",
-            "since": "8.00",
+            "since": "9.00",
             "started": "8.00"
           }
         ],
@@ -291,11 +331,11 @@
           {
             "name": "Malachi Fields",
             "pos": "WR",
-            "since": "3.90",
+            "since": "16.20",
             "now_on": "Free agent"
           }
         ],
-        "net": "4.10"
+        "net": "-7.20"
       },
       {
         "week": 6,
@@ -304,7 +344,7 @@
           {
             "name": "Rams D/ST",
             "pos": "D/ST",
-            "since": "2.00",
+            "since": "3.00",
             "started": "2.00"
           }
         ],
@@ -312,29 +352,8 @@
           {
             "name": "Giants D/ST",
             "pos": "D/ST",
-            "since": "1.00",
+            "since": "4.00",
             "now_on": "Free agent"
-          }
-        ],
-        "net": "1.00"
-      },
-      {
-        "week": 5,
-        "date": "10/7",
-        "added": [
-          {
-            "name": "Will Reichard",
-            "pos": "K",
-            "since": "16.00",
-            "started": "16.00"
-          }
-        ],
-        "dropped": [
-          {
-            "name": "Tyler Loop",
-            "pos": "K",
-            "since": "17.00",
-            "now_on": "Mayeday"
           }
         ],
         "net": "-1.00"
@@ -344,9 +363,30 @@
         "date": "10/7",
         "added": [
           {
+            "name": "Will Reichard",
+            "pos": "K",
+            "since": "28.00",
+            "started": "28.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Tyler Loop",
+            "pos": "K",
+            "since": "24.00",
+            "now_on": "Mayeday"
+          }
+        ],
+        "net": "4.00"
+      },
+      {
+        "week": 5,
+        "date": "10/7",
+        "added": [
+          {
             "name": "Giants D/ST",
             "pos": "D/ST",
-            "since": "5.00",
+            "since": "8.00",
             "started": "4.00"
           }
         ],
@@ -354,11 +394,11 @@
           {
             "name": "Ravens D/ST",
             "pos": "D/ST",
-            "since": "15.00",
+            "since": "12.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "-10.00"
+        "net": "-4.00"
       },
       {
         "week": 4,
@@ -367,7 +407,7 @@
           {
             "name": "Tyler Loop",
             "pos": "K",
-            "since": "25.00",
+            "since": "32.00",
             "started": "8.00"
           }
         ],
@@ -375,11 +415,11 @@
           {
             "name": "Trey Smack",
             "pos": "K",
-            "since": "22.00",
+            "since": "26.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "3.00"
+        "net": "6.00"
       },
       {
         "week": 4,
@@ -388,7 +428,7 @@
           {
             "name": "Ravens D/ST",
             "pos": "D/ST",
-            "since": "22.00",
+            "since": "19.00",
             "started": "7.00"
           }
         ],
@@ -396,11 +436,11 @@
           {
             "name": "49ers D/ST",
             "pos": "D/ST",
-            "since": "30.00",
+            "since": "31.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "-8.00"
+        "net": "-12.00"
       },
       {
         "week": 3,
@@ -409,7 +449,7 @@
           {
             "name": "49ers D/ST",
             "pos": "D/ST",
-            "since": "30.00",
+            "since": "31.00",
             "started": "0.00"
           }
         ],
@@ -417,11 +457,11 @@
           {
             "name": "Giants D/ST",
             "pos": "D/ST",
-            "since": "30.00",
+            "since": "33.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "0.00"
+        "net": "-2.00"
       },
       {
         "week": 3,
@@ -430,7 +470,7 @@
           {
             "name": "Giants D/ST",
             "pos": "D/ST",
-            "since": "30.00",
+            "since": "33.00",
             "started": "4.00"
           }
         ],
@@ -438,11 +478,11 @@
           {
             "name": "Buccaneers D/ST",
             "pos": "D/ST",
-            "since": "27.00",
+            "since": "55.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "3.00"
+        "net": "-22.00"
       },
       {
         "week": 3,
@@ -451,7 +491,7 @@
           {
             "name": "Trey Smack",
             "pos": "K",
-            "since": "23.00",
+            "since": "27.00",
             "started": "1.00"
           }
         ],
@@ -463,7 +503,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "-10.00"
+        "net": "-6.00"
       },
       {
         "week": 2,
@@ -472,7 +512,7 @@
           {
             "name": "Malachi Fields",
             "pos": "WR",
-            "since": "30.00",
+            "since": "42.30",
             "started": "0.00"
           }
         ],
@@ -480,11 +520,11 @@
           {
             "name": "Woody Marks",
             "pos": "RB",
-            "since": "48.40",
-            "now_on": "Don't call me Louis!"
+            "since": "57.50",
+            "now_on": "Free agent"
           }
         ],
-        "net": "-18.40"
+        "net": "-15.20"
       },
       {
         "week": 2,
@@ -493,7 +533,7 @@
           {
             "name": "Buccaneers D/ST",
             "pos": "D/ST",
-            "since": "31.00",
+            "since": "59.00",
             "started": "4.00"
           }
         ],
@@ -501,11 +541,11 @@
           {
             "name": "Rams D/ST",
             "pos": "D/ST",
-            "since": "24.00",
+            "since": "25.00",
             "now_on": "john's Scary Team"
           }
         ],
-        "net": "7.00"
+        "net": "34.00"
       }
     ],
     "trades": [],
@@ -515,9 +555,9 @@
         "overall": 3,
         "player": "Puka Nacua",
         "pos": "WR",
-        "points": "91.80",
-        "rank": "WR1 → WR12",
-        "value": -11,
+        "points": "113.60",
+        "rank": "WR1 → WR8",
+        "value": -7,
         "kept": true
       },
       {
@@ -525,7 +565,7 @@
         "overall": 18,
         "player": "Brock Bowers",
         "pos": "TE",
-        "points": "82.20",
+        "points": "95.50",
         "rank": "TE1 → TE4",
         "value": -3,
         "kept": true
@@ -535,9 +575,9 @@
         "overall": 23,
         "player": "Malik Nabers",
         "pos": "WR",
-        "points": "102.40",
-        "rank": "WR9 → WR6",
-        "value": 3,
+        "points": "120.50",
+        "rank": "WR9 → WR7",
+        "value": 2,
         "kept": true
       },
       {
@@ -545,9 +585,9 @@
         "overall": 38,
         "player": "Quinshon Judkins",
         "pos": "RB",
-        "points": "56.30",
-        "rank": "RB18 → RB21",
-        "value": -3,
+        "points": "79.70",
+        "rank": "RB18 → RB18",
+        "value": 0,
         "kept": true
       },
       {
@@ -556,8 +596,8 @@
         "player": "Lamar Jackson",
         "pos": "QB",
         "points": "79.08",
-        "rank": "QB2 → QB13",
-        "value": -11,
+        "rank": "QB2 → QB15",
+        "value": -13,
         "kept": true
       },
       {
@@ -565,9 +605,9 @@
         "overall": 58,
         "player": "D'Andre Swift",
         "pos": "RB",
-        "points": "103.80",
-        "rank": "RB23 → RB10",
-        "value": 13,
+        "points": "122.80",
+        "rank": "RB23 → RB8",
+        "value": 15,
         "kept": true
       },
       {
@@ -575,9 +615,9 @@
         "overall": 63,
         "player": "Luther Burden III",
         "pos": "WR",
-        "points": "73.30",
-        "rank": "WR26 → WR20",
-        "value": 6,
+        "points": "97.00",
+        "rank": "WR26 → WR17",
+        "value": 9,
         "kept": true
       },
       {
@@ -585,7 +625,7 @@
         "overall": 78,
         "player": "Rams D/ST",
         "pos": "D/ST",
-        "points": "25.00",
+        "points": "26.00",
         "rank": "D/ST2 → D/ST9",
         "value": -7,
         "kept": true
@@ -605,9 +645,9 @@
         "overall": 98,
         "player": "Matthew Stafford",
         "pos": "QB",
-        "points": "105.86",
-        "rank": "QB11 → QB7",
-        "value": 4,
+        "points": "123.36",
+        "rank": "QB11 → QB8",
+        "value": 3,
         "kept": true
       },
       {
@@ -635,9 +675,9 @@
         "overall": 123,
         "player": "Isaiah Likely",
         "pos": "TE",
-        "points": "109.30",
-        "rank": "TE15 → TE1",
-        "value": 14,
+        "points": "112.50",
+        "rank": "TE15 → TE2",
+        "value": 13,
         "kept": true
       },
       {
@@ -645,9 +685,9 @@
         "overall": 138,
         "player": "Xavier Worthy",
         "pos": "WR",
-        "points": "47.60",
-        "rank": "WR52 → WR37",
-        "value": 15,
+        "points": "51.70",
+        "rank": "WR52 → WR38",
+        "value": 14,
         "kept": true
       },
       {
@@ -656,8 +696,8 @@
         "player": "Dalton Kincaid",
         "pos": "TE",
         "points": "60.50",
-        "rank": "TE16 → TE8",
-        "value": 8,
+        "rank": "TE16 → TE14",
+        "value": 2,
         "kept": false
       },
       {
@@ -665,9 +705,9 @@
         "overall": 158,
         "player": "Woody Marks",
         "pos": "RB",
-        "points": "53.40",
-        "rank": "RB46 → RB23",
-        "value": 23,
+        "points": "62.50",
+        "rank": "RB46 → RB25",
+        "value": 21,
         "kept": false
       }
     ],
@@ -686,16 +726,7 @@
         "name": "Lamar Jackson",
         "pos": "QB",
         "status": "Questionable",
-        "missed": 2,
-        "storylines": [
-          "returning"
-        ]
-      },
-      {
-        "name": "Quinshon Judkins",
-        "pos": "RB",
-        "status": "Questionable",
-        "missed": 1,
+        "missed": 3,
         "storylines": [
           "returning"
         ]
