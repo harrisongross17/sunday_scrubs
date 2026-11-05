@@ -10,17 +10,17 @@
   "runner_ups": [],
   "playoff_appearances": 1,
   "career": {
-    "record": "12-9",
-    "win_pct": 57.1,
+    "record": "13-9",
+    "win_pct": 59.1,
     "playoff_record": "0-1",
-    "ppg": "111.95"
+    "ppg": "112.15"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "4-3",
-      "pf": "782.36",
-      "ppg": "111.77",
+      "record": "5-3",
+      "pf": "898.62",
+      "ppg": "112.33",
       "finish": "In progress"
     },
     {
@@ -33,21 +33,21 @@
   ],
   "head_to_head": [
     {
+      "opponent": "Joseph Calaway",
+      "record": "4-0",
+      "win_pct": 100.0,
+      "meetings": 4,
+      "playoff_meetings": 0,
+      "last": "2026 wk 8: 116.26–102.96 W",
+      "current": true
+    },
+    {
       "opponent": "Luis Barroso",
       "record": "1-2",
       "win_pct": 33.3,
       "meetings": 3,
       "playoff_meetings": 0,
       "last": "2026 wk 1: 124.42–143.16 L",
-      "current": true
-    },
-    {
-      "opponent": "Joseph Calaway",
-      "record": "3-0",
-      "win_pct": 100.0,
-      "meetings": 3,
-      "playoff_meetings": 0,
-      "last": "2025 wk 17: 102.90–76.00 W",
       "current": true
     },
     {
@@ -204,14 +204,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 7,
+    "through_week": 8,
     "division": "League Standings",
-    "record": "4-3",
-    "rank": 5,
+    "record": "5-3",
+    "rank": 4,
     "power_rank": 3,
-    "power_change": 3,
-    "playoff_pct": 71.5,
-    "pf": "782.36",
+    "power_change": 0,
+    "playoff_pct": 79.7,
+    "pf": "898.62",
     "weeks": [
       {
         "week": 1,
@@ -282,17 +282,48 @@
         "projected": "123.69",
         "bench": "6.70",
         "bar": 64
+      },
+      {
+        "week": 8,
+        "result": "W",
+        "score": "116.26",
+        "opp": "Joseph Calaway",
+        "opp_score": "102.96",
+        "projected": "124.79",
+        "bench": "5.20",
+        "bar": 58
       }
     ],
     "luck": {
-      "all_play_record": "26-37",
-      "expected_wins": 2.89,
-      "luck": 1.11,
-      "points_against_vs_league_avg": -57.58,
+      "all_play_record": "31-41",
+      "expected_wins": 3.44,
+      "luck": 1.56,
+      "points_against_vs_league_avg": -69.52,
       "wins_below_median": 2,
       "losses_above_median": 1
     },
     "moves": [
+      {
+        "week": 9,
+        "date": "11/4",
+        "added": [
+          {
+            "name": "Dominic Zvada",
+            "pos": "K",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Tyler Loop",
+            "pos": "K",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "0.00"
+      },
       {
         "week": 8,
         "date": "10/29",
@@ -300,7 +331,7 @@
           {
             "name": "Caleb Douglas",
             "pos": "WR",
-            "since": "0.00",
+            "since": "8.30",
             "started": "0.00"
           }
         ],
@@ -312,7 +343,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "0.00"
+        "net": "8.30"
       },
       {
         "week": 7,
@@ -329,11 +360,11 @@
           {
             "name": "Jaguars D/ST",
             "pos": "D/ST",
-            "since": "0.00",
+            "since": "21.00",
             "now_on": "john's Scary Team"
           }
         ],
-        "net": "0.00"
+        "net": "-21.00"
       },
       {
         "week": 6,
@@ -342,19 +373,19 @@
           {
             "name": "Tyler Loop",
             "pos": "K",
-            "since": "10.00",
-            "started": "10.00"
+            "since": "13.00",
+            "started": "13.00"
           }
         ],
         "dropped": [
           {
             "name": "Cairo Santos",
             "pos": "K",
-            "since": "22.00",
+            "since": "33.00",
             "now_on": "Free agent"
           }
         ],
-        "net": "-12.00"
+        "net": "-20.00"
       },
       {
         "week": 5,
@@ -363,7 +394,7 @@
           {
             "name": "Jaguars D/ST",
             "pos": "D/ST",
-            "since": "2.00",
+            "since": "23.00",
             "started": "4.00"
           }
         ],
@@ -378,7 +409,7 @@
           {
             "name": "Kalif Raymond",
             "pos": "WR",
-            "since": "7.20",
+            "since": "14.50",
             "now_on": "Free agent"
           }
         ],
@@ -391,7 +422,7 @@
           {
             "name": "Kalif Raymond",
             "pos": "WR",
-            "since": "9.80",
+            "since": "17.10",
             "started": "2.60"
           }
         ],
@@ -405,19 +436,19 @@
           {
             "name": "Zach Charbonnet",
             "pos": "RB",
-            "since": "0.00",
-            "started": "0.00"
+            "since": "5.90",
+            "started": "5.90"
           }
         ],
         "dropped": [
           {
             "name": "Kalif Raymond",
             "pos": "WR",
-            "since": "9.80",
+            "since": "17.10",
             "now_on": "Free agent"
           }
         ],
-        "net": "-9.80"
+        "net": "-11.20"
       },
       {
         "week": 4,
@@ -426,7 +457,7 @@
           {
             "name": "Rome Odunze",
             "pos": "WR",
-            "since": "38.20",
+            "since": "50.90",
             "started": "0.00"
           }
         ],
@@ -434,11 +465,11 @@
           {
             "name": "KC Concepcion",
             "pos": "WR",
-            "since": "44.00",
-            "now_on": "Njigbas in Paris"
+            "since": "50.70",
+            "now_on": "Free agent"
           }
         ],
-        "net": "-5.80"
+        "net": "0.20"
       },
       {
         "week": 4,
@@ -455,11 +486,11 @@
           {
             "name": "J.K. Dobbins",
             "pos": "RB",
-            "since": "44.50",
+            "since": "45.80",
             "now_on": "Tiger's Wood"
           }
         ],
-        "net": "-44.50"
+        "net": "-45.80"
       },
       {
         "week": 4,
@@ -468,7 +499,7 @@
           {
             "name": "Kalif Raymond",
             "pos": "WR",
-            "since": "9.80",
+            "since": "17.10",
             "started": "2.60"
           }
         ],
@@ -496,8 +527,8 @@
           {
             "name": "Denzel Boston",
             "pos": "WR",
-            "since": "42.80",
-            "started": "8.20"
+            "since": "52.50",
+            "started": "17.90"
           }
         ],
         "dropped": [
@@ -508,7 +539,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "42.80"
+        "net": "52.50"
       },
       {
         "week": 2,
@@ -517,7 +548,7 @@
           {
             "name": "KC Concepcion",
             "pos": "WR",
-            "since": "55.10",
+            "since": "61.80",
             "started": "0.00"
           }
         ],
@@ -525,11 +556,11 @@
           {
             "name": "Makai Lemon",
             "pos": "WR",
-            "since": "47.40",
+            "since": "59.10",
             "now_on": "Free agent"
           }
         ],
-        "net": "7.70"
+        "net": "2.70"
       },
       {
         "week": 2,
@@ -538,7 +569,7 @@
           {
             "name": "Cairo Santos",
             "pos": "K",
-            "since": "47.00",
+            "since": "58.00",
             "started": "25.00"
           }
         ],
@@ -568,8 +599,8 @@
         "player": "De'Von Achane",
         "pos": "RB",
         "points": "24.60",
-        "rank": "RB5 → RB41",
-        "value": -36,
+        "rank": "RB5 → RB42",
+        "value": -37,
         "kept": false
       },
       {
@@ -577,9 +608,9 @@
         "overall": 12,
         "player": "Justin Jefferson",
         "pos": "WR",
-        "points": "72.10",
-        "rank": "WR6 → WR25",
-        "value": -19,
+        "points": "86.40",
+        "rank": "WR6 → WR22",
+        "value": -16,
         "kept": true
       },
       {
@@ -587,7 +618,7 @@
         "overall": 29,
         "player": "Trey McBride",
         "pos": "TE",
-        "points": "130.20",
+        "points": "150.40",
         "rank": "TE2 → TE1",
         "value": 1,
         "kept": true
@@ -597,9 +628,9 @@
         "overall": 32,
         "player": "Kyren Williams",
         "pos": "RB",
-        "points": "137.10",
-        "rank": "RB16 → RB6",
-        "value": 10,
+        "points": "150.00",
+        "rank": "RB16 → RB5",
+        "value": 11,
         "kept": true
       },
       {
@@ -607,9 +638,9 @@
         "overall": 49,
         "player": "Jaylen Waddle",
         "pos": "WR",
-        "points": "63.90",
-        "rank": "WR20 → WR29",
-        "value": -9,
+        "points": "78.80",
+        "rank": "WR20 → WR24",
+        "value": -4,
         "kept": true
       },
       {
@@ -617,7 +648,7 @@
         "overall": 52,
         "player": "Drake Maye",
         "pos": "QB",
-        "points": "138.46",
+        "points": "160.92",
         "rank": "QB4 → QB3",
         "value": 1,
         "kept": true
@@ -628,8 +659,8 @@
         "player": "TreVeyon Henderson",
         "pos": "RB",
         "points": "33.80",
-        "rank": "RB27 → RB37",
-        "value": -10,
+        "rank": "RB27 → RB40",
+        "value": -13,
         "kept": true
       },
       {
@@ -638,8 +669,8 @@
         "player": "Carnell Tate",
         "pos": "WR",
         "points": "77.30",
-        "rank": "WR28 → WR22",
-        "value": 6,
+        "rank": "WR28 → WR26",
+        "value": 2,
         "kept": true
       },
       {
@@ -647,9 +678,9 @@
         "overall": 89,
         "player": "Seahawks D/ST",
         "pos": "D/ST",
-        "points": "66.00",
-        "rank": "D/ST3 → D/ST1",
-        "value": 2,
+        "points": "67.00",
+        "rank": "D/ST3 → D/ST2",
+        "value": 1,
         "kept": true
       },
       {
@@ -657,9 +688,9 @@
         "overall": 92,
         "player": "Makai Lemon",
         "pos": "WR",
-        "points": "49.90",
-        "rank": "WR39 → WR39",
-        "value": 0,
+        "points": "61.60",
+        "rank": "WR39 → WR35",
+        "value": 4,
         "kept": false
       },
       {
@@ -667,9 +698,9 @@
         "overall": 109,
         "player": "J.K. Dobbins",
         "pos": "RB",
-        "points": "58.00",
-        "rank": "RB34 → RB27",
-        "value": 7,
+        "points": "59.30",
+        "rank": "RB34 → RB29",
+        "value": 5,
         "kept": false
       },
       {
@@ -677,9 +708,9 @@
         "overall": 112,
         "player": "Michael Wilson",
         "pos": "WR",
-        "points": "81.88",
-        "rank": "WR44 → WR21",
-        "value": 23,
+        "points": "108.68",
+        "rank": "WR44 → WR16",
+        "value": 28,
         "kept": true
       },
       {
@@ -718,23 +749,44 @@
         "player": "Tyler Shough",
         "pos": "QB",
         "points": "125.94",
-        "rank": "QB19 → QB7",
-        "value": 12,
+        "rank": "QB19 → QB9",
+        "value": 10,
         "kept": true
       }
     ],
     "injuries": [
       {
-        "name": "Zach Charbonnet",
+        "name": "RJ Harvey",
+        "pos": "RB",
+        "status": "Injury Reserve",
+        "missed": 1,
+        "storylines": [
+          "on_ir",
+          "still_out",
+          "newly_injured"
+        ]
+      },
+      {
+        "name": "TreVeyon Henderson",
         "pos": "RB",
         "status": "Questionable",
-        "missed": 7,
+        "missed": 1,
         "storylines": [
-          "returning"
+          "returning",
+          "newly_injured"
         ]
       },
       {
         "name": "Carnell Tate",
+        "pos": "WR",
+        "status": "Out",
+        "missed": 1,
+        "storylines": [
+          "still_out"
+        ]
+      },
+      {
+        "name": "Denzel Boston",
         "pos": "WR",
         "status": "Questionable",
         "missed": 0,
@@ -744,15 +796,6 @@
       },
       {
         "name": "Michael Wilson",
-        "pos": "WR",
-        "status": "Questionable",
-        "missed": 0,
-        "storylines": [
-          "newly_injured"
-        ]
-      },
-      {
-        "name": "Jaylen Waddle",
         "pos": "WR",
         "status": "Questionable",
         "missed": 0,
