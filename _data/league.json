@@ -1,28 +1,14 @@
 {
   "managers": [
     {
-      "name": "Camilo Gelvez",
-      "slug": "camilo-gelvez",
-      "current": true,
-      "team": "GilberTeam",
-      "years": "2025–now",
-      "seasons": 2,
-      "record": "14-8",
-      "win_pct": 63.6,
-      "titles": 1,
-      "title_years": [
-        2025
-      ]
-    },
-    {
       "name": "John Matheson",
       "slug": "john-matheson",
       "current": true,
       "team": "john's Scary Team",
       "years": "2026–now",
       "seasons": 1,
-      "record": "5-3",
-      "win_pct": 62.5,
+      "record": "6-3",
+      "win_pct": 66.7,
       "titles": 0,
       "title_years": []
     },
@@ -33,8 +19,8 @@
       "team": "Njigbas in Paris",
       "years": "2026–now",
       "seasons": 1,
-      "record": "5-3",
-      "win_pct": 62.5,
+      "record": "6-3",
+      "win_pct": 66.7,
       "titles": 0,
       "title_years": []
     },
@@ -45,8 +31,34 @@
       "team": "Mayeday",
       "years": "2025–now",
       "seasons": 2,
-      "record": "13-9",
-      "win_pct": 59.1,
+      "record": "14-9",
+      "win_pct": 60.9,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Camilo Gelvez",
+      "slug": "camilo-gelvez",
+      "current": true,
+      "team": "GilberTeam",
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "14-9",
+      "win_pct": 60.9,
+      "titles": 1,
+      "title_years": [
+        2025
+      ]
+    },
+    {
+      "name": "Kevin Mangus",
+      "slug": "kevin-mangus",
+      "current": true,
+      "team": "Tiger's Wood",
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "13-10",
+      "win_pct": 56.5,
       "titles": 0,
       "title_years": []
     },
@@ -57,20 +69,8 @@
       "team": "Sleeper Cells",
       "years": "2025–now",
       "seasons": 2,
-      "record": "12-10",
-      "win_pct": 54.5,
-      "titles": 0,
-      "title_years": []
-    },
-    {
-      "name": "Kevin Mangus",
-      "slug": "kevin-mangus",
-      "current": true,
-      "team": "Tiger's Wood",
-      "years": "2025–now",
-      "seasons": 2,
-      "record": "12-10",
-      "win_pct": 54.5,
+      "record": "12-11",
+      "win_pct": 52.2,
       "titles": 0,
       "title_years": []
     },
@@ -81,8 +81,8 @@
       "team": "George Droyd",
       "years": "2025–now",
       "seasons": 2,
-      "record": "12-10",
-      "win_pct": 54.5,
+      "record": "12-11",
+      "win_pct": 52.2,
       "titles": 0,
       "title_years": []
     },
@@ -93,20 +93,8 @@
       "team": "Don't call me Louis!",
       "years": "2025–now",
       "seasons": 2,
-      "record": "8-14",
-      "win_pct": 36.4,
-      "titles": 0,
-      "title_years": []
-    },
-    {
-      "name": "Andy Saliba",
-      "slug": "andy-saliba",
-      "current": true,
-      "team": "Marino",
-      "years": "2025–now",
-      "seasons": 2,
-      "record": "8-14",
-      "win_pct": 36.4,
+      "record": "8-15",
+      "win_pct": 34.8,
       "titles": 0,
       "title_years": []
     },
@@ -117,8 +105,20 @@
       "team": "CmartDaDart",
       "years": "2025–now",
       "seasons": 2,
-      "record": "7-15",
-      "win_pct": 31.8,
+      "record": "8-15",
+      "win_pct": 34.8,
+      "titles": 0,
+      "title_years": []
+    },
+    {
+      "name": "Andy Saliba",
+      "slug": "andy-saliba",
+      "current": true,
+      "team": "Marino",
+      "years": "2025–now",
+      "seasons": 2,
+      "record": "8-15",
+      "win_pct": 34.8,
       "titles": 0,
       "title_years": []
     },

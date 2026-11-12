@@ -10,17 +10,17 @@
   "runner_ups": [],
   "playoff_appearances": 0,
   "career": {
-    "record": "7-15",
-    "win_pct": 31.8,
+    "record": "8-15",
+    "win_pct": 34.8,
     "playoff_record": "0-0",
-    "ppg": "119.56"
+    "ppg": "120.15"
   },
   "seasons": [
     {
       "year": 2026,
-      "record": "4-4",
-      "pf": "978.56",
-      "ppg": "122.32",
+      "record": "5-4",
+      "pf": "1111.62",
+      "ppg": "123.51",
       "finish": "In progress"
     },
     {
@@ -69,6 +69,15 @@
       "current": true
     },
     {
+      "opponent": "Camilo Gelvez",
+      "record": "1-1",
+      "win_pct": 50.0,
+      "meetings": 2,
+      "playoff_meetings": 0,
+      "last": "2026 wk 9: 133.06–119.46 W",
+      "current": true
+    },
+    {
       "opponent": "Collin Gibbs",
       "record": "0-2",
       "win_pct": 0.0,
@@ -84,15 +93,6 @@
       "meetings": 2,
       "playoff_meetings": 0,
       "last": "2026 wk 3: 125.24–111.28 W",
-      "current": true
-    },
-    {
-      "opponent": "Camilo Gelvez",
-      "record": "0-1",
-      "win_pct": 0.0,
-      "meetings": 1,
-      "playoff_meetings": 0,
-      "last": "2025 wk 5: 133.58–148.12 L",
       "current": true
     },
     {
@@ -204,14 +204,14 @@
   },
   "season": {
     "year": 2026,
-    "through_week": 8,
+    "through_week": 9,
     "division": "League Standings",
-    "record": "4-4",
+    "record": "5-4",
     "rank": 5,
     "power_rank": 6,
-    "power_change": -1,
-    "playoff_pct": 58.9,
-    "pf": "978.56",
+    "power_change": 0,
+    "playoff_pct": 78.6,
+    "pf": "1111.62",
     "weeks": [
       {
         "week": 1,
@@ -292,17 +292,48 @@
         "projected": "127.47",
         "bench": "33.90",
         "bar": 53
+      },
+      {
+        "week": 9,
+        "result": "W",
+        "score": "133.06",
+        "opp": "Camilo Gelvez",
+        "opp_score": "119.46",
+        "projected": "123.43",
+        "bench": "9.10",
+        "bar": 67
       }
     ],
     "luck": {
-      "all_play_record": "37-34-1",
-      "expected_wins": 4.17,
-      "luck": -0.17,
-      "points_against_vs_league_avg": 57.8,
+      "all_play_record": "45-35-1",
+      "expected_wins": 5.06,
+      "luck": -0.06,
+      "points_against_vs_league_avg": 58.38,
       "wins_below_median": 0,
       "losses_above_median": 1
     },
     "moves": [
+      {
+        "week": 10,
+        "date": "11/12",
+        "added": [
+          {
+            "name": "Jaguars D/ST",
+            "pos": "D/ST",
+            "since": "0.00",
+            "started": "0.00"
+          }
+        ],
+        "dropped": [
+          {
+            "name": "Patriots D/ST",
+            "pos": "D/ST",
+            "since": "0.00",
+            "now_on": "Free agent"
+          }
+        ],
+        "net": "0.00"
+      },
       {
         "week": 9,
         "date": "11/4",
@@ -331,7 +362,7 @@
           {
             "name": "Marvin Harrison Jr.",
             "pos": "WR",
-            "since": "7.60",
+            "since": "11.60",
             "started": "7.60"
           }
         ],
@@ -339,11 +370,11 @@
           {
             "name": "Juwan Johnson",
             "pos": "TE",
-            "since": "1.70",
+            "since": "13.10",
             "now_on": "Free agent"
           }
         ],
-        "net": "5.90"
+        "net": "-1.50"
       },
       {
         "week": 7,
@@ -352,8 +383,8 @@
           {
             "name": "Tyler Allgeier",
             "pos": "RB",
-            "since": "44.00",
-            "started": "7.90"
+            "since": "50.60",
+            "started": "14.50"
           }
         ],
         "dropped": [
@@ -364,7 +395,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "32.20"
+        "net": "38.80"
       },
       {
         "week": 7,
@@ -492,7 +523,7 @@
           {
             "name": "Juwan Johnson",
             "pos": "TE",
-            "since": "1.70",
+            "since": "13.10",
             "started": "0.00"
           }
         ],
@@ -506,8 +537,8 @@
           {
             "name": "C.J. Stroud",
             "pos": "QB",
-            "since": "60.44",
-            "started": "37.46"
+            "since": "95.80",
+            "started": "72.82"
           }
         ],
         "dropped": [
@@ -518,7 +549,7 @@
             "now_on": "Free agent"
           }
         ],
-        "net": "9.40"
+        "net": "44.76"
       },
       {
         "week": 5,
@@ -576,19 +607,19 @@
           {
             "name": "Evan McPherson",
             "pos": "K",
-            "since": "33.00",
-            "started": "33.00"
+            "since": "46.00",
+            "started": "46.00"
           }
         ],
         "dropped": [
           {
             "name": "Jake Bates",
             "pos": "K",
-            "since": "50.00",
-            "now_on": "Free agent"
+            "since": "65.00",
+            "now_on": "john's Scary Team"
           }
         ],
-        "net": "-17.00"
+        "net": "-19.00"
       },
       {
         "week": 3,
@@ -597,7 +628,7 @@
           {
             "name": "Bryce Young",
             "pos": "QB",
-            "since": "70.72",
+            "since": "91.06",
             "started": "65.30"
           }
         ],
@@ -605,11 +636,11 @@
           {
             "name": "Travis Hunter",
             "pos": "WR",
-            "since": "18.30",
+            "since": "17.20",
             "now_on": "Free agent"
           }
         ],
-        "net": "52.42"
+        "net": "73.86"
       }
     ],
     "trades": [],
@@ -619,7 +650,7 @@
         "overall": 10,
         "player": "CeeDee Lamb",
         "pos": "WR",
-        "points": "168.30",
+        "points": "201.80",
         "rank": "WR5 → WR2",
         "value": 3,
         "kept": true
@@ -629,9 +660,9 @@
         "overall": 11,
         "player": "James Cook III",
         "pos": "RB",
-        "points": "131.70",
-        "rank": "RB6 → RB13",
-        "value": -7,
+        "points": "148.40",
+        "rank": "RB6 → RB10",
+        "value": -4,
         "kept": true
       },
       {
@@ -639,7 +670,7 @@
         "overall": 30,
         "player": "Tyler Warren",
         "pos": "TE",
-        "points": "75.70",
+        "points": "84.10",
         "rank": "TE3 → TE11",
         "value": -8,
         "kept": true
@@ -650,8 +681,8 @@
         "player": "Jeremiyah Love",
         "pos": "RB",
         "points": "53.40",
-        "rank": "RB15 → RB30",
-        "value": -15,
+        "rank": "RB15 → RB34",
+        "value": -19,
         "kept": true
       },
       {
@@ -659,9 +690,9 @@
         "overall": 50,
         "player": "Tetairoa McMillan",
         "pos": "WR",
-        "points": "108.90",
-        "rank": "WR21 → WR15",
-        "value": 6,
+        "points": "124.50",
+        "rank": "WR21 → WR13",
+        "value": 8,
         "kept": true
       },
       {
@@ -670,8 +701,8 @@
         "player": "Davante Adams",
         "pos": "WR",
         "points": "102.00",
-        "rank": "WR22 → WR18",
-        "value": 4,
+        "rank": "WR22 → WR20",
+        "value": 2,
         "kept": true
       },
       {
@@ -689,7 +720,7 @@
         "overall": 71,
         "player": "Bhayshul Tuten",
         "pos": "RB",
-        "points": "118.30",
+        "points": "127.20",
         "rank": "RB28 → RB15",
         "value": 13,
         "kept": true
@@ -709,9 +740,9 @@
         "overall": 91,
         "player": "Parker Washington",
         "pos": "WR",
-        "points": "95.50",
-        "rank": "WR38 → WR20",
-        "value": 18,
+        "points": "109.60",
+        "rank": "WR38 → WR17",
+        "value": 21,
         "kept": true
       },
       {
@@ -720,8 +751,8 @@
         "player": "Jonathon Brooks",
         "pos": "RB",
         "points": "9.30",
-        "rank": "RB35 → RB45",
-        "value": -10,
+        "rank": "RB35 → RB46",
+        "value": -11,
         "kept": false
       },
       {
@@ -729,9 +760,9 @@
         "overall": 111,
         "player": "Dallas Goedert",
         "pos": "TE",
-        "points": "64.00",
-        "rank": "TE12 → TE15",
-        "value": -3,
+        "points": "74.00",
+        "rank": "TE12 → TE14",
+        "value": -2,
         "kept": true
       },
       {
@@ -739,7 +770,7 @@
         "overall": 130,
         "player": "Travis Hunter",
         "pos": "WR",
-        "points": "20.40",
+        "points": "19.30",
         "rank": "WR50 → WR49",
         "value": 1,
         "kept": false
@@ -749,9 +780,9 @@
         "overall": 131,
         "player": "Khalil Shakir",
         "pos": "WR",
-        "points": "66.40",
-        "rank": "WR51 → WR33",
-        "value": 18,
+        "points": "76.20",
+        "rank": "WR51 → WR31",
+        "value": 20,
         "kept": true
       },
       {
@@ -759,19 +790,19 @@
         "overall": 150,
         "player": "Patriots D/ST",
         "pos": "D/ST",
-        "points": "51.00",
-        "rank": "D/ST11 → D/ST4",
-        "value": 7,
-        "kept": true
+        "points": "46.00",
+        "rank": "D/ST11 → D/ST7",
+        "value": 4,
+        "kept": false
       },
       {
         "round": 16,
         "overall": 151,
         "player": "Jake Bates",
         "pos": "K",
-        "points": "64.00",
-        "rank": "K8 → K6",
-        "value": 2,
+        "points": "79.00",
+        "rank": "K8 → K5",
+        "value": 3,
         "kept": false
       }
     ],
@@ -780,7 +811,7 @@
         "name": "Davante Adams",
         "pos": "WR",
         "status": "Injury Reserve",
-        "missed": 2,
+        "missed": 3,
         "storylines": [
           "on_ir",
           "still_out"
@@ -790,10 +821,19 @@
         "name": "Jeremiyah Love",
         "pos": "RB",
         "status": "Injury Reserve",
-        "missed": 0,
+        "missed": 1,
         "storylines": [
           "on_ir",
-          "returned"
+          "still_out"
+        ]
+      },
+      {
+        "name": "Marvin Harrison Jr.",
+        "pos": "WR",
+        "status": "Questionable",
+        "missed": 0,
+        "storylines": [
+          "newly_injured"
         ]
       },
       {
@@ -801,9 +841,7 @@
         "pos": "RB",
         "status": "Questionable",
         "missed": 0,
-        "storylines": [
-          "newly_injured"
-        ]
+        "storylines": []
       }
     ]
   }
